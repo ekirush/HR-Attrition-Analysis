@@ -1,0 +1,1471 @@
+Age,Department,DistanceFromHome,Education,EducationField,EmployeeCount,EnvironmentSatisfaction,Gender,JobInvolvement,JobRole,JobSatisfaction,MonthlyIncome,PerformanceRating,RelationshipSatisfaction,WorkLifeBalance,Attrition,AgeGroup
+41,Sales,1,College,Life Sciences,1,Medium,Female,High,Sales Executive,Very High,5993,Excellent,Low,Bad,Yes,36-45
+49,Research & Development,8,Below College,Life Sciences,1,High,Male,Medium,Research Scientist,Medium,5130,Outstanding,Very High,Better,No,46-55
+37,Research & Development,2,College,Other,1,High,Male,Medium,Laboratory Technician,High,2090,Excellent,Medium,Better,Yes,36-45
+33,Research & Development,3,Master,Life Sciences,1,High,Female,High,Research Scientist,High,2909,Excellent,High,Better,No,26-35
+27,Research & Development,2,Below College,Medical,1,Low,Male,High,Laboratory Technician,Medium,3468,Excellent,Very High,Better,No,26-35
+32,Research & Development,2,College,Life Sciences,1,High,Male,High,Laboratory Technician,Very High,3068,Excellent,High,Good,No,26-35
+59,Research & Development,3,Bachelor,Medical,1,High,Female,Very High,Laboratory Technician,Low,2670,Outstanding,Low,Good,No,56-65
+30,Research & Development,24,Below College,Life Sciences,1,High,Male,High,Laboratory Technician,High,2693,Outstanding,Medium,Better,No,26-35
+38,Research & Development,23,Bachelor,Life Sciences,1,High,Male,Medium,Manufacturing Director,High,9526,Outstanding,Medium,Better,No,36-45
+36,Research & Development,27,Bachelor,Medical,1,High,Male,High,Healthcare Representative,High,5237,Excellent,Medium,Good,No,36-45
+35,Research & Development,16,Bachelor,Medical,1,Low,Male,Very High,Laboratory Technician,Medium,2426,Excellent,High,Better,No,36-45
+29,Research & Development,15,College,Life Sciences,1,High,Female,Medium,Laboratory Technician,High,4193,Excellent,Very High,Better,No,26-35
+31,Research & Development,26,Below College,Life Sciences,1,Low,Male,High,Research Scientist,High,2911,Excellent,Very High,Good,No,26-35
+34,Research & Development,19,College,Medical,1,Medium,Male,High,Laboratory Technician,Very High,2661,Excellent,High,Better,No,26-35
+28,Research & Development,24,Bachelor,Life Sciences,1,High,Male,Medium,Laboratory Technician,High,2028,Excellent,Medium,Better,Yes,26-35
+29,Research & Development,21,Master,Life Sciences,1,Medium,Female,Very High,Manufacturing Director,Low,9980,Excellent,High,Better,No,26-35
+32,Research & Development,5,College,Life Sciences,1,Low,Male,Very High,Research Scientist,Medium,3298,Excellent,Very High,Good,No,26-35
+22,Research & Development,16,College,Medical,1,High,Male,Very High,Laboratory Technician,Very High,2935,Excellent,Medium,Good,No,18-25
+53,Sales,2,Master,Life Sciences,1,Low,Female,Medium,Manager,Very High,15427,Excellent,High,Better,No,46-55
+38,Research & Development,2,Bachelor,Life Sciences,1,High,Male,High,Research Scientist,Very High,3944,Excellent,High,Better,No,36-45
+24,Research & Development,11,College,Other,1,Low,Female,Very High,Manufacturing Director,High,4011,Excellent,Very High,Good,No,18-25
+36,Sales,9,Master,Life Sciences,1,High,Male,Medium,Sales Representative,Low,3407,Outstanding,Medium,Better,Yes,36-45
+34,Research & Development,7,Master,Life Sciences,1,Low,Female,High,Research Director,Medium,11994,Excellent,High,Better,No,26-35
+21,Research & Development,15,College,Life Sciences,1,High,Male,High,Research Scientist,Very High,1232,Excellent,Very High,Better,No,18-25
+34,Research & Development,6,Below College,Medical,1,Medium,Male,High,Research Scientist,Low,2960,Excellent,High,Better,Yes,26-35
+53,Research & Development,5,Bachelor,Other,1,High,Female,High,Manager,High,19094,Excellent,Very High,Good,No,46-55
+32,Research & Development,16,Below College,Life Sciences,1,Medium,Female,Low,Research Scientist,Low,3919,Outstanding,Medium,Better,Yes,26-35
+42,Sales,8,Master,Marketing,1,High,Male,High,Sales Executive,Medium,6825,Excellent,Very High,Better,No,36-45
+44,Research & Development,7,Master,Medical,1,Low,Female,Medium,Healthcare Representative,Very High,10248,Excellent,Very High,Better,No,36-45
+46,Sales,2,Master,Marketing,1,Medium,Female,High,Manager,Low,18947,Excellent,Very High,Good,No,46-55
+33,Research & Development,2,Bachelor,Medical,1,High,Male,High,Laboratory Technician,Very High,2496,Excellent,Very High,Better,No,26-35
+44,Research & Development,10,Master,Other,1,High,Male,High,Healthcare Representative,Very High,6465,Excellent,Very High,Best,No,36-45
+30,Research & Development,9,College,Medical,1,High,Male,Medium,Laboratory Technician,High,2206,Excellent,Low,Better,No,26-35
+39,Sales,5,Bachelor,Technical Degree,1,High,Male,High,Sales Representative,Very High,2086,Excellent,High,Best,Yes,36-45
+24,Research & Development,1,Bachelor,Medical,1,Medium,Male,High,Research Scientist,Very High,2293,Excellent,Low,Good,Yes,18-25
+43,Research & Development,2,College,Medical,1,High,Female,Very High,Research Scientist,High,2645,Excellent,Very High,Good,No,36-45
+50,Sales,3,College,Marketing,1,Low,Male,Medium,Sales Representative,High,2683,Excellent,High,Better,Yes,46-55
+35,Sales,2,Bachelor,Marketing,1,High,Female,High,Sales Representative,Very High,2014,Excellent,Low,Better,No,36-45
+36,Research & Development,5,Master,Life Sciences,1,Medium,Female,Medium,Research Scientist,Low,3419,Excellent,Very High,Best,No,36-45
+33,Sales,1,Bachelor,Life Sciences,1,High,Female,Very High,Sales Executive,Low,5376,Excellent,Low,Better,No,26-35
+35,Research & Development,4,College,Other,1,High,Male,High,Laboratory Technician,Very High,1951,Excellent,High,Better,No,36-45
+27,Research & Development,2,Master,Life Sciences,1,High,Female,High,Laboratory Technician,Low,2341,Excellent,Very High,Better,No,26-35
+26,Research & Development,25,Bachelor,Life Sciences,1,Low,Male,Low,Laboratory Technician,High,2293,Excellent,High,Good,Yes,26-35
+27,Sales,8,Bachelor,Life Sciences,1,High,Male,High,Sales Executive,High,8726,Excellent,Very High,Better,No,26-35
+30,Research & Development,1,College,Medical,1,High,Female,High,Laboratory Technician,Very High,4011,Outstanding,Very High,Better,No,26-35
+41,Research & Development,12,Bachelor,Technical Degree,1,Medium,Female,High,Research Director,High,19545,Excellent,Very High,Better,Yes,36-45
+34,Sales,23,Master,Marketing,1,Medium,Male,High,Sales Executive,High,4568,Outstanding,High,Better,No,26-35
+37,Research & Development,19,College,Life Sciences,1,Medium,Male,High,Research Scientist,Medium,3022,Outstanding,Low,Better,No,36-45
+46,Sales,5,Master,Marketing,1,Low,Male,High,Sales Executive,Very High,5772,Outstanding,High,Better,No,46-55
+35,Research & Development,8,Below College,Life Sciences,1,High,Male,Very High,Laboratory Technician,Very High,2269,Excellent,Very High,Better,No,36-45
+48,Research & Development,1,College,Life Sciences,1,Low,Male,Medium,Laboratory Technician,High,5381,Excellent,Very High,Better,Yes,46-55
+28,Research & Development,5,Master,Technical Degree,1,High,Male,High,Laboratory Technician,High,3441,Excellent,High,Good,Yes,26-35
+44,Sales,1,Doctor,Marketing,1,Medium,Female,High,Sales Executive,Low,5454,Outstanding,High,Good,No,36-45
+35,Research & Development,11,College,Medical,1,High,Male,Medium,Healthcare Representative,Low,9884,Excellent,High,Better,No,36-45
+26,Sales,23,Bachelor,Marketing,1,High,Female,Medium,Sales Executive,Very High,4157,Excellent,High,Good,No,26-35
+33,Research & Development,1,College,Life Sciences,1,Low,Female,High,Research Director,Very High,13458,Excellent,High,Better,No,26-35
+35,Sales,18,Doctor,Life Sciences,1,Medium,Male,High,Sales Executive,Low,9069,Outstanding,Very High,Good,No,36-45
+35,Research & Development,23,Master,Medical,1,High,Female,High,Laboratory Technician,Low,4014,Excellent,High,Better,No,36-45
+31,Research & Development,7,Master,Life Sciences,1,High,Male,High,Laboratory Technician,Very High,5915,Outstanding,Very High,Good,No,26-35
+37,Research & Development,1,Master,Life Sciences,1,Low,Male,Medium,Manufacturing Director,High,5993,Excellent,High,Best,No,36-45
+32,Research & Development,1,Bachelor,Medical,1,Low,Male,High,Manufacturing Director,Very High,6162,Outstanding,Medium,Better,No,26-35
+38,Research & Development,29,Doctor,Life Sciences,1,High,Female,High,Laboratory Technician,Very High,2406,Excellent,Very High,Better,No,36-45
+50,Research & Development,7,College,Medical,1,Medium,Female,Medium,Research Director,High,18740,Excellent,Very High,Good,No,46-55
+59,Sales,25,Bachelor,Life Sciences,1,Low,Female,High,Sales Executive,Low,7637,Excellent,Very High,Good,No,56-65
+36,Research & Development,8,Bachelor,Technical Degree,1,High,Female,High,Healthcare Representative,High,10096,Excellent,Medium,Better,No,36-45
+55,Research & Development,8,Bachelor,Medical,1,High,Female,High,Manager,High,14756,Excellent,High,Better,No,56-65
+36,Research & Development,11,Bachelor,Life Sciences,1,Medium,Male,Medium,Manufacturing Director,Medium,6499,Excellent,High,Better,No,36-45
+45,Research & Development,7,Bachelor,Life Sciences,1,Medium,Male,High,Research Scientist,Low,9724,Excellent,High,Better,No,46-55
+35,Research & Development,1,Bachelor,Medical,1,Medium,Male,High,Research Scientist,Low,2194,Excellent,Very High,Good,No,36-45
+36,Research & Development,9,Bachelor,Medical,1,High,Male,Medium,Research Scientist,High,3388,Excellent,Low,Good,Yes,36-45
+59,Sales,1,Below College,Life Sciences,1,Low,Female,Medium,Sales Executive,High,5473,Excellent,Very High,Good,No,56-65
+29,Research & Development,2,Bachelor,Life Sciences,1,High,Male,High,Research Scientist,Medium,2703,Outstanding,Very High,Better,No,26-35
+31,Research & Development,1,Master,Medical,1,High,Male,High,Research Scientist,Medium,2501,Excellent,Medium,Better,No,26-35
+32,Research & Development,1,Bachelor,Life Sciences,1,Medium,Male,High,Research Scientist,Medium,6220,Excellent,Medium,Better,No,26-35
+36,Research & Development,6,Bachelor,Life Sciences,1,Medium,Female,Very High,Laboratory Technician,Very High,3038,Excellent,Medium,Better,No,36-45
+31,Research & Development,8,Master,Life Sciences,1,High,Female,High,Manufacturing Director,Very High,4424,Outstanding,Very High,Better,No,26-35
+35,Sales,1,Master,Marketing,1,High,Male,Medium,Sales Executive,Low,4312,Excellent,Medium,Better,No,36-45
+45,Research & Development,6,Master,Other,1,High,Male,High,Research Director,Low,13245,Excellent,Medium,Best,No,46-55
+37,Research & Development,7,Master,Medical,1,Low,Male,High,Research Director,High,13664,Excellent,Low,Best,No,36-45
+46,Human Resources,5,College,Medical,1,Medium,Male,High,Human Resources,Medium,5021,Outstanding,Very High,Better,No,46-55
+30,Research & Development,1,Below College,Life Sciences,1,High,Male,Medium,Laboratory Technician,Very High,5126,Excellent,High,Good,No,26-35
+35,Research & Development,1,Bachelor,Medical,1,Medium,Male,Medium,Research Scientist,High,2859,Excellent,Low,Better,No,36-45
+55,Sales,1,College,Life Sciences,1,Low,Male,High,Sales Executive,Very High,10239,Excellent,Very High,Better,No,56-65
+38,Research & Development,6,Bachelor,Medical,1,Medium,Female,Low,Research Scientist,Very High,5329,Excellent,Very High,Better,No,36-45
+34,Research & Development,1,College,Medical,1,Low,Male,High,Manufacturing Director,Medium,4325,Excellent,High,Better,No,26-35
+56,Research & Development,7,Bachelor,Life Sciences,1,High,Male,Low,Manufacturing Director,Very High,7260,Excellent,Low,Good,No,56-65
+23,Sales,2,Below College,Technical Degree,1,High,Male,High,Sales Representative,Low,2322,Excellent,High,Better,No,18-25
+51,Research & Development,9,Master,Life Sciences,1,High,Male,High,Laboratory Technician,Very High,2075,Outstanding,Medium,Better,No,46-55
+30,Research & Development,2,Bachelor,Life Sciences,1,High,Male,Medium,Healthcare Representative,Very High,4152,Excellent,Low,Better,No,26-35
+46,Sales,9,College,Medical,1,High,Male,Medium,Sales Executive,Very High,9619,Excellent,Very High,Better,Yes,46-55
+40,Research & Development,1,Master,Life Sciences,1,High,Male,Medium,Healthcare Representative,Medium,13503,Outstanding,Very High,Good,No,36-45
+51,Sales,21,Master,Marketing,1,High,Male,High,Sales Executive,Very High,5441,Outstanding,Very High,Bad,No,46-55
+30,Sales,4,College,Medical,1,High,Female,Medium,Sales Executive,Medium,5209,Excellent,Medium,Good,No,26-35
+46,Research & Development,1,Bachelor,Medical,1,High,Male,Medium,Healthcare Representative,Low,10673,Excellent,High,Good,No,46-55
+32,Sales,6,Master,Medical,1,Medium,Male,High,Sales Executive,High,5010,Excellent,Low,Better,No,26-35
+54,Research & Development,2,Master,Technical Degree,1,Low,Female,High,Research Director,High,13549,Excellent,Low,Bad,No,46-55
+24,Sales,3,College,Other,1,Low,Female,High,Sales Executive,High,4999,Outstanding,Low,Good,No,18-25
+28,Sales,4,Bachelor,Medical,1,Medium,Male,High,Sales Executive,High,4221,Excellent,Medium,Best,No,26-35
+58,Sales,10,Master,Medical,1,High,Male,High,Sales Executive,High,13872,Excellent,High,Good,No,56-65
+44,Research & Development,23,Bachelor,Medical,1,Medium,Male,High,Laboratory Technician,Medium,2042,Excellent,High,Best,No,36-45
+37,Human Resources,6,Master,Human Resources,1,High,Male,High,Human Resources,Low,2073,Outstanding,Very High,Better,Yes,36-45
+32,Research & Development,1,Below College,Life Sciences,1,High,Male,High,Research Scientist,Low,2956,Excellent,Very High,Better,No,26-35
+20,Research & Development,6,Bachelor,Life Sciences,1,High,Female,Medium,Laboratory Technician,Very High,2926,Excellent,Medium,Better,Yes,18-25
+34,Research & Development,6,Master,Other,1,Low,Female,High,Research Scientist,High,4809,Excellent,High,Better,No,26-35
+37,Research & Development,2,College,Life Sciences,1,High,Male,Medium,Healthcare Representative,Very High,5163,Excellent,Very High,Best,No,36-45
+59,Human Resources,2,Master,Human Resources,1,High,Female,Medium,Manager,Very High,18844,Outstanding,Very High,Better,No,56-65
+50,Research & Development,1,Bachelor,Life Sciences,1,Low,Female,High,Research Director,Medium,18172,Excellent,Low,Good,No,46-55
+25,Sales,5,Bachelor,Marketing,1,High,Male,Medium,Sales Executive,High,5744,Excellent,Very High,Better,Yes,26-35
+25,Research & Development,7,Below College,Medical,1,High,Male,Medium,Research Scientist,Very High,2889,Excellent,High,Better,No,26-35
+22,Research & Development,15,Bachelor,Medical,1,Medium,Female,High,Laboratory Technician,Very High,2871,Excellent,High,Better,No,18-25
+51,Research & Development,1,Master,Medical,1,Low,Female,Medium,Healthcare Representative,Low,7484,Outstanding,High,Good,No,46-55
+34,Research & Development,7,Bachelor,Life Sciences,1,Low,Male,Low,Laboratory Technician,High,6074,Outstanding,Very High,Better,Yes,26-35
+54,Human Resources,26,Bachelor,Human Resources,1,High,Female,Very High,Manager,Very High,17328,Excellent,High,Better,No,46-55
+24,Research & Development,18,Below College,Life Sciences,1,Medium,Male,High,Laboratory Technician,High,2774,Excellent,High,Better,No,18-25
+34,Research & Development,6,Master,Life Sciences,1,High,Female,Medium,Research Scientist,Medium,4505,Excellent,High,Better,No,26-35
+37,Sales,3,Bachelor,Life Sciences,1,High,Male,High,Sales Executive,Very High,7428,Excellent,Low,Better,No,36-45
+34,Research & Development,5,Bachelor,Medical,1,High,Female,Medium,Manager,Low,11631,Excellent,Very High,Better,No,26-35
+36,Sales,11,College,Technical Degree,1,Medium,Female,High,Sales Executive,Very High,9738,Excellent,High,Better,No,36-45
+36,Research & Development,3,College,Life Sciences,1,Low,Female,High,Laboratory Technician,Very High,2835,Outstanding,Low,Better,No,36-45
+43,Sales,26,College,Life Sciences,1,High,Male,High,Manager,Very High,16959,Excellent,Very High,Best,No,36-45
+30,Research & Development,23,Bachelor,Life Sciences,1,Low,Male,Low,Research Scientist,High,2613,Outstanding,High,Good,No,26-35
+33,Sales,22,College,Marketing,1,High,Male,High,Sales Executive,Medium,6146,Excellent,Low,Best,No,26-35
+56,Research & Development,14,Master,Life Sciences,1,Medium,Female,High,Research Scientist,Medium,4963,Excellent,Low,Better,Yes,56-65
+51,Research & Development,6,Bachelor,Life Sciences,1,Low,Male,High,Research Director,High,19537,Excellent,High,Better,No,46-55
+31,Sales,6,Master,Life Sciences,1,Medium,Male,Low,Sales Executive,High,6172,Excellent,Medium,Good,Yes,26-35
+26,Research & Development,6,Bachelor,Other,1,High,Female,Medium,Research Scientist,Medium,2368,Excellent,High,Good,No,26-35
+58,Research & Development,23,Master,Medical,1,High,Female,High,Healthcare Representative,Very High,10312,Excellent,Very High,Good,Yes,56-65
+19,Sales,22,Below College,Marketing,1,High,Male,High,Sales Representative,High,1675,Excellent,Very High,Good,Yes,18-25
+22,Research & Development,2,Below College,Technical Degree,1,High,Male,High,Laboratory Technician,Very High,2523,Excellent,High,Better,No,18-25
+49,Research & Development,20,Master,Medical,1,High,Female,High,Manufacturing Director,Low,6567,Excellent,High,Good,No,46-55
+43,Research & Development,28,Bachelor,Medical,1,Medium,Female,Very High,Research Scientist,High,4739,Excellent,Very High,Better,No,36-45
+50,Sales,12,Bachelor,Marketing,1,High,Female,High,Sales Executive,Very High,9208,Excellent,Very High,Better,No,46-55
+31,Sales,20,Bachelor,Life Sciences,1,Medium,Female,Low,Sales Executive,High,4559,Excellent,High,Better,Yes,26-35
+41,Sales,9,Below College,Life Sciences,1,High,Male,High,Sales Executive,High,8189,Excellent,High,Better,No,36-45
+26,Human Resources,25,Below College,Life Sciences,1,High,Female,High,Human Resources,High,2942,Outstanding,Very High,Better,No,26-35
+36,Research & Development,6,College,Medical,1,Medium,Male,High,Manufacturing Director,Medium,4941,Outstanding,Very High,Better,No,36-45
+51,Research & Development,8,Master,Life Sciences,1,Low,Male,Low,Manufacturing Director,Very High,10650,Excellent,Very High,Better,Yes,46-55
+39,Sales,4,Master,Life Sciences,1,High,Female,Medium,Sales Executive,High,5902,Excellent,High,Best,No,36-45
+25,Sales,28,Bachelor,Life Sciences,1,Low,Male,Medium,Sales Executive,High,8639,Excellent,Very High,Better,No,26-35
+30,Human Resources,9,Bachelor,Human Resources,1,High,Male,High,Human Resources,Very High,6347,Excellent,Very High,Bad,No,26-35
+32,Research & Development,9,Bachelor,Medical,1,Low,Female,High,Laboratory Technician,Low,4200,Outstanding,Low,Best,Yes,26-35
+45,Research & Development,29,Bachelor,Medical,1,High,Male,High,Research Scientist,Very High,3452,Excellent,Medium,Good,No,46-55
+38,Research & Development,3,Doctor,Technical Degree,1,High,Female,High,Research Scientist,High,4317,Outstanding,Medium,Better,No,36-45
+30,Research & Development,18,Bachelor,Life Sciences,1,Low,Female,High,Research Scientist,High,2632,Excellent,High,Good,No,26-35
+32,Sales,9,College,Medical,1,High,Male,Low,Sales Executive,Very High,4668,Excellent,Very High,Best,No,26-35
+30,Research & Development,5,Bachelor,Technical Degree,1,High,Female,High,Research Scientist,Low,3204,Excellent,Very High,Better,No,26-35
+30,Research & Development,2,Below College,Medical,1,Medium,Male,Medium,Laboratory Technician,Very High,2720,Excellent,Very High,Better,No,26-35
+41,Research & Development,10,Bachelor,Life Sciences,1,High,Male,Medium,Manager,Low,17181,Excellent,Medium,Good,No,36-45
+41,Research & Development,9,Master,Life Sciences,1,High,Male,High,Laboratory Technician,Low,2238,Outstanding,Very High,Better,No,36-45
+19,Research & Development,3,Below College,Medical,1,Medium,Female,High,Laboratory Technician,Medium,1483,Excellent,Very High,Better,No,18-25
+40,Research & Development,26,Bachelor,Medical,1,Medium,Female,High,Research Scientist,Medium,5605,Excellent,Low,Better,No,36-45
+35,Sales,1,Doctor,Marketing,1,High,Male,High,Sales Executive,Medium,7295,Excellent,Low,Better,No,36-45
+53,Sales,6,College,Marketing,1,Medium,Male,High,Sales Representative,High,2306,Outstanding,Very High,Bad,No,46-55
+45,Research & Development,9,Bachelor,Life Sciences,1,Medium,Male,High,Laboratory Technician,Medium,2348,Excellent,High,Bad,No,46-55
+32,Sales,8,Bachelor,Marketing,1,Medium,Female,High,Sales Executive,Very High,8998,Excellent,Very High,Better,No,26-35
+29,Research & Development,1,Below College,Technical Degree,1,High,Male,High,Manufacturing Director,High,4319,Excellent,Low,Better,No,26-35
+51,Research & Development,7,Master,Medical,1,Medium,Male,Medium,Manufacturing Director,High,6132,Excellent,High,Better,No,46-55
+58,Research & Development,9,Bachelor,Medical,1,Medium,Female,Medium,Research Scientist,Medium,3346,Outstanding,Medium,Good,No,56-65
+40,Sales,4,Master,Marketing,1,High,Male,Medium,Sales Executive,Very High,10855,Excellent,Low,Good,No,36-45
+34,Sales,2,Master,Marketing,1,High,Female,High,Sales Representative,High,2231,Excellent,Very High,Better,No,26-35
+22,Research & Development,19,Below College,Medical,1,High,Male,High,Research Scientist,Very High,2323,Outstanding,Low,Better,No,18-25
+27,Research & Development,9,Bachelor,Medical,1,High,Male,High,Research Scientist,Medium,2024,Excellent,Very High,Bad,No,26-35
+28,Research & Development,21,Bachelor,Medical,1,High,Male,High,Research Scientist,Very High,2713,Excellent,High,Bad,No,26-35
+57,Research & Development,24,College,Life Sciences,1,High,Male,Very High,Healthcare Representative,Very High,9439,Excellent,Medium,Bad,No,56-65
+27,Research & Development,3,Bachelor,Medical,1,High,Male,Medium,Research Scientist,High,2566,Excellent,Very High,Good,No,26-35
+50,Research & Development,11,Bachelor,Life Sciences,1,High,Female,High,Manager,Medium,19926,Excellent,Medium,Better,No,46-55
+41,Research & Development,14,Bachelor,Life Sciences,1,Low,Male,High,Research Scientist,High,2451,Excellent,Low,Better,No,36-45
+30,Sales,5,Bachelor,Life Sciences,1,Medium,Female,High,Sales Executive,Very High,9419,Excellent,High,Better,No,26-35
+38,Sales,1,Master,Life Sciences,1,Low,Female,Medium,Sales Executive,Very High,8686,Outstanding,High,Best,No,36-45
+32,Research & Development,6,Doctor,Life Sciences,1,High,Male,High,Research Scientist,High,3038,Outstanding,Low,Better,No,26-35
+27,Research & Development,17,Bachelor,Technical Degree,1,High,Male,High,Research Scientist,Medium,3058,Excellent,Very High,Good,No,26-35
+19,Sales,1,Below College,Technical Degree,1,High,Female,Low,Sales Representative,Low,2325,Outstanding,Low,Best,Yes,18-25
+36,Research & Development,3,College,Medical,1,High,Male,High,Laboratory Technician,Medium,2088,Excellent,High,Good,No,36-45
+30,Research & Development,9,Bachelor,Medical,1,High,Male,High,Laboratory Technician,Low,3072,Excellent,High,Better,No,26-35
+45,Sales,4,College,Life Sciences,1,High,Female,High,Sales Executive,Low,5006,Excellent,Low,Best,No,46-55
+56,Research & Development,8,Bachelor,Life Sciences,1,High,Female,High,Research Scientist,Low,4257,Excellent,High,Better,No,56-65
+33,Research & Development,2,Bachelor,Life Sciences,1,High,Male,High,Research Scientist,Very High,2500,Excellent,Low,Best,No,26-35
+19,Research & Development,2,Bachelor,Life Sciences,1,Medium,Male,Medium,Laboratory Technician,Very High,1102,Outstanding,High,Good,Yes,18-25
+46,Sales,1,College,Marketing,1,Medium,Female,High,Sales Executive,Low,10453,Outstanding,High,Better,No,46-55
+38,Research & Development,9,College,Life Sciences,1,High,Female,High,Laboratory Technician,Very High,2288,Excellent,High,Better,No,36-45
+31,Research & Development,12,Below College,Medical,1,High,Female,High,Research Scientist,Very High,3929,Outstanding,High,Better,No,26-35
+34,Research & Development,27,College,Medical,1,High,Female,High,Research Scientist,Medium,2311,Excellent,Very High,Better,No,26-35
+41,Sales,20,College,Marketing,1,Medium,Female,High,Sales Representative,Medium,3140,Outstanding,Very High,Good,Yes,36-45
+50,Research & Development,1,Bachelor,Medical,1,High,Male,Medium,Laboratory Technician,High,3690,Excellent,Very High,Good,No,46-55
+53,Research & Development,13,College,Medical,1,High,Female,Very High,Manufacturing Director,Low,4450,Excellent,High,Better,No,46-55
+33,Research & Development,14,Bachelor,Medical,1,High,Female,High,Research Scientist,Medium,2756,Excellent,Very High,Better,No,26-35
+40,Research & Development,4,Below College,Medical,1,High,Female,High,Manager,High,19033,Excellent,Medium,Better,No,36-45
+55,Research & Development,14,Master,Medical,1,High,Male,Very High,Research Director,Medium,18722,Excellent,Very High,Better,No,56-65
+34,Research & Development,2,Below College,Life Sciences,1,High,Male,Medium,Manufacturing Director,High,9547,Excellent,High,Good,No,26-35
+51,Research & Development,3,Bachelor,Medical,1,High,Female,High,Healthcare Representative,Medium,13734,Excellent,High,Better,No,46-55
+52,Research & Development,1,Master,Life Sciences,1,High,Male,Medium,Manager,High,19999,Excellent,Low,Better,No,46-55
+27,Research & Development,9,Bachelor,Medical,1,High,Female,High,Research Scientist,Medium,2279,Excellent,Very High,Good,No,26-35
+35,Research & Development,23,College,Life Sciences,1,Medium,Male,Medium,Manufacturing Director,High,5916,Excellent,Low,Better,Yes,36-45
+43,Research & Development,7,Bachelor,Medical,1,High,Male,Very High,Research Scientist,Very High,2089,Excellent,Very High,Best,No,36-45
+45,Research & Development,2,College,Medical,1,Low,Male,Medium,Manager,Very High,16792,Outstanding,Very High,Better,No,46-55
+37,Research & Development,21,Bachelor,Life Sciences,1,Medium,Male,Very High,Research Scientist,Low,3564,Excellent,Low,Good,No,36-45
+35,Research & Development,2,Bachelor,Medical,1,Medium,Female,High,Laboratory Technician,Medium,4425,Excellent,Very High,Better,No,36-45
+42,Research & Development,21,College,Medical,1,High,Female,High,Manufacturing Director,High,5265,Excellent,Medium,Better,No,36-45
+38,Research & Development,2,Master,Life Sciences,1,High,Male,High,Manufacturing Director,High,6553,Excellent,Medium,Better,No,36-45
+38,Research & Development,29,Bachelor,Technical Degree,1,High,Male,High,Manufacturing Director,Very High,6261,Excellent,Low,Bad,No,36-45
+27,Research & Development,1,Below College,Technical Degree,1,High,Male,Medium,Manufacturing Director,Low,4298,Excellent,High,Better,No,26-35
+49,Research & Development,18,Master,Life Sciences,1,High,Male,High,Manufacturing Director,Very High,6804,Excellent,Low,Better,No,46-55
+34,Research & Development,10,Master,Medical,1,High,Male,High,Research Scientist,High,3815,Excellent,Very High,Best,No,26-35
+40,Research & Development,19,College,Medical,1,High,Male,High,Laboratory Technician,Very High,2741,Excellent,High,Best,No,36-45
+38,Research & Development,29,Below College,Medical,1,Medium,Male,High,Healthcare Representative,Low,6673,Excellent,Medium,Better,Yes,36-45
+29,Sales,27,Bachelor,Marketing,1,Medium,Female,High,Sales Executive,Very High,7639,Outstanding,Very High,Good,Yes,26-35
+22,Research & Development,5,Bachelor,Life Sciences,1,High,Male,Very High,Research Scientist,Medium,2328,Excellent,Low,Good,No,18-25
+36,Research & Development,18,Below College,Medical,1,Medium,Female,High,Laboratory Technician,Very High,2153,Excellent,Low,Better,No,36-45
+40,Research & Development,9,Doctor,Life Sciences,1,High,Male,Medium,Healthcare Representative,Very High,4876,Excellent,Very High,Bad,No,36-45
+46,Research & Development,1,Master,Medical,1,High,Male,High,Healthcare Representative,Low,9396,Excellent,High,Better,No,46-55
+32,Sales,4,Master,Medical,1,High,Male,Low,Sales Executive,Very High,10400,Excellent,High,Good,Yes,26-35
+30,Research & Development,1,Below College,Life Sciences,1,High,Male,Medium,Manufacturing Director,High,8474,Outstanding,High,Better,No,26-35
+27,Sales,20,Bachelor,Life Sciences,1,High,Female,High,Sales Executive,High,9981,Excellent,Very High,Better,No,26-35
+51,Research & Development,8,Master,Life Sciences,1,Medium,Male,Medium,Research Director,Medium,12490,Excellent,Very High,Bad,No,46-55
+30,Research & Development,3,Bachelor,Technical Degree,1,High,Female,High,Research Scientist,Low,2657,Excellent,High,Better,Yes,26-35
+41,Sales,6,Bachelor,Life Sciences,1,High,Female,High,Manager,Very High,13591,Excellent,High,Better,No,36-45
+30,Sales,26,Master,Marketing,1,High,Female,Medium,Sales Executive,Low,6696,Excellent,High,Good,Yes,26-35
+29,Research & Development,1,Bachelor,Technical Degree,1,High,Male,High,Research Scientist,High,2058,Excellent,Very High,Good,Yes,26-35
+45,Sales,6,Bachelor,Medical,1,High,Female,Medium,Sales Executive,Very High,8865,Excellent,Very High,Better,No,46-55
+54,Sales,3,Bachelor,Marketing,1,High,Female,High,Sales Executive,Low,5940,Excellent,Very High,Better,No,46-55
+36,Research & Development,5,College,Life Sciences,1,High,Male,High,Laboratory Technician,Medium,5914,Excellent,Very High,Best,No,36-45
+33,Research & Development,4,Master,Medical,1,High,Female,Medium,Research Scientist,Medium,2622,Outstanding,Very High,Better,No,26-35
+37,Research & Development,11,Bachelor,Other,1,Medium,Male,High,Research Director,Very High,12185,Excellent,High,Better,No,36-45
+38,Sales,3,Bachelor,Life Sciences,1,Low,Male,High,Sales Executive,High,10609,Excellent,High,Good,No,36-45
+31,Research & Development,1,Master,Medical,1,High,Male,Low,Manufacturing Director,High,4345,Excellent,Very High,Better,No,26-35
+59,Research & Development,3,Bachelor,Life Sciences,1,High,Male,Medium,Research Scientist,Very High,2177,Excellent,Low,Better,No,56-65
+37,Sales,4,Master,Marketing,1,Low,Male,High,Sales Representative,Very High,2793,Excellent,High,Better,No,36-45
+29,Sales,1,Below College,Medical,1,Medium,Female,High,Sales Executive,Very High,7918,Excellent,Very High,Better,No,26-35
+35,Sales,1,Bachelor,Marketing,1,High,Female,High,Sales Executive,High,8789,Excellent,Low,Best,No,36-45
+29,Research & Development,18,Below College,Medical,1,High,Male,Medium,Research Scientist,Very High,2389,Excellent,High,Good,Yes,26-35
+52,Research & Development,2,Bachelor,Life Sciences,1,High,Female,Medium,Laboratory Technician,Very High,3212,Excellent,Medium,Good,No,46-55
+42,Research & Development,4,College,Technical Degree,1,High,Male,High,Manager,Very High,19232,Excellent,Very High,Better,No,36-45
+59,Human Resources,6,College,Medical,1,Medium,Male,High,Human Resources,High,2267,Excellent,Very High,Good,No,56-65
+50,Sales,1,Master,Medical,1,High,Female,High,Manager,Very High,19517,Excellent,High,Good,No,46-55
+33,Research & Development,14,Bachelor,Medical,1,High,Male,High,Laboratory Technician,Very High,2436,Excellent,High,Bad,Yes,26-35
+43,Sales,16,Bachelor,Marketing,1,High,Female,High,Manager,Very High,16064,Outstanding,High,Better,No,36-45
+33,Research & Development,2,College,Life Sciences,1,Low,Female,High,Laboratory Technician,Low,2707,Outstanding,Low,Best,Yes,26-35
+52,Sales,2,Master,Life Sciences,1,Low,Male,Medium,Manager,High,19068,Excellent,Very High,Best,No,46-55
+32,Sales,4,College,Life Sciences,1,High,Female,High,Sales Representative,Medium,3931,Excellent,Low,Better,No,26-35
+32,Research & Development,1,Bachelor,Life Sciences,1,High,Male,Medium,Laboratory Technician,High,3730,Excellent,Very High,Bad,Yes,26-35
+39,Research & Development,1,Master,Medical,1,High,Female,High,Laboratory Technician,High,2232,Excellent,High,Better,No,36-45
+32,Sales,26,Master,Marketing,1,High,Male,High,Sales Executive,Very High,4465,Excellent,Low,Better,No,26-35
+41,Research & Development,19,College,Life Sciences,1,High,Male,High,Research Scientist,Low,3072,Excellent,Low,Good,No,36-45
+40,Research & Development,24,College,Technical Degree,1,Low,Male,High,Research Scientist,Very High,3319,Excellent,Low,Better,No,36-45
+45,Research & Development,1,Bachelor,Other,1,High,Male,Very High,Manager,Very High,19202,Excellent,High,Better,No,46-55
+31,Research & Development,3,Master,Medical,1,Medium,Male,High,Research Director,High,13675,Excellent,Low,Better,No,26-35
+33,Research & Development,5,Master,Life Sciences,1,High,Female,Medium,Research Scientist,Very High,2911,Excellent,High,Good,No,26-35
+34,Research & Development,2,Master,Life Sciences,1,High,Male,Medium,Manufacturing Director,Low,5957,Excellent,Medium,Better,No,26-35
+37,Research & Development,1,College,Medical,1,High,Female,Medium,Research Scientist,Low,3920,Excellent,Low,Good,No,36-45
+45,Research & Development,7,Master,Life Sciences,1,Low,Male,Very High,Manufacturing Director,High,6434,Excellent,Very High,Better,No,46-55
+37,Research & Development,10,Bachelor,Medical,1,Low,Male,High,Manufacturing Director,High,10048,Excellent,Medium,Better,Yes,36-45
+39,Research & Development,2,Master,Technical Degree,1,High,Female,High,Healthcare Representative,High,10938,Outstanding,Very High,Better,No,36-45
+29,Research & Development,15,Bachelor,Life Sciences,1,High,Male,High,Research Scientist,Very High,2340,Excellent,Low,Better,No,26-35
+42,Research & Development,17,College,Life Sciences,1,High,Female,Very High,Research Scientist,Low,6545,Excellent,High,Better,No,36-45
+29,Sales,20,College,Marketing,1,High,Male,High,Sales Executive,Very High,6931,Excellent,Very High,Better,No,26-35
+25,Research & Development,1,Bachelor,Life Sciences,1,Low,Female,High,Manufacturing Director,High,4898,Excellent,Very High,Better,No,26-35
+42,Research & Development,2,Bachelor,Medical,1,High,Female,Medium,Laboratory Technician,Low,2593,Excellent,High,Better,No,36-45
+40,Research & Development,2,College,Medical,1,Low,Male,High,Research Director,High,19436,Excellent,Very High,Better,No,36-45
+51,Research & Development,1,Bachelor,Life Sciences,1,High,Male,High,Research Scientist,Very High,2723,Excellent,Medium,Good,No,46-55
+31,Research & Development,29,College,Medical,1,High,Male,Medium,Laboratory Technician,Medium,3479,Excellent,Medium,Best,Yes,26-35
+32,Research & Development,7,Bachelor,Life Sciences,1,Medium,Male,Very High,Laboratory Technician,Medium,2794,Outstanding,High,Bad,No,26-35
+38,Sales,2,College,Life Sciences,1,High,Male,Medium,Sales Executive,Very High,5249,Excellent,Very High,Better,No,36-45
+32,Research & Development,2,Below College,Technical Degree,1,High,Male,Medium,Laboratory Technician,Low,2176,Excellent,Very High,Better,No,26-35
+46,Sales,2,Bachelor,Technical Degree,1,High,Female,Low,Manager,Medium,16872,Excellent,Medium,Good,No,46-55
+28,Research & Development,2,Master,Life Sciences,1,Low,Male,High,Laboratory Technician,High,3485,Excellent,High,Bad,Yes,26-35
+29,Sales,2,Bachelor,Medical,1,Low,Male,Medium,Sales Executive,Medium,6644,Excellent,Medium,Better,No,26-35
+31,Research & Development,23,Bachelor,Medical,1,Medium,Male,Medium,Healthcare Representative,Very High,5582,Outstanding,Medium,Better,No,26-35
+25,Research & Development,5,College,Life Sciences,1,Medium,Male,Very High,Healthcare Representative,Low,4000,Excellent,Very High,Better,No,26-35
+45,Research & Development,20,College,Medical,1,High,Male,High,Healthcare Representative,Very High,13496,Excellent,Medium,Better,No,46-55
+36,Research & Development,6,Bachelor,Life Sciences,1,High,Male,High,Laboratory Technician,Very High,3210,Excellent,High,Better,No,36-45
+55,Research & Development,1,Bachelor,Medical,1,High,Male,High,Manager,Low,19045,Excellent,High,Better,No,56-65
+47,Research & Development,29,Master,Life Sciences,1,Low,Male,High,Manager,Medium,11849,Excellent,Very High,Good,Yes,46-55
+28,Research & Development,9,Bachelor,Medical,1,High,Male,High,Research Scientist,Very High,2070,Outstanding,Very High,Good,No,26-35
+37,Sales,6,Master,Medical,1,High,Male,High,Sales Executive,Very High,6502,Excellent,Medium,Best,No,36-45
+21,Research & Development,3,College,Medical,1,High,Male,Medium,Research Scientist,High,3230,Excellent,Low,Best,No,18-25
+37,Research & Development,1,Master,Medical,1,Low,Female,High,Research Director,Very High,13603,Excellent,Low,Better,No,36-45
+35,Research & Development,22,Bachelor,Life Sciences,1,Medium,Female,Very High,Manager,Medium,11996,Excellent,Medium,Good,No,36-45
+38,Sales,7,College,Medical,1,Low,Female,Very High,Sales Executive,Low,5605,Outstanding,High,Better,No,36-45
+26,Research & Development,1,Bachelor,Life Sciences,1,High,Female,High,Manufacturing Director,Medium,6397,Outstanding,Low,Bad,No,26-35
+50,Research & Development,4,Below College,Life Sciences,1,Low,Male,High,Research Director,Medium,19144,Excellent,Low,Good,No,46-55
+53,Research & Development,3,Master,Medical,1,High,Male,High,Research Director,High,17584,Excellent,Very High,Good,No,46-55
+42,Sales,1,Below College,Life Sciences,1,Medium,Male,High,Sales Executive,High,4907,Outstanding,High,Better,No,36-45
+29,Sales,2,College,Life Sciences,1,Medium,Male,High,Sales Executive,Very High,4554,Excellent,Low,Good,No,26-35
+55,Research & Development,20,College,Technical Degree,1,Medium,Male,High,Laboratory Technician,Very High,5415,Excellent,Very High,Better,No,56-65
+26,Research & Development,11,College,Medical,1,Low,Male,High,Healthcare Representative,Low,4741,Excellent,High,Better,No,26-35
+37,Research & Development,1,Bachelor,Life Sciences,1,High,Female,High,Research Scientist,Very High,2115,Excellent,Medium,Better,No,36-45
+44,Research & Development,24,Bachelor,Life Sciences,1,High,Male,High,Laboratory Technician,High,3161,Outstanding,Very High,Bad,Yes,36-45
+38,Research & Development,23,Master,Life Sciences,1,High,Male,High,Healthcare Representative,Very High,5745,Excellent,Medium,Better,No,36-45
+26,Research & Development,16,Master,Medical,1,Low,Male,High,Laboratory Technician,Medium,2373,Excellent,Very High,Better,Yes,26-35
+28,Research & Development,8,College,Life Sciences,1,High,Female,High,Research Scientist,Very High,3310,Outstanding,Very High,Better,No,26-35
+49,Research & Development,10,Master,Life Sciences,1,High,Female,High,Research Director,Low,18665,Excellent,Very High,Better,No,46-55
+36,Research & Development,3,Bachelor,Technical Degree,1,High,Male,High,Research Scientist,Medium,4485,Excellent,Very High,Better,No,36-45
+31,Sales,5,Bachelor,Marketing,1,High,Female,High,Sales Representative,Medium,2789,Excellent,High,Good,No,26-35
+26,Sales,4,Master,Marketing,1,High,Male,Medium,Sales Executive,Very High,5828,Excellent,Medium,Better,Yes,26-35
+37,Research & Development,9,Bachelor,Medical,1,Medium,Male,High,Research Scientist,Very High,2326,Excellent,High,Good,No,36-45
+42,Sales,26,Bachelor,Marketing,1,High,Female,High,Sales Executive,Medium,13525,Excellent,Very High,Best,No,36-45
+18,Research & Development,3,Bachelor,Life Sciences,1,High,Male,High,Laboratory Technician,High,1420,Excellent,High,Better,Yes,18-25
+35,Sales,16,Bachelor,Marketing,1,High,Male,High,Sales Executive,Medium,8020,Excellent,High,Good,No,36-45
+36,Research & Development,18,Master,Life Sciences,1,High,Male,Very High,Laboratory Technician,Very High,3688,Excellent,Very High,Better,No,36-45
+51,Research & Development,2,Bachelor,Medical,1,High,Male,Low,Manufacturing Director,Medium,5482,Excellent,Very High,Better,No,46-55
+41,Sales,2,Master,Life Sciences,1,High,Male,High,Manager,Medium,16015,Excellent,Medium,Better,No,36-45
+18,Sales,10,Bachelor,Medical,1,High,Female,Medium,Sales Representative,High,1200,Excellent,Low,Better,No,18-25
+28,Research & Development,16,College,Medical,1,Medium,Male,Very High,Healthcare Representative,Low,5661,Excellent,High,Better,No,26-35
+31,Sales,7,Bachelor,Technical Degree,1,Medium,Male,Very High,Sales Executive,Very High,6929,Excellent,Medium,Good,No,26-35
+39,Research & Development,1,Bachelor,Medical,1,High,Male,Very High,Healthcare Representative,Very High,9613,Excellent,Low,Good,No,36-45
+36,Research & Development,24,Master,Life Sciences,1,Medium,Female,High,Laboratory Technician,Medium,5674,Excellent,High,Better,No,36-45
+32,Sales,7,Bachelor,Life Sciences,1,High,Male,Medium,Sales Executive,High,5484,Excellent,High,Good,No,26-35
+38,Research & Development,25,College,Life Sciences,1,Low,Female,Medium,Research Director,Medium,12061,Excellent,High,Better,No,36-45
+58,Research & Development,1,Master,Life Sciences,1,High,Male,Low,Healthcare Representative,High,5660,Excellent,Very High,Better,No,56-65
+31,Research & Development,5,Master,Technical Degree,1,High,Male,High,Research Scientist,Very High,4821,Excellent,High,Better,No,26-35
+31,Human Resources,2,Bachelor,Human Resources,1,Low,Male,Medium,Human Resources,Low,6410,Excellent,Very High,Better,No,26-35
+45,Research & Development,7,Bachelor,Life Sciences,1,Low,Male,High,Laboratory Technician,Low,5210,Excellent,Low,Better,No,46-55
+31,Research & Development,2,Master,Life Sciences,1,High,Male,High,Research Scientist,Very High,2695,Excellent,Medium,Bad,No,26-35
+33,Research & Development,5,Master,Life Sciences,1,High,Female,High,Manager,Medium,11878,Excellent,Medium,Better,No,26-35
+39,Research & Development,10,Below College,Medical,1,High,Male,High,Manager,Low,17068,Excellent,Very High,Better,No,36-45
+43,Research & Development,10,Master,Life Sciences,1,High,Female,High,Laboratory Technician,Very High,2455,Excellent,Low,Better,No,36-45
+49,Research & Development,1,College,Technical Degree,1,High,Female,Medium,Healthcare Representative,High,13964,Excellent,Very High,Better,No,46-55
+52,Research & Development,8,Master,Medical,1,High,Male,Medium,Research Scientist,Medium,4941,Excellent,Low,Good,Yes,46-55
+27,Research & Development,5,Bachelor,Life Sciences,1,High,Female,High,Research Scientist,Medium,2478,Excellent,Medium,Good,No,26-35
+32,Sales,8,College,Technical Degree,1,High,Female,Medium,Sales Executive,Medium,5228,Excellent,Very High,Better,No,26-35
+27,Sales,2,Bachelor,Life Sciences,1,High,Male,High,Sales Executive,High,4478,Excellent,Low,Better,No,26-35
+31,Sales,7,Bachelor,Marketing,1,High,Male,High,Sales Executive,Very High,7547,Excellent,Very High,Better,No,26-35
+32,Research & Development,2,Master,Medical,1,Low,Female,Very High,Research Scientist,Very High,5055,Excellent,High,Good,No,26-35
+28,Research & Development,2,Master,Medical,1,Low,Male,Low,Research Scientist,Very High,3464,Excellent,Very High,Good,Yes,26-35
+30,Research & Development,28,College,Medical,1,High,Female,High,Research Scientist,Very High,5775,Excellent,Very High,Better,No,26-35
+31,Research & Development,7,College,Life Sciences,1,High,Female,Medium,Manufacturing Director,High,8943,Outstanding,Low,Better,No,26-35
+39,Research & Development,7,College,Medical,1,High,Male,Medium,Manager,Very High,19272,Excellent,Low,Better,No,36-45
+39,Sales,3,College,Medical,1,High,Female,High,Sales Executive,High,5238,Excellent,Low,Good,Yes,36-45
+33,Sales,10,Bachelor,Marketing,1,Medium,Male,Medium,Sales Executive,Very High,4682,Excellent,High,Good,No,26-35
+47,Research & Development,5,Doctor,Life Sciences,1,High,Male,High,Research Director,High,18300,Excellent,Medium,Better,No,46-55
+43,Research & Development,10,Master,Life Sciences,1,High,Female,Medium,Laboratory Technician,High,5257,Excellent,Medium,Best,No,36-45
+27,Sales,1,Below College,Marketing,1,High,Male,High,Sales Executive,Medium,6349,Excellent,Very High,Better,No,26-35
+54,Research & Development,20,Master,Life Sciences,1,High,Female,High,Research Scientist,High,4869,Excellent,Very High,Good,No,46-55
+43,Research & Development,7,Bachelor,Life Sciences,1,High,Female,High,Healthcare Representative,Low,9985,Excellent,Low,Good,No,36-45
+45,Research & Development,8,Master,Other,1,High,Male,High,Research Scientist,Very High,3697,Excellent,Low,Better,No,46-55
+40,Sales,1,College,Medical,1,Medium,Male,Low,Sales Executive,Very High,7457,Outstanding,High,Good,No,36-45
+29,Research & Development,8,Master,Other,1,Medium,Male,Low,Laboratory Technician,Low,2119,Excellent,Very High,Good,Yes,26-35
+29,Research & Development,9,Doctor,Other,1,Medium,Male,Medium,Laboratory Technician,Very High,3983,Excellent,High,Better,No,26-35
+30,Sales,5,Bachelor,Marketing,1,High,Female,Medium,Sales Executive,High,6118,Excellent,High,Better,No,26-35
+27,Sales,8,Master,Marketing,1,Medium,Female,High,Sales Executive,Medium,6214,Excellent,Low,Better,No,26-35
+37,Research & Development,5,College,Medical,1,High,Male,High,Manufacturing Director,Very High,6347,Excellent,High,Good,No,36-45
+38,Research & Development,15,College,Life Sciences,1,High,Male,Medium,Research Director,Very High,11510,Excellent,Medium,Better,No,36-45
+31,Research & Development,7,Master,Medical,1,High,Female,High,Manufacturing Director,Very High,7143,Excellent,High,Good,No,26-35
+29,Sales,10,Below College,Marketing,1,High,Female,Medium,Sales Executive,Medium,8268,Excellent,Low,Better,No,26-35
+35,Research & Development,5,Master,Technical Degree,1,High,Male,High,Manufacturing Director,Medium,8095,Excellent,Very High,Better,No,36-45
+23,Research & Development,26,Below College,Life Sciences,1,High,Male,High,Research Scientist,Very High,2904,Excellent,High,Good,No,18-25
+41,Research & Development,6,Bachelor,Medical,1,High,Male,Medium,Manufacturing Director,Medium,6032,Excellent,Very High,Better,No,36-45
+47,Sales,4,Below College,Medical,1,Medium,Male,High,Sales Representative,High,2976,Excellent,Low,Better,No,46-55
+42,Research & Development,23,Doctor,Life Sciences,1,Low,Female,High,Research Director,Very High,15992,Excellent,Medium,Better,No,36-45
+29,Sales,2,Bachelor,Life Sciences,1,High,Male,High,Sales Executive,High,4649,Excellent,Low,Good,No,26-35
+42,Human Resources,2,Below College,Technical Degree,1,High,Male,High,Human Resources,High,2696,Excellent,High,Better,No,36-45
+32,Research & Development,2,Bachelor,Medical,1,High,Female,High,Laboratory Technician,Medium,2370,Excellent,High,Better,No,26-35
+48,Sales,29,Below College,Medical,1,Low,Female,High,Manager,High,12504,Outstanding,Medium,Bad,No,46-55
+37,Research & Development,6,Bachelor,Medical,1,High,Male,Very High,Research Scientist,Low,5974,Excellent,Low,Better,No,36-45
+30,Sales,25,College,Technical Degree,1,High,Female,High,Sales Executive,High,4736,Excellent,Medium,Best,No,26-35
+26,Sales,1,Bachelor,Life Sciences,1,High,Male,High,Sales Executive,High,5296,Excellent,Medium,Better,No,26-35
+42,Research & Development,2,Master,Other,1,Low,Male,Medium,Healthcare Representative,Very High,6781,Outstanding,Medium,Better,No,36-45
+21,Sales,1,Below College,Technical Degree,1,Low,Female,Medium,Sales Representative,Medium,2174,Excellent,High,Better,Yes,18-25
+36,Sales,1,Doctor,Medical,1,High,Female,High,Sales Executive,Very High,6653,Excellent,Medium,Better,No,36-45
+36,Sales,3,Master,Medical,1,Low,Male,Medium,Sales Executive,Very High,9699,Excellent,Low,Better,No,36-45
+57,Research & Development,1,Master,Medical,1,High,Male,High,Healthcare Representative,High,6755,Excellent,High,Better,No,56-65
+40,Research & Development,10,Master,Life Sciences,1,High,Female,Very High,Laboratory Technician,High,2213,Excellent,High,Better,No,36-45
+21,Sales,9,College,Medical,1,Low,Male,High,Sales Representative,Very High,2610,Outstanding,High,Good,No,18-25
+33,Sales,5,Bachelor,Marketing,1,High,Female,High,Sales Representative,High,2851,Excellent,Medium,Better,Yes,26-35
+37,Research & Development,10,Bachelor,Medical,1,High,Female,High,Laboratory Technician,Low,3452,Outstanding,Medium,Better,No,36-45
+46,Research & Development,7,Master,Medical,1,High,Female,High,Manufacturing Director,High,5258,Excellent,High,Best,No,46-55
+41,Sales,4,Bachelor,Marketing,1,Low,Male,High,Sales Executive,Medium,9355,Excellent,High,Better,Yes,36-45
+50,Research & Development,10,Bachelor,Technical Degree,1,High,Male,Medium,Healthcare Representative,Very High,10496,Excellent,Very High,Better,No,46-55
+40,Sales,22,College,Marketing,1,High,Male,Medium,Sales Executive,High,6380,Excellent,Low,Better,Yes,36-45
+31,Research & Development,9,Master,Life Sciences,1,High,Male,Medium,Research Scientist,Medium,2657,Excellent,Very High,Better,No,26-35
+21,Sales,12,Bachelor,Life Sciences,1,High,Female,Very High,Sales Representative,Medium,2716,Excellent,Very High,Better,Yes,18-25
+29,Research & Development,23,Bachelor,Life Sciences,1,High,Male,High,Research Scientist,Very High,2201,Excellent,Very High,Better,No,26-35
+35,Research & Development,9,Master,Life Sciences,1,High,Male,Medium,Healthcare Representative,Medium,6540,Excellent,High,Better,No,36-45
+27,Research & Development,1,College,Medical,1,High,Male,High,Laboratory Technician,Medium,3816,Excellent,Medium,Better,No,26-35
+28,Sales,9,Master,Life Sciences,1,Medium,Male,High,Sales Executive,Very High,5253,Excellent,Very High,Better,No,26-35
+49,Research & Development,7,Bachelor,Other,1,Medium,Male,Medium,Healthcare Representative,High,10965,Outstanding,High,Better,No,46-55
+51,Sales,14,College,Life Sciences,1,High,Female,High,Sales Executive,Very High,4936,Excellent,High,Good,No,46-55
+36,Research & Development,2,Bachelor,Life Sciences,1,High,Female,High,Research Scientist,High,2543,Excellent,Medium,Better,No,36-45
+34,Sales,19,Bachelor,Marketing,1,Low,Male,Very High,Sales Executive,Very High,5304,Excellent,Medium,Good,Yes,26-35
+55,Research & Development,2,Bachelor,Life Sciences,1,High,Female,High,Manager,Very High,16659,Excellent,High,Better,No,56-65
+24,Sales,10,Master,Marketing,1,High,Female,High,Sales Executive,High,4260,Excellent,Very High,Best,No,18-25
+30,Sales,2,Below College,Technical Degree,1,High,Male,High,Sales Representative,Medium,2476,Excellent,Low,Better,No,26-35
+26,Research & Development,3,Below College,Technical Degree,1,High,Male,High,Research Scientist,Low,3102,Outstanding,High,Better,Yes,26-35
+22,Research & Development,11,Bachelor,Medical,1,Low,Female,High,Research Scientist,Medium,2244,Excellent,Very High,Better,No,18-25
+36,Sales,2,College,Medical,1,Medium,Male,Medium,Sales Executive,High,7596,Excellent,Medium,Better,No,36-45
+30,Research & Development,4,Bachelor,Technical Degree,1,High,Male,High,Research Scientist,Very High,2285,Outstanding,High,Better,Yes,26-35
+37,Research & Development,14,Bachelor,Life Sciences,1,High,Female,High,Laboratory Technician,Low,3034,Excellent,High,Good,No,36-45
+40,Sales,2,College,Marketing,1,High,Female,High,Sales Executive,Medium,5715,Excellent,High,Better,No,36-45
+42,Research & Development,1,Master,Life Sciences,1,Medium,Female,High,Laboratory Technician,Low,2576,Excellent,Medium,Better,No,36-45
+37,Research & Development,10,Master,Life Sciences,1,High,Male,High,Manufacturing Director,Medium,4197,Excellent,Very High,Good,No,36-45
+43,Research & Development,12,Bachelor,Life Sciences,1,Low,Male,Medium,Research Director,Medium,14336,Excellent,High,Better,No,36-45
+40,Research & Development,2,Bachelor,Medical,1,Medium,Female,Medium,Laboratory Technician,High,3448,Outstanding,Medium,Better,No,36-45
+54,Research & Development,5,College,Medical,1,Low,Male,High,Research Director,Low,19406,Excellent,High,Good,No,46-55
+34,Sales,4,Master,Marketing,1,High,Female,High,Sales Executive,High,6538,Excellent,Low,Better,No,26-35
+31,Research & Development,7,College,Medical,1,Medium,Female,High,Manufacturing Director,Low,4306,Excellent,Medium,Bad,No,26-35
+43,Research & Development,21,Bachelor,Medical,1,High,Male,High,Laboratory Technician,Very High,2258,Outstanding,Low,Better,No,36-45
+43,Research & Development,8,Master,Other,1,High,Female,High,Healthcare Representative,High,4522,Excellent,Very High,Better,No,36-45
+25,Sales,4,College,Life Sciences,1,Medium,Female,Medium,Sales Executive,Very High,4487,Excellent,Medium,Better,No,26-35
+37,Research & Development,25,Doctor,Medical,1,Medium,Female,High,Research Scientist,High,4449,Excellent,Low,Better,No,36-45
+31,Research & Development,1,College,Life Sciences,1,High,Male,Medium,Laboratory Technician,Low,2218,Excellent,High,Better,No,26-35
+39,Research & Development,1,Below College,Life Sciences,1,Medium,Male,High,Manager,High,19197,Excellent,High,Better,No,36-45
+56,Sales,6,Bachelor,Life Sciences,1,High,Female,Very High,Sales Executive,Low,13212,Excellent,Very High,Good,No,56-65
+30,Sales,12,Bachelor,Technical Degree,1,Medium,Female,High,Sales Executive,High,6577,Excellent,Medium,Better,No,26-35
+41,Sales,1,Bachelor,Marketing,1,Medium,Male,Very High,Sales Executive,Low,8392,Excellent,High,Better,No,36-45
+28,Research & Development,17,College,Medical,1,High,Male,High,Laboratory Technician,Low,4558,Excellent,Very High,Better,No,26-35
+25,Research & Development,3,Bachelor,Medical,1,Low,Male,High,Laboratory Technician,Low,4031,Excellent,High,Better,Yes,26-35
+52,Research & Development,3,Bachelor,Medical,1,High,Male,Medium,Manufacturing Director,High,7969,Excellent,High,Better,No,46-55
+45,Research & Development,10,College,Life Sciences,1,Low,Male,High,Research Scientist,Very High,2654,Outstanding,Very High,Good,No,46-55
+52,Research & Development,4,College,Life Sciences,1,High,Female,High,Manager,Very High,16555,Excellent,Very High,Bad,No,46-55
+42,Research & Development,29,College,Life Sciences,1,Low,Female,High,Research Scientist,High,4556,Excellent,Medium,Better,No,36-45
+30,Research & Development,2,Bachelor,Life Sciences,1,High,Female,Low,Manufacturing Director,Very High,6091,Outstanding,High,Better,No,26-35
+60,Research & Development,7,Bachelor,Life Sciences,1,Low,Female,High,Manager,Low,19566,Excellent,Very High,Bad,No,56-65
+46,Research & Development,18,Bachelor,Medical,1,High,Female,High,Manufacturing Director,High,4810,Excellent,High,Good,No,46-55
+42,Research & Development,28,Master,Technical Degree,1,High,Female,Medium,Healthcare Representative,Very High,4523,Excellent,Very High,Best,No,36-45
+24,Sales,1,Below College,Technical Degree,1,Low,Female,High,Sales Representative,Medium,3202,Excellent,Medium,Better,Yes,18-25
+34,Sales,6,College,Marketing,1,High,Female,Low,Sales Representative,High,2351,Excellent,Very High,Good,Yes,26-35
+38,Research & Development,2,College,Life Sciences,1,High,Male,High,Laboratory Technician,Very High,1702,Outstanding,High,Better,No,36-45
+40,Sales,2,Master,Life Sciences,1,High,Female,High,Manager,High,18041,Excellent,Very High,Better,No,36-45
+26,Research & Development,23,Bachelor,Life Sciences,1,Low,Female,High,Research Scientist,Very High,2886,Outstanding,Medium,Bad,No,26-35
+30,Research & Development,3,Bachelor,Life Sciences,1,High,Male,High,Laboratory Technician,Very High,2097,Excellent,High,Bad,No,26-35
+29,Research & Development,3,Master,Medical,1,Medium,Male,Medium,Research Director,High,11935,Excellent,High,Better,No,26-35
+29,Research & Development,25,Doctor,Technical Degree,1,High,Female,Medium,Research Scientist,Medium,2546,Excellent,Medium,Best,Yes,26-35
+19,Human Resources,2,College,Technical Degree,1,Low,Male,Medium,Human Resources,Very High,2564,Excellent,High,Best,Yes,18-25
+30,Sales,22,Master,Other,1,High,Female,High,Sales Executive,Low,8412,Excellent,High,Better,No,26-35
+57,Sales,29,Bachelor,Marketing,1,Low,Male,Medium,Manager,Very High,14118,Excellent,High,Good,No,56-65
+50,Research & Development,29,Master,Life Sciences,1,Medium,Male,Medium,Manager,High,17046,Excellent,Medium,Better,No,46-55
+30,Research & Development,2,Bachelor,Medical,1,High,Female,High,Laboratory Technician,Very High,2564,Excellent,High,Good,No,26-35
+60,Sales,28,Bachelor,Marketing,1,High,Female,Medium,Sales Executive,Low,10266,Excellent,Very High,Best,No,56-65
+47,Research & Development,2,College,Medical,1,Low,Female,High,Manufacturing Director,Very High,5070,Excellent,High,Better,No,46-55
+46,Research & Development,2,Bachelor,Life Sciences,1,Low,Male,High,Research Director,High,17861,Excellent,High,Bad,No,46-55
+35,Research & Development,22,Bachelor,Life Sciences,1,High,Male,Low,Laboratory Technician,High,4230,Excellent,High,Better,No,36-45
+54,Research & Development,8,Master,Life Sciences,1,High,Female,High,Laboratory Technician,High,3780,Excellent,High,Better,No,46-55
+34,Research & Development,2,Master,Life Sciences,1,High,Male,Medium,Research Scientist,High,2768,Excellent,High,Better,No,26-35
+46,Sales,10,Bachelor,Marketing,1,High,Female,Medium,Sales Executive,Very High,9071,Excellent,High,Better,No,46-55
+31,Research & Development,9,Below College,Life Sciences,1,High,Male,High,Manufacturing Director,Medium,10648,Outstanding,Very High,Best,No,26-35
+33,Research & Development,15,Below College,Medical,1,Medium,Male,High,Manager,High,13610,Excellent,Very High,Best,Yes,26-35
+33,Research & Development,10,Below College,Medical,1,Low,Male,Low,Laboratory Technician,Very High,3408,Excellent,Low,Better,Yes,26-35
+30,Sales,7,Below College,Marketing,1,High,Male,High,Sales Representative,Medium,2983,Excellent,Low,Better,No,26-35
+35,Research & Development,16,Bachelor,Life Sciences,1,High,Male,High,Healthcare Representative,High,7632,Excellent,High,Better,No,36-45
+31,Research & Development,20,Bachelor,Life Sciences,1,Low,Male,High,Healthcare Representative,High,9824,Excellent,Low,Better,Yes,26-35
+34,Human Resources,23,Bachelor,Human Resources,1,Medium,Female,High,Human Resources,Low,9950,Excellent,High,Better,Yes,26-35
+42,Research & Development,5,College,Other,1,Medium,Male,High,Laboratory Technician,High,2093,Excellent,Very High,Better,No,36-45
+36,Sales,10,Master,Medical,1,Medium,Male,High,Sales Executive,Very High,9980,Excellent,Very High,Good,No,36-45
+22,Research & Development,4,Below College,Technical Degree,1,High,Male,Medium,Laboratory Technician,High,3894,Excellent,High,Better,Yes,18-25
+48,Sales,2,Doctor,Marketing,1,Medium,Female,High,Sales Executive,Very High,4051,Excellent,Low,Better,No,46-55
+55,Sales,18,Doctor,Life Sciences,1,Low,Female,High,Manager,Medium,16835,Outstanding,Very High,Better,No,56-65
+41,Sales,10,College,Life Sciences,1,High,Male,High,Sales Executive,Very High,6230,Excellent,Very High,Better,No,36-45
+35,Sales,1,Bachelor,Marketing,1,Medium,Male,High,Sales Executive,High,4717,Excellent,High,Better,No,36-45
+40,Research & Development,6,Bachelor,Life Sciences,1,Medium,Female,High,Manufacturing Director,High,13237,Excellent,High,Better,No,36-45
+39,Research & Development,8,Below College,Life Sciences,1,High,Female,High,Laboratory Technician,High,3755,Excellent,Low,Better,No,36-45
+31,Sales,2,Below College,Life Sciences,1,Medium,Male,High,Sales Executive,Very High,6582,Excellent,High,Best,No,26-35
+42,Research & Development,24,Bachelor,Medical,1,High,Male,High,Manufacturing Director,Low,7406,Outstanding,Very High,Good,No,36-45
+45,Sales,2,Bachelor,Other,1,High,Male,High,Sales Executive,Medium,4805,Excellent,Medium,Best,No,46-55
+26,Human Resources,17,Master,Life Sciences,1,Medium,Female,High,Human Resources,High,2741,Excellent,Medium,Good,Yes,26-35
+29,Research & Development,19,Bachelor,Technical Degree,1,High,Male,High,Manufacturing Director,Very High,4262,Excellent,Medium,Best,No,26-35
+33,Research & Development,1,Doctor,Medical,1,Low,Female,Very High,Research Director,High,16184,Excellent,High,Better,No,26-35
+31,Sales,7,Bachelor,Life Sciences,1,High,Male,Medium,Manager,Very High,11557,Outstanding,High,Good,No,26-35
+18,Sales,5,Bachelor,Marketing,1,Medium,Male,High,Sales Representative,Medium,1878,Excellent,Very High,Better,Yes,18-25
+40,Sales,28,Bachelor,Other,1,High,Male,Low,Sales Executive,Low,10932,Excellent,High,Better,No,36-45
+41,Research & Development,2,Master,Other,1,Low,Female,Medium,Healthcare Representative,High,6811,Excellent,Low,Better,No,36-45
+26,Sales,29,College,Medical,1,Low,Male,High,Sales Executive,High,4306,Excellent,Low,Better,No,26-35
+35,Sales,1,Bachelor,Medical,1,Low,Female,High,Sales Executive,High,4859,Excellent,Very High,Better,No,36-45
+34,Sales,21,Master,Life Sciences,1,High,Male,Very High,Sales Executive,Very High,5337,Excellent,Very High,Better,No,26-35
+26,Research & Development,24,Bachelor,Technical Degree,1,High,Male,Low,Laboratory Technician,Very High,2340,Excellent,Medium,Bad,Yes,26-35
+37,Research & Development,1,Bachelor,Technical Degree,1,Medium,Female,High,Manufacturing Director,Very High,7491,Excellent,Very High,Best,No,36-45
+46,Research & Development,18,Below College,Medical,1,Low,Female,High,Healthcare Representative,High,10527,Excellent,Very High,Good,No,46-55
+41,Sales,2,Doctor,Life Sciences,1,Medium,Female,High,Manager,Low,16595,Excellent,Medium,Better,No,36-45
+37,Sales,9,Master,Medical,1,Low,Male,High,Sales Executive,Medium,8834,Excellent,Very High,Better,No,36-45
+52,Research & Development,6,College,Technical Degree,1,High,Male,High,Research Scientist,Low,5577,Excellent,Medium,Better,No,46-55
+32,Sales,11,Master,Other,1,High,Male,Very High,Sales Executive,High,4707,Excellent,Very High,Better,Yes,26-35
+24,Sales,24,Bachelor,Medical,1,High,Male,High,Sales Representative,Very High,2400,Excellent,High,Better,No,18-25
+38,Research & Development,10,Bachelor,Medical,1,High,Female,High,Healthcare Representative,High,9824,Excellent,High,Better,No,36-45
+37,Research & Development,1,Master,Life Sciences,1,Medium,Female,High,Manufacturing Director,Medium,6447,Excellent,Medium,Good,No,36-45
+49,Research & Development,18,Master,Life Sciences,1,High,Male,Medium,Research Director,High,19502,Excellent,High,Better,No,46-55
+24,Research & Development,23,Bachelor,Medical,1,Medium,Male,Very High,Research Scientist,Very High,2725,Excellent,Medium,Better,No,18-25
+26,Sales,28,College,Marketing,1,Low,Male,High,Sales Executive,Medium,6272,Outstanding,Very High,Best,No,26-35
+24,Research & Development,17,College,Other,1,High,Male,Medium,Laboratory Technician,Medium,2127,Outstanding,Very High,Better,No,18-25
+50,Human Resources,3,Bachelor,Medical,1,Low,Male,High,Manager,Medium,18200,Excellent,High,Better,No,46-55
+25,Sales,13,Below College,Medical,1,Medium,Male,High,Sales Representative,High,2096,Excellent,High,Better,No,26-35
+24,Research & Development,7,Bachelor,Life Sciences,1,Low,Female,High,Laboratory Technician,High,2886,Excellent,Very High,Better,Yes,18-25
+30,Sales,12,Master,Life Sciences,1,Medium,Male,Medium,Sales Representative,Low,2033,Excellent,High,Best,Yes,26-35
+34,Research & Development,1,College,Life Sciences,1,Medium,Male,Medium,Research Scientist,Very High,3622,Excellent,Very High,Better,No,26-35
+31,Sales,13,Master,Medical,1,Medium,Male,High,Sales Executive,Low,4233,Excellent,High,Bad,Yes,26-35
+35,Research & Development,25,College,Other,1,Low,Male,Medium,Laboratory Technician,Very High,3681,Excellent,Very High,Better,No,36-45
+31,Sales,6,Master,Medical,1,Low,Male,Very High,Sales Executive,Very High,5460,Outstanding,Very High,Best,No,26-35
+27,Research & Development,6,Master,Medical,1,Low,Female,Medium,Research Scientist,High,2187,Excellent,High,Good,No,26-35
+37,Sales,2,Bachelor,Marketing,1,High,Male,High,Sales Executive,High,9602,Excellent,High,Good,No,36-45
+20,Research & Development,1,Bachelor,Life Sciences,1,High,Female,Medium,Research Scientist,Medium,2836,Excellent,Very High,Best,No,18-25
+42,Research & Development,2,Master,Life Sciences,1,High,Female,High,Healthcare Representative,Very High,4089,Excellent,Medium,Better,No,36-45
+43,Research & Development,6,Master,Other,1,Medium,Male,Medium,Research Director,Very High,16627,Excellent,High,Good,No,36-45
+38,Research & Development,1,Below College,Life Sciences,1,High,Female,High,Research Scientist,Low,2619,Excellent,Very High,Good,No,36-45
+43,Research & Development,9,Doctor,Medical,1,High,Male,High,Laboratory Technician,High,5679,Excellent,Medium,Better,No,36-45
+48,Research & Development,1,Master,Life Sciences,1,High,Female,Medium,Manager,Low,15402,Excellent,Low,Bad,No,46-55
+44,Human Resources,1,Master,Life Sciences,1,Low,Female,Medium,Human Resources,High,5985,Excellent,Medium,Best,No,36-45
+34,Sales,14,Bachelor,Technical Degree,1,High,Female,High,Sales Representative,High,2579,Excellent,Very High,Better,No,26-35
+27,Sales,2,Below College,Marketing,1,High,Male,High,Sales Representative,Low,3041,Excellent,Medium,Better,Yes,26-35
+21,Sales,22,Below College,Technical Degree,1,High,Male,High,Sales Representative,High,3447,Excellent,High,Better,No,18-25
+44,Research & Development,3,Master,Other,1,High,Male,High,Manager,Very High,19513,Excellent,Low,Best,No,36-45
+22,Research & Development,6,Below College,Medical,1,Low,Male,High,Research Scientist,High,2773,Outstanding,Very High,Better,No,18-25
+33,Sales,8,Master,Marketing,1,High,Male,High,Sales Executive,High,7104,Excellent,Very High,Better,No,26-35
+32,Research & Development,9,Master,Life Sciences,1,Low,Female,High,Research Scientist,Very High,6322,Excellent,Very High,Good,No,26-35
+30,Research & Development,3,Bachelor,Medical,1,High,Female,High,Research Scientist,High,2083,Outstanding,High,Better,No,26-35
+53,Sales,1,Below College,Medical,1,High,Female,High,Sales Executive,Low,8381,Outstanding,Very High,Best,No,46-55
+34,Research & Development,1,Doctor,Life Sciences,1,Medium,Male,High,Research Scientist,Very High,2691,Excellent,Very High,Good,No,26-35
+45,Sales,26,Master,Life Sciences,1,Low,Female,High,Sales Executive,Low,4286,Excellent,Very High,Better,Yes,46-55
+26,Research & Development,6,Bachelor,Life Sciences,1,High,Female,High,Laboratory Technician,Very High,2659,Excellent,High,Better,No,26-35
+37,Research & Development,3,Bachelor,Other,1,High,Male,High,Manufacturing Director,High,9434,Excellent,High,Better,No,36-45
+29,Sales,3,College,Medical,1,Medium,Female,High,Sales Executive,High,5561,Excellent,Low,Good,No,26-35
+35,Research & Development,6,Master,Life Sciences,1,Medium,Male,Low,Research Scientist,Very High,6646,Excellent,Medium,Better,No,36-45
+33,Research & Development,6,Bachelor,Life Sciences,1,High,Male,High,Healthcare Representative,Very High,7725,Outstanding,High,Bad,No,26-35
+54,Human Resources,19,Master,Medical,1,High,Male,High,Human Resources,Medium,10725,Excellent,High,Best,No,46-55
+36,Research & Development,9,College,Medical,1,Medium,Male,Medium,Manufacturing Director,Medium,8847,Excellent,High,Better,No,36-45
+27,Research & Development,3,Master,Medical,1,Low,Male,Medium,Research Scientist,Very High,2045,Excellent,Very High,Better,No,26-35
+20,Research & Development,10,Below College,Medical,1,High,Male,High,Research Scientist,High,1009,Excellent,Very High,Better,Yes,18-25
+33,Research & Development,3,Bachelor,Life Sciences,1,Low,Male,High,Research Scientist,Low,3348,Excellent,Low,Better,Yes,26-35
+35,Research & Development,3,Bachelor,Life Sciences,1,High,Male,Medium,Laboratory Technician,High,1281,Excellent,High,Better,No,36-45
+23,Research & Development,4,Bachelor,Medical,1,Low,Male,Very High,Research Scientist,Low,2819,Excellent,Low,Best,No,18-25
+25,Sales,8,Bachelor,Life Sciences,1,High,Male,Very High,Sales Executive,Medium,4851,Outstanding,High,Better,No,26-35
+38,Sales,7,Master,Marketing,1,High,Female,Medium,Sales Executive,Very High,4028,Outstanding,Low,Better,No,36-45
+29,Research & Development,1,Master,Life Sciences,1,Medium,Male,Low,Research Scientist,Very High,2720,Excellent,Very High,Better,No,26-35
+48,Sales,2,Below College,Marketing,1,Medium,Male,Very High,Sales Executive,Medium,8120,Excellent,Very High,Better,No,46-55
+27,Sales,3,Below College,Medical,1,High,Female,Very High,Sales Executive,Very High,4647,Outstanding,Medium,Better,No,26-35
+37,Research & Development,10,College,Life Sciences,1,High,Male,Very High,Research Scientist,Very High,4680,Excellent,Low,Better,No,36-45
+50,Research & Development,28,Below College,Medical,1,High,Male,Very High,Laboratory Technician,High,3221,Excellent,High,Better,No,46-55
+34,Research & Development,9,Bachelor,Medical,1,High,Female,Medium,Healthcare Representative,Medium,8621,Excellent,Medium,Best,No,26-35
+24,Sales,3,College,Life Sciences,1,Low,Female,High,Sales Executive,High,4577,Excellent,Low,Better,Yes,18-25
+39,Research & Development,2,Master,Technical Degree,1,High,Female,Medium,Healthcare Representative,High,4553,Excellent,Low,Better,No,36-45
+32,Sales,10,Bachelor,Marketing,1,High,Male,High,Sales Executive,Very High,5396,Excellent,Very High,Good,No,26-35
+50,Sales,8,College,Technical Degree,1,Medium,Male,High,Sales Executive,High,6796,Excellent,Low,Better,Yes,46-55
+38,Research & Development,1,Master,Life Sciences,1,Medium,Female,Very High,Healthcare Representative,Very High,7625,Excellent,High,Good,No,36-45
+27,Research & Development,1,College,Life Sciences,1,High,Female,High,Manufacturing Director,Low,7412,Excellent,Very High,Better,No,26-35
+32,Research & Development,3,College,Life Sciences,1,High,Female,High,Research Director,Very High,11159,Excellent,Very High,Better,No,26-35
+47,Sales,14,Master,Marketing,1,High,Male,High,Sales Executive,Low,4960,Excellent,Very High,Better,No,46-55
+40,Sales,5,Master,Life Sciences,1,High,Male,Medium,Sales Executive,Low,10475,Outstanding,High,Better,No,36-45
+53,Research & Development,7,Bachelor,Life Sciences,1,High,Male,Very High,Research Director,High,14814,Excellent,High,Better,No,46-55
+41,Human Resources,10,Master,Human Resources,1,Medium,Male,Medium,Manager,Very High,19141,Excellent,Medium,Good,No,36-45
+60,Sales,16,Master,Marketing,1,Low,Male,High,Sales Executive,Low,5405,Excellent,Very High,Better,No,56-65
+27,Research & Development,10,College,Life Sciences,1,High,Male,High,Manufacturing Director,Low,8793,Outstanding,High,Good,No,26-35
+41,Human Resources,1,Bachelor,Human Resources,1,High,Male,Medium,Manager,High,19189,Excellent,Medium,Better,No,36-45
+50,Sales,8,Master,Marketing,1,High,Male,High,Sales Representative,Medium,3875,Excellent,Very High,Better,No,46-55
+28,Research & Development,1,College,Life Sciences,1,Low,Female,Low,Research Scientist,Medium,2216,Excellent,Very High,Better,Yes,26-35
+36,Research & Development,8,Bachelor,Life Sciences,1,Low,Female,Very High,Research Director,Low,11713,Excellent,Low,Better,No,36-45
+38,Research & Development,1,Bachelor,Life Sciences,1,High,Female,High,Manufacturing Director,High,7861,Excellent,Very High,Best,No,36-45
+44,Research & Development,24,Bachelor,Medical,1,Low,Male,Low,Laboratory Technician,High,3708,Excellent,High,Better,No,36-45
+47,Sales,3,Bachelor,Medical,1,High,Female,High,Sales Executive,High,13770,Excellent,Very High,Good,No,46-55
+30,Sales,27,Doctor,Marketing,1,High,Male,High,Sales Executive,Very High,5304,Outstanding,Very High,Good,No,26-35
+29,Sales,10,Bachelor,Life Sciences,1,High,Male,High,Sales Representative,High,2642,Excellent,High,Better,No,26-35
+42,Research & Development,19,Bachelor,Medical,1,High,Male,Very High,Research Scientist,High,2759,Excellent,Very High,Better,Yes,36-45
+43,Sales,15,Bachelor,Life Sciences,1,High,Male,Medium,Sales Executive,Very High,6804,Excellent,High,Better,No,36-45
+34,Research & Development,8,College,Medical,1,Medium,Female,High,Healthcare Representative,High,6142,Excellent,Very High,Better,No,26-35
+23,Research & Development,9,Below College,Medical,1,Medium,Male,High,Laboratory Technician,Low,2500,Excellent,Very High,Best,No,18-25
+39,Human Resources,3,Bachelor,Human Resources,1,High,Female,Very High,Human Resources,Medium,6389,Excellent,High,Bad,No,36-45
+56,Research & Development,9,Bachelor,Medical,1,High,Male,High,Healthcare Representative,Very High,11103,Excellent,High,Good,No,56-65
+40,Research & Development,2,Below College,Medical,1,High,Female,Medium,Research Scientist,Very High,2342,Outstanding,Very High,Good,No,36-45
+27,Research & Development,7,Bachelor,Medical,1,High,Female,Medium,Healthcare Representative,Low,6811,Excellent,Low,Bad,No,26-35
+29,Sales,10,Bachelor,Marketing,1,High,Male,High,Sales Representative,Medium,2297,Excellent,Very High,Better,No,26-35
+53,Research & Development,6,Bachelor,Life Sciences,1,High,Male,High,Laboratory Technician,Very High,2450,Excellent,Very High,Better,No,46-55
+35,Research & Development,2,Master,Life Sciences,1,High,Female,High,Healthcare Representative,Low,5093,Excellent,Low,Best,No,36-45
+32,Research & Development,24,Master,Life Sciences,1,Low,Male,High,Laboratory Technician,Very High,5309,Excellent,Very High,Better,No,26-35
+38,Research & Development,2,Doctor,Medical,1,High,Male,High,Research Scientist,High,3057,Excellent,Medium,Bad,No,36-45
+34,Research & Development,8,Doctor,Life Sciences,1,Medium,Female,High,Manufacturing Director,Low,5121,Excellent,High,Better,No,26-35
+52,Sales,3,Master,Marketing,1,High,Male,Medium,Manager,Low,16856,Excellent,Low,Best,No,46-55
+33,Research & Development,1,Master,Other,1,High,Male,High,Research Scientist,Very High,2686,Excellent,High,Good,Yes,26-35
+25,Sales,26,Below College,Medical,1,High,Female,High,Sales Executive,Very High,6180,Outstanding,Medium,Good,No,26-35
+45,Sales,2,College,Technical Degree,1,Medium,Male,Low,Sales Representative,High,6632,Excellent,Low,Better,No,46-55
+23,Research & Development,10,Below College,Medical,1,Low,Male,Very High,Research Scientist,High,3505,Excellent,Very High,Better,No,18-25
+47,Sales,27,College,Life Sciences,1,Medium,Female,Very High,Sales Executive,High,6397,Excellent,Very High,Better,Yes,46-55
+34,Sales,2,Bachelor,Other,1,High,Male,High,Sales Executive,Very High,6274,Outstanding,High,Better,No,26-35
+55,Research & Development,2,Bachelor,Medical,1,High,Male,High,Manager,Low,19859,Excellent,Very High,Better,Yes,56-65
+36,Sales,8,Master,Life Sciences,1,Low,Male,Medium,Sales Executive,Low,7587,Excellent,Medium,Better,No,36-45
+52,Research & Development,19,Master,Medical,1,High,Male,High,Research Scientist,Very High,4258,Excellent,Low,Better,No,46-55
+26,Research & Development,1,College,Life Sciences,1,Low,Female,Low,Laboratory Technician,Very High,4364,Excellent,Low,Better,No,26-35
+29,Research & Development,27,Bachelor,Medical,1,Medium,Female,High,Healthcare Representative,High,4335,Excellent,Low,Good,No,26-35
+26,Sales,8,Bachelor,Technical Degree,1,High,Male,Medium,Sales Executive,Low,5326,Excellent,High,Good,Yes,26-35
+34,Research & Development,1,Master,Life Sciences,1,Medium,Female,Very High,Research Scientist,Very High,3280,Excellent,High,Better,No,26-35
+54,Research & Development,19,Master,Medical,1,High,Female,High,Manufacturing Director,Low,5485,Excellent,Medium,Better,No,46-55
+27,Sales,8,Below College,Marketing,1,High,Male,High,Sales Executive,Very High,4342,Excellent,Medium,Better,No,26-35
+37,Research & Development,10,Below College,Life Sciences,1,High,Female,High,Research Scientist,Low,2782,Excellent,Medium,Good,No,36-45
+38,Research & Development,2,Master,Life Sciences,1,Low,Female,Very High,Manufacturing Director,Low,5980,Excellent,Very High,Better,No,36-45
+34,Research & Development,2,Master,Medical,1,High,Female,Medium,Research Scientist,Low,4381,Excellent,High,Better,No,26-35
+35,Sales,8,Master,Life Sciences,1,Low,Female,High,Sales Representative,Very High,2572,Excellent,Medium,Good,No,36-45
+30,Research & Development,1,Bachelor,Life Sciences,1,High,Male,Low,Laboratory Technician,High,3833,Outstanding,High,Better,No,26-35
+40,Research & Development,2,College,Medical,1,High,Female,Very High,Healthcare Representative,Medium,4244,Outstanding,Very High,Better,No,36-45
+34,Sales,8,College,Life Sciences,1,High,Female,High,Sales Executive,Low,6500,Excellent,Medium,Better,No,26-35
+42,Research & Development,8,Bachelor,Life Sciences,1,Medium,Male,High,Manager,Very High,18430,Excellent,Medium,Good,No,36-45
+23,Research & Development,6,Bachelor,Life Sciences,1,High,Male,Very High,Laboratory Technician,Low,1601,Outstanding,High,Better,Yes,18-25
+24,Research & Development,9,Bachelor,Life Sciences,1,High,Male,Medium,Laboratory Technician,Medium,2694,Excellent,High,Better,No,18-25
+52,Research & Development,11,Master,Life Sciences,1,High,Female,High,Laboratory Technician,High,3149,Outstanding,Medium,Better,No,46-55
+50,Research & Development,2,Bachelor,Medical,1,High,Male,High,Research Director,High,17639,Excellent,Very High,Better,No,46-55
+29,Research & Development,1,College,Life Sciences,1,Medium,Female,Medium,Laboratory Technician,Low,2319,Excellent,Very High,Better,Yes,26-35
+33,Research & Development,7,Bachelor,Medical,1,High,Male,High,Research Director,High,11691,Excellent,Very High,Best,No,26-35
+33,Sales,16,Bachelor,Marketing,1,Low,Female,High,Sales Executive,Low,5324,Excellent,High,Better,Yes,26-35
+47,Research & Development,2,College,Other,1,High,Female,High,Manager,Very High,16752,Excellent,High,Good,No,46-55
+36,Research & Development,1,Bachelor,Other,1,High,Female,High,Manufacturing Director,Medium,5228,Excellent,Low,Better,No,36-45
+29,Research & Development,23,College,Life Sciences,1,High,Male,Very High,Research Scientist,High,2700,Outstanding,High,Better,No,26-35
+58,Research & Development,2,Master,Life Sciences,1,High,Male,High,Research Director,Medium,19246,Excellent,Very High,Better,Yes,56-65
+35,Research & Development,1,Master,Life Sciences,1,High,Female,Very High,Research Scientist,High,2506,Excellent,High,Better,No,36-45
+42,Research & Development,1,College,Life Sciences,1,High,Female,Medium,Manufacturing Director,Very High,6062,Excellent,Very High,Better,No,36-45
+28,Research & Development,2,Master,Medical,1,High,Male,High,Research Scientist,High,4382,Excellent,Very High,Good,Yes,26-35
+36,Human Resources,13,Bachelor,Human Resources,1,High,Male,High,Human Resources,Medium,2143,Excellent,Medium,Better,No,36-45
+32,Research & Development,4,Bachelor,Life Sciences,1,High,Female,Medium,Manufacturing Director,High,6162,Excellent,High,Better,No,26-35
+40,Research & Development,16,Master,Medical,1,Low,Male,Medium,Laboratory Technician,High,5094,Excellent,Very High,Better,No,36-45
+30,Research & Development,2,Bachelor,Medical,1,High,Female,Medium,Manufacturing Director,Very High,6877,Outstanding,Medium,Good,No,26-35
+45,Research & Development,2,Bachelor,Life Sciences,1,Medium,Female,Medium,Research Scientist,High,2274,Excellent,Very High,Better,No,46-55
+42,Research & Development,29,Bachelor,Life Sciences,1,Medium,Male,High,Manufacturing Director,Medium,4434,Excellent,Very High,Good,No,36-45
+38,Research & Development,12,Bachelor,Life Sciences,1,Low,Male,Medium,Healthcare Representative,Low,6288,Excellent,High,Good,No,36-45
+34,Research & Development,16,Master,Life Sciences,1,High,Female,Medium,Research Scientist,Very High,2553,Excellent,High,Better,No,26-35
+49,Sales,11,Bachelor,Marketing,1,High,Female,High,Sales Executive,Very High,7654,Excellent,Low,Best,Yes,46-55
+55,Sales,2,Below College,Medical,1,High,Male,High,Sales Executive,Very High,5160,Excellent,High,Good,Yes,56-65
+43,Research & Development,14,College,Life Sciences,1,Medium,Male,High,Research Director,Low,17159,Outstanding,High,Better,No,36-45
+27,Research & Development,5,Below College,Technical Degree,1,High,Male,Medium,Research Director,Very High,12808,Excellent,Medium,Better,No,26-35
+35,Research & Development,7,Bachelor,Other,1,High,Male,High,Manufacturing Director,High,10221,Outstanding,Medium,Best,No,36-45
+28,Sales,2,Master,Marketing,1,Medium,Female,High,Sales Executive,Medium,4779,Outstanding,Low,Better,No,26-35
+34,Human Resources,3,College,Human Resources,1,High,Male,High,Human Resources,Very High,3737,Excellent,High,Bad,No,26-35
+26,Research & Development,5,College,Medical,1,High,Female,Medium,Research Scientist,High,2366,Excellent,Low,Better,Yes,26-35
+27,Research & Development,3,Bachelor,Medical,1,High,Male,High,Research Scientist,Very High,1706,Excellent,High,Good,No,26-35
+51,Sales,26,Master,Marketing,1,Low,Female,High,Manager,High,16307,Excellent,High,Good,No,46-55
+44,Research & Development,4,Bachelor,Medical,1,High,Male,High,Healthcare Representative,Medium,5933,Excellent,Very High,Good,No,36-45
+25,Research & Development,2,Below College,Medical,1,Low,Male,Very High,Research Scientist,Low,3424,Excellent,High,Good,No,26-35
+33,Sales,1,Bachelor,Medical,1,Low,Male,Very High,Sales Executive,Low,4037,Outstanding,Low,Better,No,26-35
+35,Research & Development,27,Below College,Medical,1,High,Female,Medium,Research Scientist,Low,2559,Excellent,Very High,Good,No,36-45
+36,Sales,1,College,Life Sciences,1,Medium,Male,High,Sales Executive,Very High,6201,Excellent,Very High,Good,No,36-45
+32,Sales,13,Master,Life Sciences,1,Medium,Male,High,Sales Executive,Very High,4403,Excellent,High,Good,No,26-35
+30,Research & Development,5,Master,Life Sciences,1,Medium,Male,Medium,Research Scientist,Very High,3761,Excellent,Medium,Good,No,26-35
+53,Sales,7,College,Marketing,1,Low,Female,Medium,Sales Executive,Very High,10934,Excellent,Very High,Better,No,46-55
+45,Sales,9,Bachelor,Marketing,1,High,Male,High,Sales Executive,Low,10761,Excellent,High,Better,No,46-55
+32,Research & Development,8,College,Medical,1,High,Female,Very High,Research Scientist,High,5175,Excellent,High,Good,No,26-35
+52,Research & Development,25,Master,Medical,1,High,Female,Medium,Manufacturing Director,Very High,13826,Outstanding,High,Better,No,46-55
+37,Sales,16,Master,Marketing,1,High,Male,Medium,Sales Executive,High,6334,Excellent,Very High,Better,No,36-45
+28,Human Resources,8,College,Medical,1,Medium,Male,Medium,Human Resources,Very High,4936,Excellent,Very High,Better,No,26-35
+22,Research & Development,1,College,Life Sciences,1,High,Male,Medium,Manufacturing Director,Very High,4775,Outstanding,Low,Bad,No,18-25
+44,Research & Development,8,Master,Life Sciences,1,Low,Male,Very High,Laboratory Technician,Very High,2818,Outstanding,High,Good,No,36-45
+42,Research & Development,2,Below College,Medical,1,Medium,Male,High,Research Scientist,Very High,2515,Excellent,Very High,Better,No,36-45
+36,Human Resources,8,Bachelor,Life Sciences,1,Low,Male,Medium,Human Resources,Low,2342,Outstanding,High,Better,No,36-45
+25,Sales,3,Below College,Other,1,High,Male,High,Sales Executive,Low,4194,Excellent,Very High,Better,No,26-35
+35,Research & Development,9,Bachelor,Life Sciences,1,High,Female,Medium,Manufacturing Director,High,10685,Outstanding,Medium,Better,No,36-45
+35,Research & Development,25,Master,Life Sciences,1,High,Female,High,Research Scientist,Medium,2022,Excellent,Low,Good,Yes,36-45
+32,Research & Development,1,Bachelor,Life Sciences,1,High,Male,High,Laboratory Technician,Very High,2314,Excellent,Medium,Better,No,26-35
+25,Sales,4,Below College,Marketing,1,High,Male,Medium,Sales Executive,Low,4256,Excellent,Low,Best,No,26-35
+49,Research & Development,1,Bachelor,Technical Degree,1,High,Female,High,Research Scientist,Low,3580,Excellent,Medium,Better,No,46-55
+24,Research & Development,4,Below College,Life Sciences,1,Low,Male,Medium,Laboratory Technician,Very High,3162,Excellent,Very High,Good,No,18-25
+32,Sales,5,College,Life Sciences,1,Medium,Male,High,Sales Executive,Medium,6524,Excellent,Very High,Better,No,26-35
+38,Sales,9,Bachelor,Marketing,1,Medium,Male,Medium,Sales Representative,Medium,2899,Excellent,Very High,Better,No,36-45
+42,Research & Development,3,Bachelor,Life Sciences,1,High,Female,Very High,Laboratory Technician,Very High,5231,Excellent,Medium,Good,No,36-45
+31,Research & Development,11,Master,Life Sciences,1,High,Male,High,Research Scientist,Very High,2356,Excellent,Medium,Better,No,26-35
+29,Sales,1,Bachelor,Medical,1,Medium,Female,Medium,Sales Representative,High,2800,Excellent,High,Better,Yes,26-35
+53,Sales,8,Bachelor,Marketing,1,Low,Male,High,Sales Executive,Very High,11836,Excellent,High,Better,No,46-55
+35,Research & Development,25,Bachelor,Technical Degree,1,High,Male,Medium,Manufacturing Director,Medium,10903,Excellent,Low,Better,No,36-45
+37,Sales,21,College,Medical,1,High,Female,High,Sales Representative,Very High,2973,Excellent,Medium,Better,No,36-45
+53,Research & Development,23,Master,Life Sciences,1,High,Female,High,Research Director,Very High,14275,Excellent,High,Better,No,46-55
+43,Research & Development,1,Bachelor,Life Sciences,1,High,Female,High,Healthcare Representative,Very High,5562,Excellent,Medium,Good,No,36-45
+47,Sales,2,College,Marketing,1,High,Female,High,Sales Executive,Very High,4537,Outstanding,Low,Better,No,46-55
+37,Sales,19,College,Medical,1,Low,Male,High,Sales Executive,Medium,7642,Excellent,Very High,Better,No,36-45
+50,Research & Development,2,Master,Life Sciences,1,Low,Male,High,Manager,Low,17924,Excellent,Very High,Better,No,46-55
+39,Human Resources,2,Bachelor,Life Sciences,1,High,Female,Medium,Human Resources,Very High,5204,Excellent,High,Better,No,36-45
+33,Human Resources,3,College,Human Resources,1,High,Male,High,Human Resources,Medium,2277,Excellent,High,Best,No,26-35
+32,Research & Development,25,Master,Life Sciences,1,Low,Male,High,Laboratory Technician,Very High,2795,Outstanding,High,Bad,Yes,26-35
+29,Research & Development,7,Below College,Medical,1,Low,Female,Medium,Laboratory Technician,Very High,2532,Excellent,High,Better,No,26-35
+44,Research & Development,9,College,Life Sciences,1,Medium,Male,High,Research Scientist,Low,2559,Excellent,Very High,Better,No,36-45
+28,Sales,5,Master,Medical,1,Low,Male,High,Sales Executive,Very High,4908,Excellent,Medium,Better,No,26-35
+58,Research & Development,2,Below College,Life Sciences,1,High,Male,Medium,Laboratory Technician,Very High,2380,Excellent,Very High,Good,Yes,56-65
+43,Research & Development,8,Bachelor,Life Sciences,1,Low,Female,High,Manufacturing Director,Medium,4765,Outstanding,High,Best,No,36-45
+20,Sales,2,Bachelor,Medical,1,High,Female,Medium,Sales Representative,High,2044,Excellent,Very High,Good,Yes,18-25
+21,Research & Development,18,Below College,Other,1,High,Female,High,Research Scientist,Very High,2693,Excellent,Low,Good,Yes,18-25
+36,Research & Development,14,Below College,Life Sciences,1,High,Male,High,Healthcare Representative,Very High,6586,Excellent,Low,Good,No,36-45
+47,Sales,2,Master,Life Sciences,1,High,Female,Medium,Sales Representative,Very High,3294,Excellent,Low,Good,No,46-55
+22,Research & Development,3,Below College,Life Sciences,1,Medium,Female,High,Manufacturing Director,High,4171,Excellent,Low,Best,Yes,18-25
+41,Research & Development,2,Master,Life Sciences,1,Medium,Female,Low,Laboratory Technician,Very High,2778,Excellent,High,Good,Yes,36-45
+28,Research & Development,9,Bachelor,Medical,1,High,Female,High,Research Scientist,High,2377,Excellent,Medium,Better,No,26-35
+39,Research & Development,6,Bachelor,Medical,1,High,Male,High,Laboratory Technician,Low,2404,Outstanding,Very High,Bad,Yes,36-45
+27,Research & Development,4,Bachelor,Life Sciences,1,Medium,Female,High,Research Scientist,High,2318,Excellent,High,Better,No,26-35
+34,Research & Development,10,Bachelor,Life Sciences,1,Medium,Male,High,Laboratory Technician,Medium,2008,Excellent,Medium,Better,No,26-35
+42,Sales,14,College,Medical,1,High,Female,Medium,Sales Executive,High,6244,Excellent,Low,Better,No,36-45
+33,Research & Development,1,Master,Other,1,High,Male,Medium,Research Scientist,Low,2799,Excellent,Medium,Better,No,26-35
+58,Research & Development,5,Bachelor,Technical Degree,1,High,Female,Medium,Healthcare Representative,Medium,10552,Excellent,Very High,Better,No,56-65
+31,Sales,7,Master,Life Sciences,1,Medium,Male,Medium,Sales Representative,High,2329,Excellent,Medium,Best,No,26-35
+35,Research & Development,21,Below College,Life Sciences,1,High,Female,High,Healthcare Representative,Very High,4014,Outstanding,Very High,Bad,No,36-45
+49,Research & Development,8,College,Other,1,Low,Female,High,Laboratory Technician,Medium,7403,Excellent,High,Good,No,46-55
+48,Research & Development,20,Master,Medical,1,High,Male,High,Research Scientist,High,2259,Excellent,Low,Good,No,46-55
+31,Sales,20,College,Marketing,1,High,Female,High,Sales Executive,High,6932,Excellent,Very High,Good,No,26-35
+36,Research & Development,7,Master,Other,1,Medium,Male,High,Research Scientist,Very High,4678,Excellent,High,Better,No,36-45
+38,Research & Development,1,Bachelor,Technical Degree,1,High,Female,High,Research Director,Low,13582,Excellent,Medium,Better,No,36-45
+32,Research & Development,1,Bachelor,Life Sciences,1,High,Female,Medium,Laboratory Technician,Medium,2332,Outstanding,High,Better,No,26-35
+25,Sales,19,College,Marketing,1,High,Male,Medium,Sales Representative,Medium,2413,Excellent,High,Better,Yes,26-35
+40,Sales,10,Master,Marketing,1,Low,Male,Medium,Sales Executive,Medium,9705,Excellent,Medium,Good,No,36-45
+26,Sales,1,Bachelor,Medical,1,High,Male,Medium,Sales Executive,Low,4294,Excellent,Medium,Better,No,26-35
+41,Research & Development,6,Bachelor,Medical,1,High,Male,High,Laboratory Technician,Low,4721,Excellent,High,Better,No,36-45
+36,Research & Development,2,Master,Medical,1,High,Male,High,Laboratory Technician,High,2519,Outstanding,High,Better,No,36-45
+19,Sales,21,Bachelor,Other,1,High,Male,Medium,Sales Representative,Medium,2121,Excellent,Medium,Best,Yes,18-25
+20,Research & Development,4,Bachelor,Technical Degree,1,Low,Male,High,Laboratory Technician,Low,2973,Excellent,Medium,Better,Yes,18-25
+31,Research & Development,12,Bachelor,Medical,1,High,Female,High,Healthcare Representative,Very High,5855,Excellent,High,Bad,No,26-35
+40,Research & Development,9,Master,Medical,1,High,Male,High,Research Scientist,Medium,3617,Excellent,Very High,Better,No,36-45
+32,Research & Development,3,Master,Medical,1,High,Female,High,Manufacturing Director,Low,6725,Excellent,High,Best,No,26-35
+36,Sales,3,Below College,Life Sciences,1,High,Male,Medium,Sales Executive,Very High,10325,Excellent,Low,Better,Yes,36-45
+33,Research & Development,1,Bachelor,Life Sciences,1,Medium,Female,Medium,Healthcare Representative,Very High,6949,Excellent,Low,Better,No,26-35
+37,Sales,1,Master,Life Sciences,1,Low,Male,Medium,Sales Executive,High,10609,Excellent,High,Bad,Yes,36-45
+45,Research & Development,4,College,Life Sciences,1,High,Male,High,Laboratory Technician,Medium,4447,Excellent,Medium,Good,No,46-55
+29,Sales,20,Bachelor,Technical Degree,1,High,Female,High,Sales Representative,Very High,2157,Excellent,Medium,Better,No,26-35
+35,Sales,18,Bachelor,Medical,1,High,Female,High,Sales Executive,High,4601,Excellent,Medium,Better,No,36-45
+52,Research & Development,1,College,Life Sciences,1,High,Male,High,Manager,Very High,17099,Excellent,Medium,Good,No,46-55
+58,Research & Development,2,Bachelor,Technical Degree,1,High,Male,High,Research Scientist,High,2479,Outstanding,Low,Better,Yes,56-65
+53,Sales,2,College,Medical,1,High,Male,High,Manager,High,14852,Excellent,High,Best,No,46-55
+30,Sales,8,College,Other,1,High,Male,High,Sales Executive,High,7264,Excellent,Low,Best,No,26-35
+38,Sales,10,Bachelor,Technical Degree,1,High,Female,High,Sales Executive,Very High,5666,Excellent,Medium,Better,No,36-45
+35,Sales,3,Master,Life Sciences,1,High,Male,High,Sales Executive,Very High,7823,Excellent,Medium,Better,No,36-45
+39,Sales,2,Doctor,Life Sciences,1,Low,Male,Very High,Sales Executive,High,7880,Excellent,Very High,Better,No,36-45
+40,Sales,24,Bachelor,Life Sciences,1,Medium,Female,Very High,Sales Executive,Medium,13194,Excellent,Very High,Good,Yes,36-45
+47,Research & Development,16,Master,Medical,1,High,Male,Very High,Manufacturing Director,High,5067,Excellent,High,Best,No,46-55
+36,Sales,8,Master,Technical Degree,1,Low,Male,High,Sales Executive,Very High,5079,Excellent,Very High,Better,No,36-45
+31,Research & Development,9,College,Medical,1,High,Male,Medium,Research Scientist,Low,2321,Outstanding,Low,Better,Yes,26-35
+33,Sales,17,Bachelor,Life Sciences,1,High,Male,High,Manager,High,17444,Excellent,Very High,Better,No,26-35
+29,Research & Development,10,Bachelor,Life Sciences,1,High,Female,Medium,Research Scientist,Low,2404,Outstanding,High,Better,Yes,26-35
+33,Research & Development,13,Below College,Life Sciences,1,Medium,Female,High,Research Scientist,Very High,3452,Excellent,Low,Better,No,26-35
+45,Research & Development,1,Master,Medical,1,High,Female,High,Laboratory Technician,Very High,2270,Excellent,Very High,Better,No,46-55
+50,Research & Development,1,College,Medical,1,High,Male,High,Research Director,Very High,17399,Outstanding,High,Good,No,46-55
+33,Research & Development,1,Master,Other,1,High,Female,Very High,Healthcare Representative,Medium,5488,Excellent,Low,Better,No,26-35
+41,Research & Development,9,Bachelor,Medical,1,Low,Male,High,Research Director,High,19419,Excellent,Medium,Best,No,36-45
+27,Research & Development,16,Master,Technical Degree,1,High,Female,High,Laboratory Technician,Medium,2811,Excellent,Medium,Better,No,26-35
+45,Research & Development,23,College,Life Sciences,1,High,Male,High,Laboratory Technician,Low,3633,Excellent,High,Better,No,46-55
+47,Sales,4,College,Life Sciences,1,High,Female,High,Sales Executive,Very High,4163,Excellent,High,Better,No,46-55
+30,Research & Development,22,Bachelor,Life Sciences,1,Low,Female,High,Research Scientist,High,2132,Excellent,Medium,Better,Yes,26-35
+50,Research & Development,24,Bachelor,Life Sciences,1,High,Male,High,Manufacturing Director,High,13973,Excellent,Very High,Better,No,46-55
+38,Research & Development,10,Below College,Medical,1,High,Male,High,Research Scientist,High,2684,Excellent,Medium,Good,No,36-45
+46,Research & Development,7,College,Medical,1,High,Male,High,Manufacturing Director,High,10845,Excellent,Medium,Better,No,46-55
+24,Research & Development,17,Below College,Medical,1,High,Female,Medium,Manufacturing Director,High,4377,Excellent,Medium,Better,No,18-25
+35,Research & Development,14,Master,Other,1,High,Male,Medium,Laboratory Technician,Medium,3743,Outstanding,Very High,Bad,Yes,36-45
+31,Research & Development,1,Below College,Life Sciences,1,High,Female,High,Manufacturing Director,Low,4148,Excellent,High,Better,No,26-35
+18,Research & Development,5,College,Life Sciences,1,Medium,Male,High,Research Scientist,Very High,1051,Excellent,Very High,Better,No,18-25
+54,Research & Development,17,Bachelor,Technical Degree,1,High,Female,High,Manufacturing Director,High,10739,Excellent,High,Better,No,46-55
+35,Research & Development,25,Master,Medical,1,High,Female,High,Healthcare Representative,High,10388,Excellent,High,Good,No,36-45
+30,Research & Development,8,College,Life Sciences,1,Medium,Female,Very High,Research Director,Low,11416,Excellent,High,Good,No,26-35
+20,Research & Development,11,Bachelor,Medical,1,High,Female,Medium,Research Scientist,Low,2600,Excellent,Low,Better,Yes,18-25
+30,Research & Development,5,Bachelor,Medical,1,Medium,Female,High,Laboratory Technician,Medium,2422,Excellent,Low,Better,Yes,26-35
+26,Research & Development,2,College,Medical,1,High,Male,Very High,Manufacturing Director,Very High,5472,Excellent,Medium,Better,No,26-35
+22,Research & Development,8,Below College,Life Sciences,1,Medium,Male,Low,Laboratory Technician,Low,2451,Excellent,Low,Good,No,18-25
+48,Research & Development,6,Bachelor,Life Sciences,1,Low,Male,Medium,Healthcare Representative,High,4240,Excellent,Very High,Better,No,46-55
+48,Research & Development,4,Master,Life Sciences,1,High,Male,Medium,Healthcare Representative,High,10999,Excellent,Medium,Better,No,46-55
+41,Research & Development,7,College,Medical,1,High,Female,High,Manufacturing Director,High,5003,Excellent,Medium,Better,No,36-45
+39,Research & Development,1,Below College,Life Sciences,1,High,Female,Medium,Manufacturing Director,Very High,12742,Excellent,High,Better,No,36-45
+27,Research & Development,2,Master,Life Sciences,1,Low,Female,High,Manufacturing Director,Very High,4227,Excellent,Medium,Better,No,26-35
+35,Research & Development,10,Bachelor,Other,1,Medium,Male,High,Laboratory Technician,Very High,3917,Outstanding,Low,Good,No,36-45
+42,Sales,5,College,Marketing,1,High,Male,High,Manager,High,18303,Excellent,Medium,Best,No,36-45
+50,Research & Development,9,Bachelor,Life Sciences,1,Low,Male,High,Laboratory Technician,Very High,2380,Excellent,Medium,Better,No,46-55
+59,Research & Development,2,Bachelor,Life Sciences,1,High,Female,Medium,Manufacturing Director,Very High,13726,Excellent,Low,Better,No,56-65
+37,Research & Development,11,College,Medical,1,Low,Female,Low,Healthcare Representative,Medium,4777,Excellent,Low,Bad,Yes,36-45
+55,Research & Development,18,Master,Medical,1,High,Male,High,Healthcare Representative,Medium,6385,Excellent,Very High,Better,No,56-65
+41,Research & Development,7,Below College,Life Sciences,1,Medium,Female,Low,Research Director,High,19973,Outstanding,Medium,Better,No,36-45
+38,Sales,3,Master,Life Sciences,1,Medium,Male,High,Sales Executive,Very High,6861,Excellent,High,Better,No,36-45
+26,Sales,29,College,Medical,1,Medium,Male,Low,Sales Executive,Low,4969,Excellent,Very High,Better,Yes,26-35
+52,Sales,2,Below College,Marketing,1,Low,Female,Low,Manager,Very High,19845,Excellent,Very High,Better,Yes,46-55
+44,Sales,28,Bachelor,Medical,1,High,Female,Very High,Sales Executive,Very High,13320,Excellent,High,Better,No,36-45
+50,Sales,1,Bachelor,Life Sciences,1,High,Female,High,Sales Executive,High,6347,Excellent,Low,Better,No,46-55
+36,Research & Development,16,Master,Life Sciences,1,High,Female,Very High,Laboratory Technician,Low,2743,Excellent,High,Better,Yes,36-45
+39,Research & Development,22,Bachelor,Medical,1,High,Female,High,Manufacturing Director,Low,10880,Excellent,High,Better,No,36-45
+33,Sales,8,Below College,Life Sciences,1,Medium,Female,Medium,Sales Representative,Very High,2342,Excellent,Very High,Good,No,26-35
+45,Sales,11,College,Life Sciences,1,High,Female,High,Manager,Very High,17650,Excellent,Medium,Best,No,46-55
+32,Research & Development,29,Master,Medical,1,High,Female,High,Laboratory Technician,High,4025,Excellent,Medium,Better,No,26-35
+34,Sales,1,Master,Marketing,1,Medium,Male,Very High,Sales Executive,Very High,9725,Excellent,Very High,Good,No,26-35
+59,Sales,1,College,Technical Degree,1,Medium,Male,High,Manager,Very High,11904,Excellent,High,Bad,No,56-65
+45,Human Resources,24,Master,Medical,1,Medium,Male,High,Human Resources,Medium,2177,Excellent,Low,Better,No,46-55
+53,Sales,2,Bachelor,Marketing,1,High,Female,Medium,Sales Executive,Medium,7525,Excellent,Low,Better,No,46-55
+36,Research & Development,15,Bachelor,Other,1,Low,Male,High,Laboratory Technician,High,4834,Excellent,Medium,Good,Yes,36-45
+26,Research & Development,2,Bachelor,Life Sciences,1,Low,Male,High,Research Scientist,Low,2042,Excellent,Medium,Better,Yes,26-35
+34,Sales,10,Master,Life Sciences,1,High,Female,High,Sales Representative,High,2220,Excellent,Very High,Better,No,26-35
+28,Sales,10,Below College,Medical,1,High,Male,High,Sales Representative,Medium,1052,Outstanding,Medium,Better,No,26-35
+38,Research & Development,3,Master,Other,1,High,Male,High,Research Scientist,High,2821,Excellent,Low,Better,No,36-45
+50,Research & Development,2,Master,Medical,1,Medium,Male,High,Research Director,High,19237,Excellent,Very High,Good,No,46-55
+37,Research & Development,3,Bachelor,Other,1,High,Female,High,Healthcare Representative,Medium,4107,Excellent,Low,Good,No,36-45
+40,Sales,26,Bachelor,Marketing,1,High,Male,High,Sales Executive,Low,8396,Excellent,Medium,Good,No,36-45
+26,Research & Development,1,Below College,Medical,1,Low,Female,Medium,Research Scientist,High,2007,Excellent,High,Better,No,26-35
+46,Research & Development,1,Master,Medical,1,High,Male,High,Research Director,Very High,19627,Excellent,Very High,Better,No,46-55
+54,Sales,2,Master,Life Sciences,1,High,Female,Medium,Sales Executive,High,10686,Excellent,Medium,Better,No,46-55
+56,Research & Development,9,Bachelor,Medical,1,Low,Female,High,Research Scientist,High,2942,Excellent,Medium,Better,No,56-65
+36,Research & Development,12,Doctor,Medical,1,High,Female,Medium,Manufacturing Director,Very High,8858,Excellent,Medium,Good,No,36-45
+55,Research & Development,2,Below College,Medical,1,High,Male,Medium,Manager,Low,16756,Excellent,Medium,Best,No,56-65
+43,Sales,25,Bachelor,Medical,1,High,Male,Medium,Sales Executive,Very High,10798,Excellent,High,Better,No,36-45
+20,Sales,9,Bachelor,Marketing,1,High,Female,High,Sales Representative,Very High,2323,Excellent,Medium,Better,Yes,18-25
+21,Research & Development,10,Bachelor,Life Sciences,1,High,Female,Medium,Laboratory Technician,Low,1416,Excellent,Low,Good,Yes,18-25
+46,Research & Development,8,Master,Life Sciences,1,High,Female,Medium,Research Scientist,Low,4615,Outstanding,Low,Better,No,46-55
+51,Research & Development,4,Master,Life Sciences,1,Low,Male,High,Research Scientist,High,2461,Excellent,High,Best,Yes,46-55
+28,Research & Development,24,College,Technical Degree,1,Medium,Male,Medium,Healthcare Representative,Low,8722,Excellent,Low,Good,Yes,26-35
+26,Research & Development,1,College,Medical,1,Low,Male,Medium,Laboratory Technician,Low,3955,Excellent,Low,Better,No,26-35
+30,Research & Development,20,Bachelor,Other,1,High,Male,High,Manufacturing Director,Low,9957,Excellent,High,Good,No,26-35
+41,Research & Development,7,College,Technical Degree,1,Medium,Female,Very High,Research Scientist,High,3376,Excellent,High,Better,No,36-45
+38,Research & Development,17,Below College,Life Sciences,1,High,Female,Medium,Healthcare Representative,High,8823,Excellent,Low,Good,No,36-45
+40,Research & Development,20,Master,Technical Degree,1,Low,Male,High,Healthcare Representative,Very High,10322,Outstanding,Very High,Better,No,36-45
+27,Research & Development,8,Doctor,Life Sciences,1,Low,Male,Low,Laboratory Technician,High,4621,Excellent,Very High,Better,No,26-35
+55,Research & Development,2,Below College,Life Sciences,1,High,Male,High,Manufacturing Director,Medium,10976,Excellent,Medium,Better,No,56-65
+28,Research & Development,10,Bachelor,Other,1,High,Female,High,Research Scientist,High,3660,Excellent,Very High,Best,No,26-35
+44,Human Resources,1,College,Medical,1,Medium,Male,Medium,Human Resources,Low,10482,Excellent,Very High,Better,Yes,36-45
+33,Research & Development,5,Bachelor,Life Sciences,1,High,Male,Medium,Healthcare Representative,Very High,7119,Excellent,High,Better,No,26-35
+35,Sales,4,Bachelor,Technical Degree,1,High,Male,High,Sales Executive,Low,9582,Outstanding,Low,Better,Yes,36-45
+33,Research & Development,29,Master,Medical,1,Low,Female,Medium,Research Scientist,High,4508,Outstanding,Medium,Better,Yes,26-35
+28,Research & Development,15,College,Life Sciences,1,Low,Male,High,Laboratory Technician,High,2207,Excellent,Very High,Good,No,26-35
+34,Research & Development,3,Below College,Life Sciences,1,Low,Male,High,Healthcare Representative,Very High,7756,Excellent,High,Good,No,26-35
+37,Sales,10,Master,Life Sciences,1,High,Female,Medium,Sales Executive,Very High,6694,Excellent,High,Better,No,36-45
+25,Research & Development,4,Below College,Technical Degree,1,High,Male,High,Laboratory Technician,Very High,3691,Excellent,Medium,Best,Yes,26-35
+26,Research & Development,21,Bachelor,Medical,1,Low,Male,High,Laboratory Technician,High,2377,Outstanding,High,Good,Yes,26-35
+33,Research & Development,25,Bachelor,Medical,1,Low,Male,Medium,Research Scientist,Medium,2313,Outstanding,Medium,Better,Yes,26-35
+42,Research & Development,2,College,Medical,1,High,Male,High,Manager,Low,17665,Excellent,Very High,Better,No,36-45
+28,Research & Development,1,Bachelor,Medical,1,Low,Male,Medium,Laboratory Technician,Medium,2596,Excellent,Low,Better,Yes,26-35
+50,Sales,1,Master,Other,1,High,Male,High,Sales Executive,High,4728,Excellent,Very High,Better,Yes,46-55
+33,Sales,7,Bachelor,Life Sciences,1,High,Female,High,Sales Executive,Medium,4302,Excellent,High,Better,No,26-35
+34,Research & Development,3,Master,Life Sciences,1,High,Male,Medium,Research Scientist,Very High,2979,Excellent,Very High,Better,No,26-35
+48,Research & Development,1,Master,Medical,1,Low,Male,Very High,Manager,Very High,16885,Outstanding,High,Good,No,46-55
+45,Sales,9,Master,Life Sciences,1,Medium,Female,Medium,Sales Executive,High,5593,Excellent,Very High,Better,No,46-55
+52,Research & Development,7,Master,Life Sciences,1,Medium,Male,High,Healthcare Representative,Medium,10445,Excellent,Very High,Better,No,46-55
+38,Sales,10,Master,Marketing,1,High,Male,Medium,Sales Executive,High,8740,Excellent,Medium,Better,No,36-45
+29,Research & Development,28,Master,Life Sciences,1,High,Female,High,Research Scientist,Very High,2514,Outstanding,Low,Better,No,26-35
+28,Research & Development,3,Bachelor,Medical,1,High,Female,High,Manufacturing Director,Medium,7655,Excellent,Medium,Good,No,26-35
+46,Sales,3,Below College,Marketing,1,Low,Male,High,Manager,High,17465,Excellent,Very High,Better,No,46-55
+38,Sales,2,College,Marketing,1,High,Male,High,Sales Executive,Medium,7351,Excellent,High,Better,No,36-45
+43,Research & Development,27,Bachelor,Life Sciences,1,High,Female,High,Manufacturing Director,Low,10820,Excellent,High,Better,No,36-45
+39,Research & Development,2,Bachelor,Life Sciences,1,Low,Male,High,Healthcare Representative,Very High,12169,Excellent,Very High,Better,Yes,36-45
+40,Research & Development,14,Bachelor,Medical,1,High,Male,Medium,Research Director,High,19626,Excellent,Low,Best,No,36-45
+21,Research & Development,1,Below College,Technical Degree,1,High,Female,Medium,Research Scientist,Medium,2070,Excellent,High,Best,No,18-25
+39,Research & Development,9,Bachelor,Life Sciences,1,High,Male,High,Laboratory Technician,Medium,6782,Excellent,High,Good,No,36-45
+36,Research & Development,18,Master,Life Sciences,1,Low,Male,High,Manufacturing Director,Very High,7779,Outstanding,Low,Better,No,36-45
+31,Sales,20,Bachelor,Life Sciences,1,High,Male,Very High,Sales Representative,Very High,2791,Excellent,Low,Better,No,26-35
+28,Research & Development,2,Below College,Life Sciences,1,Low,Male,Medium,Research Scientist,Medium,3201,Excellent,Low,Bad,No,26-35
+35,Sales,11,College,Marketing,1,High,Male,High,Sales Executive,Very High,4968,Excellent,Very High,Better,No,36-45
+49,Sales,8,Master,Technical Degree,1,High,Male,Medium,Sales Executive,Medium,13120,Excellent,Medium,Better,No,46-55
+34,Research & Development,2,College,Life Sciences,1,High,Male,High,Manufacturing Director,High,4033,Excellent,Very High,Good,No,26-35
+29,Research & Development,10,Bachelor,Life Sciences,1,High,Female,High,Research Scientist,Medium,3291,Excellent,Very High,Good,No,26-35
+42,Research & Development,29,Bachelor,Medical,1,Medium,Male,Low,Laboratory Technician,Very High,4272,Excellent,Low,Better,No,36-45
+29,Research & Development,8,Below College,Medical,1,Medium,Male,Medium,Manufacturing Director,Very High,5056,Excellent,High,Good,No,26-35
+38,Human Resources,1,Bachelor,Human Resources,1,High,Male,Very High,Human Resources,High,2844,Excellent,Very High,Best,No,36-45
+28,Research & Development,6,Bachelor,Life Sciences,1,High,Male,Medium,Research Scientist,High,2703,Excellent,Very High,Better,No,26-35
+18,Research & Development,8,Below College,Medical,1,High,Male,High,Laboratory Technician,High,1904,Excellent,Very High,Better,Yes,18-25
+33,Sales,9,Master,Marketing,1,Low,Female,High,Sales Executive,Low,8224,Excellent,Low,Better,Yes,26-35
+41,Research & Development,12,Master,Life Sciences,1,Medium,Male,High,Laboratory Technician,Very High,4766,Excellent,Low,Better,No,36-45
+31,Research & Development,15,Bachelor,Medical,1,High,Male,High,Laboratory Technician,High,2610,Excellent,High,Good,Yes,26-35
+37,Research & Development,25,College,Medical,1,High,Female,Medium,Healthcare Representative,Very High,5731,Excellent,High,Better,No,36-45
+27,Research & Development,6,Bachelor,Life Sciences,1,High,Male,Medium,Research Scientist,High,2539,Excellent,High,Better,No,26-35
+34,Sales,9,Below College,Life Sciences,1,Medium,Female,High,Sales Executive,High,5714,Outstanding,Low,Good,No,26-35
+35,Human Resources,8,Master,Technical Degree,1,High,Male,High,Human Resources,High,4323,Excellent,Medium,Bad,No,36-45
+29,Sales,23,Below College,Life Sciences,1,High,Female,Medium,Sales Executive,Low,7336,Excellent,Low,Bad,Yes,26-35
+40,Research & Development,9,Master,Medical,1,Medium,Female,High,Research Director,High,13499,Excellent,High,Good,No,36-45
+42,Sales,12,Bachelor,Life Sciences,1,High,Male,High,Sales Executive,Low,13758,Excellent,Medium,Good,Yes,36-45
+42,Sales,4,Master,Marketing,1,Medium,Male,High,Sales Executive,Low,5155,Excellent,Very High,Best,No,36-45
+35,Research & Development,1,Master,Medical,1,High,Male,Medium,Laboratory Technician,High,2258,Excellent,Medium,Better,No,36-45
+24,Research & Development,24,Bachelor,Medical,1,High,Male,High,Laboratory Technician,Medium,3597,Outstanding,Very High,Better,No,18-25
+28,Research & Development,12,Below College,Life Sciences,1,High,Female,High,Laboratory Technician,Very High,2515,Excellent,Very High,Good,Yes,26-35
+26,Research & Development,3,Master,Medical,1,Low,Male,Very High,Laboratory Technician,Very High,4420,Outstanding,Medium,Better,No,26-35
+30,Sales,10,Bachelor,Marketing,1,High,Male,Medium,Sales Executive,High,6578,Excellent,Low,Better,No,26-35
+40,Research & Development,26,College,Medical,1,High,Female,Medium,Research Scientist,Very High,4422,Excellent,Very High,Bad,No,36-45
+35,Research & Development,2,Bachelor,Life Sciences,1,High,Male,Medium,Manufacturing Director,Medium,10274,Excellent,Medium,Best,No,36-45
+34,Research & Development,1,Bachelor,Medical,1,High,Male,Medium,Healthcare Representative,Low,5343,Outstanding,High,Better,No,26-35
+35,Research & Development,4,Master,Other,1,High,Male,Medium,Laboratory Technician,Very High,2376,Excellent,Medium,Best,No,36-45
+43,Sales,9,Bachelor,Marketing,1,Low,Female,Low,Sales Executive,High,5346,Excellent,Medium,Good,Yes,36-45
+32,Sales,2,Below College,Life Sciences,1,High,Female,High,Sales Representative,Low,2827,Excellent,High,Better,No,26-35
+56,Research & Development,4,Master,Technical Degree,1,High,Female,High,Manager,Low,19943,Excellent,Very High,Better,No,56-65
+29,Research & Development,6,Below College,Medical,1,Medium,Female,High,Laboratory Technician,Very High,3131,Excellent,Low,Better,No,26-35
+19,Research & Development,9,College,Life Sciences,1,High,Male,High,Research Scientist,Low,2552,Outstanding,High,Better,No,18-25
+45,Research & Development,7,Bachelor,Medical,1,Low,Female,High,Research Scientist,High,4477,Excellent,High,Good,No,46-55
+37,Research & Development,1,Bachelor,Life Sciences,1,High,Female,Medium,Manufacturing Director,Very High,6474,Excellent,Medium,Good,No,36-45
+20,Research & Development,3,Bachelor,Life Sciences,1,Low,Male,Medium,Laboratory Technician,High,3033,Excellent,Low,Good,No,18-25
+44,Research & Development,10,Master,Life Sciences,1,High,Male,High,Research Scientist,High,2936,Excellent,High,Better,Yes,36-45
+53,Research & Development,7,College,Medical,1,High,Female,High,Manager,High,18606,Excellent,Medium,Better,No,46-55
+29,Research & Development,15,Below College,Life Sciences,1,Medium,Female,Low,Research Scientist,Very High,2168,Excellent,Low,Good,No,26-35
+22,Research & Development,3,Master,Life Sciences,1,High,Male,Medium,Research Scientist,Very High,2853,Excellent,Medium,Better,Yes,18-25
+46,Sales,2,Bachelor,Marketing,1,High,Female,High,Manager,Low,17048,Outstanding,Low,Better,No,46-55
+44,Research & Development,17,Bachelor,Life Sciences,1,High,Male,Low,Research Scientist,High,2290,Excellent,Very High,Better,No,36-45
+33,Human Resources,2,Bachelor,Human Resources,1,Medium,Male,High,Human Resources,High,3600,Excellent,Very High,Better,No,26-35
+41,Research & Development,5,College,Life Sciences,1,Low,Male,Medium,Research Scientist,Low,2107,Excellent,Low,Bad,Yes,36-45
+30,Sales,29,Master,Life Sciences,1,High,Male,High,Sales Executive,Low,4115,Excellent,High,Better,No,26-35
+40,Sales,2,Master,Medical,1,Medium,Male,High,Sales Executive,Medium,4327,Excellent,Very High,Better,No,36-45
+50,Research & Development,2,Bachelor,Medical,1,High,Female,High,Manager,Low,17856,Outstanding,High,Better,No,46-55
+28,Research & Development,19,Master,Medical,1,High,Male,Medium,Laboratory Technician,Low,3196,Excellent,High,Better,No,26-35
+46,Research & Development,15,College,Life Sciences,1,High,Male,High,Research Director,Medium,19081,Excellent,Low,Better,No,46-55
+35,Sales,17,Master,Life Sciences,1,High,Male,High,Sales Executive,Low,8966,Excellent,Very High,Better,No,36-45
+24,Research & Development,17,College,Life Sciences,1,High,Female,High,Laboratory Technician,Medium,2210,Excellent,Low,Bad,Yes,18-25
+33,Sales,25,Bachelor,Medical,1,Medium,Female,High,Sales Executive,High,4539,Excellent,Low,Good,No,26-35
+36,Research & Development,6,Master,Life Sciences,1,High,Male,Low,Laboratory Technician,High,2741,Excellent,High,Better,No,36-45
+30,Research & Development,7,Master,Life Sciences,1,High,Male,High,Laboratory Technician,High,3491,Excellent,Low,Good,No,26-35
+44,Research & Development,29,Master,Other,1,High,Male,High,Research Scientist,Very High,4541,Outstanding,Medium,Better,No,36-45
+20,Sales,21,Bachelor,Marketing,1,High,Male,Very High,Sales Representative,Very High,2678,Excellent,Very High,Better,No,18-25
+46,Research & Development,2,Master,Technical Degree,1,High,Male,High,Manufacturing Director,Very High,7379,Excellent,High,Good,No,46-55
+42,Human Resources,2,Doctor,Medical,1,High,Male,Very High,Human Resources,Low,6272,Excellent,Low,Best,No,36-45
+60,Sales,7,Master,Marketing,1,Medium,Male,Very High,Sales Executive,Very High,5220,Excellent,Medium,Better,No,56-65
+32,Research & Development,13,Bachelor,Other,1,High,Female,Medium,Laboratory Technician,Medium,2743,Outstanding,High,Better,No,26-35
+32,Research & Development,2,College,Life Sciences,1,High,Female,High,Research Scientist,High,4998,Excellent,Very High,Better,No,26-35
+36,Research & Development,1,Bachelor,Technical Degree,1,High,Female,Low,Manufacturing Director,Low,10252,Outstanding,High,Better,No,36-45
+33,Research & Development,9,Bachelor,Medical,1,Low,Male,High,Research Scientist,Very High,2781,Excellent,Medium,Better,No,26-35
+40,Sales,10,Bachelor,Technical Degree,1,Medium,Female,Medium,Sales Executive,Medium,6852,Excellent,Medium,Best,No,36-45
+25,Sales,10,Master,Life Sciences,1,High,Male,High,Sales Executive,Very High,4950,Excellent,Medium,Better,No,26-35
+30,Research & Development,1,Bachelor,Medical,1,High,Male,High,Research Scientist,Medium,3579,Outstanding,Low,Better,No,26-35
+42,Research & Development,26,Doctor,Medical,1,Low,Female,High,Research Director,Low,13191,Excellent,High,Better,No,36-45
+35,Sales,8,College,Marketing,1,High,Female,Medium,Sales Executive,Very High,10377,Excellent,Medium,Good,No,36-45
+27,Research & Development,14,Bachelor,Life Sciences,1,Low,Male,High,Research Scientist,Low,2235,Excellent,Very High,Good,No,26-35
+54,Research & Development,1,Master,Life Sciences,1,High,Female,High,Manufacturing Director,High,10502,Excellent,Low,Bad,No,46-55
+44,Research & Development,2,Below College,Life Sciences,1,Low,Female,Very High,Research Scientist,Very High,2011,Excellent,Very High,Better,No,36-45
+19,Research & Development,10,Bachelor,Medical,1,Low,Female,Medium,Research Scientist,Medium,1859,Outstanding,Medium,Best,Yes,18-25
+29,Research & Development,1,Bachelor,Life Sciences,1,Low,Female,High,Research Scientist,Very High,3760,Excellent,Low,Better,No,26-35
+54,Research & Development,3,Bachelor,Life Sciences,1,High,Male,High,Research Director,Very High,17779,Excellent,Low,Better,No,46-55
+31,Research & Development,11,College,Medical,1,High,Male,High,Healthcare Representative,Low,6833,Excellent,Very High,Good,No,26-35
+31,Research & Development,24,Bachelor,Medical,1,High,Female,Medium,Healthcare Representative,Low,6812,Excellent,Medium,Better,No,26-35
+59,Sales,3,Bachelor,Life Sciences,1,High,Female,Medium,Sales Executive,Very High,5171,Excellent,Very High,Better,No,56-65
+43,Research & Development,3,Bachelor,Life Sciences,1,High,Male,Low,Research Director,Very High,19740,Excellent,Medium,Better,No,36-45
+49,Research & Development,4,College,Medical,1,Low,Male,Medium,Manager,High,18711,Excellent,High,Best,No,46-55
+36,Research & Development,3,Bachelor,Technical Degree,1,High,Male,High,Research Scientist,Medium,3692,Excellent,High,Good,No,36-45
+48,Research & Development,2,College,Technical Degree,1,High,Male,Very High,Laboratory Technician,Medium,2559,Excellent,High,Good,No,46-55
+27,Research & Development,4,College,Life Sciences,1,Low,Male,High,Research Scientist,High,2517,Excellent,Medium,Better,No,26-35
+29,Research & Development,7,Bachelor,Life Sciences,1,High,Male,High,Healthcare Representative,Very High,6623,Excellent,Medium,Better,No,26-35
+48,Research & Development,1,Bachelor,Life Sciences,1,High,Male,Medium,Research Director,Very High,18265,Excellent,High,Best,No,46-55
+29,Research & Development,1,Bachelor,Life Sciences,1,High,Female,Medium,Research Director,Very High,16124,Excellent,Medium,Good,No,26-35
+34,Research & Development,20,Bachelor,Technical Degree,1,High,Female,Very High,Research Scientist,High,2585,Excellent,Very High,Good,No,26-35
+44,Sales,5,Bachelor,Marketing,1,Medium,Male,High,Manager,Medium,18213,Excellent,High,Better,No,36-45
+33,Sales,10,Doctor,Marketing,1,High,Male,Very High,Sales Executive,High,8380,Excellent,Very High,Better,No,26-35
+19,Research & Development,25,Bachelor,Life Sciences,1,Medium,Female,Very High,Research Scientist,Very High,2994,Excellent,Very High,Better,No,18-25
+23,Research & Development,1,College,Life Sciences,1,High,Male,High,Research Scientist,High,1223,Outstanding,Very High,Better,No,18-25
+25,Sales,24,Below College,Life Sciences,1,High,Male,Low,Sales Representative,Very High,1118,Excellent,Very High,Better,Yes,26-35
+26,Research & Development,4,College,Life Sciences,1,High,Male,High,Research Scientist,Very High,2875,Outstanding,Medium,Good,No,26-35
+45,Sales,2,Bachelor,Marketing,1,Low,Female,Low,Manager,Medium,18824,Excellent,Low,Better,Yes,46-55
+55,Research & Development,8,Below College,Medical,1,High,Male,Medium,Healthcare Representative,Medium,13577,Excellent,Very High,Better,No,56-65
+21,Research & Development,10,College,Life Sciences,1,Low,Female,Medium,Laboratory Technician,High,2625,Outstanding,High,Bad,Yes,18-25
+46,Sales,4,College,Marketing,1,High,Female,Medium,Manager,Medium,18789,Excellent,High,Better,No,46-55
+34,Sales,2,Bachelor,Marketing,1,High,Female,High,Sales Executive,Low,4538,Excellent,Very High,Better,No,26-35
+51,Sales,9,Bachelor,Life Sciences,1,High,Male,High,Manager,Medium,19847,Outstanding,Low,Good,No,46-55
+59,Research & Development,18,Master,Medical,1,High,Male,High,Manufacturing Director,Very High,10512,Excellent,Very High,Good,No,56-65
+34,Research & Development,19,Bachelor,Medical,1,High,Female,High,Laboratory Technician,Medium,4444,Excellent,High,Best,No,26-35
+28,Research & Development,1,Master,Medical,1,High,Male,High,Laboratory Technician,High,2154,Excellent,High,Good,No,26-35
+44,Research & Development,4,College,Life Sciences,1,High,Male,Very High,Manager,Low,19190,Excellent,Very High,Good,No,36-45
+34,Human Resources,11,Bachelor,Life Sciences,1,High,Male,Medium,Human Resources,Medium,4490,Excellent,Very High,Best,No,26-35
+35,Research & Development,6,Below College,Life Sciences,1,High,Male,High,Research Scientist,High,3506,Excellent,Very High,Better,No,36-45
+42,Research & Development,7,Master,Medical,1,Medium,Female,Very High,Research Scientist,Medium,2372,Excellent,Very High,Better,No,36-45
+43,Sales,4,Master,Marketing,1,High,Female,Medium,Sales Executive,Very High,10231,Excellent,Very High,Best,No,36-45
+36,Research & Development,2,Master,Life Sciences,1,High,Female,High,Manufacturing Director,Medium,5410,Excellent,Very High,Better,No,36-45
+44,Research & Development,15,Bachelor,Medical,1,Low,Female,High,Healthcare Representative,Very High,7978,Excellent,Very High,Better,Yes,36-45
+28,Research & Development,2,Bachelor,Life Sciences,1,High,Male,Medium,Laboratory Technician,Very High,3867,Excellent,Medium,Better,No,26-35
+51,Research & Development,6,College,Medical,1,Medium,Female,Medium,Laboratory Technician,High,2838,Excellent,Medium,Good,No,46-55
+30,Research & Development,9,College,Medical,1,High,Female,High,Manufacturing Director,High,4695,Excellent,High,Better,No,26-35
+29,Research & Development,7,Bachelor,Technical Degree,1,Medium,Female,High,Laboratory Technician,High,3339,Excellent,Low,Better,Yes,26-35
+28,Research & Development,1,Bachelor,Technical Degree,1,High,Male,High,Research Scientist,Low,2080,Excellent,Medium,Good,No,26-35
+25,Research & Development,1,Bachelor,Medical,1,High,Female,High,Research Scientist,Medium,2096,Excellent,Very High,Good,No,26-35
+32,Sales,8,Bachelor,Medical,1,High,Male,Very High,Sales Executive,Very High,6209,Excellent,High,Best,No,26-35
+45,Research & Development,25,Bachelor,Medical,1,Medium,Female,High,Manager,Medium,18061,Outstanding,High,Better,No,46-55
+39,Research & Development,13,Master,Medical,1,High,Female,Medium,Manager,Medium,17123,Excellent,Very High,Better,No,36-45
+58,Research & Development,23,Master,Life Sciences,1,Low,Male,High,Research Scientist,High,2372,Excellent,Very High,Better,No,56-65
+32,Research & Development,7,College,Life Sciences,1,High,Male,High,Laboratory Technician,High,4883,Excellent,Low,Better,Yes,26-35
+39,Research & Development,23,Bachelor,Medical,1,High,Male,High,Research Scientist,Low,3904,Excellent,Low,Better,Yes,36-45
+30,Research & Development,6,Bachelor,Technical Degree,1,Low,Female,Medium,Laboratory Technician,Very High,4627,Excellent,Low,Better,No,26-35
+36,Research & Development,10,Master,Technical Degree,1,High,Female,High,Healthcare Representative,High,7094,Excellent,Low,Better,No,36-45
+46,Human Resources,1,College,Life Sciences,1,High,Female,High,Human Resources,Low,3423,Excellent,High,Best,No,46-55
+28,Research & Development,1,Bachelor,Life Sciences,1,High,Female,Low,Laboratory Technician,Very High,6674,Excellent,Low,Better,No,26-35
+50,Research & Development,28,Bachelor,Life Sciences,1,High,Female,High,Research Director,Low,16880,Excellent,Medium,Better,No,46-55
+40,Sales,25,Master,Marketing,1,High,Male,Medium,Sales Executive,Medium,9094,Excellent,High,Better,Yes,36-45
+52,Sales,5,Bachelor,Life Sciences,1,Medium,Male,High,Sales Executive,Medium,8446,Excellent,High,Good,Yes,46-55
+30,Research & Development,17,Master,Medical,1,Medium,Female,High,Manager,Low,11916,Outstanding,Very High,Better,No,26-35
+39,Research & Development,18,College,Life Sciences,1,Low,Male,High,Manufacturing Director,High,4534,Excellent,Low,Better,No,36-45
+31,Sales,2,Master,Life Sciences,1,High,Female,High,Sales Executive,High,9852,Excellent,Low,Good,No,26-35
+41,Sales,10,College,Medical,1,High,Male,Low,Sales Executive,Medium,6151,Excellent,Low,Better,No,36-45
+31,Sales,1,Bachelor,Life Sciences,1,High,Female,High,Sales Representative,Medium,2302,Excellent,Low,Best,Yes,26-35
+44,Research & Development,3,Bachelor,Life Sciences,1,Low,Male,High,Laboratory Technician,Low,2362,Excellent,High,Best,Yes,36-45
+42,Research & Development,2,Below College,Life Sciences,1,High,Male,High,Manager,High,17861,Excellent,Very High,Good,No,36-45
+55,Research & Development,2,College,Medical,1,High,Female,Low,Manager,High,19187,Excellent,Very High,Better,No,56-65
+56,Human Resources,8,Master,Life Sciences,1,High,Male,High,Manager,Medium,19717,Excellent,Low,Better,No,56-65
+40,Research & Development,16,College,Life Sciences,1,High,Male,High,Research Scientist,High,3544,Excellent,Medium,Better,No,36-45
+34,Research & Development,9,Bachelor,Life Sciences,1,High,Male,High,Healthcare Representative,Very High,8500,Excellent,Very High,Good,No,26-35
+40,Research & Development,2,Bachelor,Life Sciences,1,High,Male,High,Research Scientist,Very High,4661,Excellent,High,Better,No,36-45
+41,Sales,1,Bachelor,Marketing,1,High,Female,High,Sales Executive,Low,4103,Excellent,Very High,Better,No,36-45
+35,Research & Development,4,Master,Life Sciences,1,High,Male,High,Research Scientist,High,4249,Excellent,Medium,Better,No,36-45
+51,Human Resources,5,Bachelor,Life Sciences,1,High,Male,High,Manager,Medium,14026,Excellent,Medium,Better,No,46-55
+38,Sales,2,College,Life Sciences,1,Medium,Female,High,Sales Executive,Low,6893,Excellent,Very High,Better,No,36-45
+34,Sales,15,College,Medical,1,High,Female,High,Sales Executive,Low,6125,Excellent,Very High,Best,No,26-35
+25,Research & Development,19,Below College,Medical,1,High,Male,High,Laboratory Technician,Very High,3669,Excellent,High,Good,No,26-35
+58,Research & Development,7,Master,Medical,1,High,Female,Medium,Manufacturing Director,Low,10008,Excellent,Very High,Good,Yes,56-65
+40,Research & Development,1,Master,Life Sciences,1,Medium,Male,High,Laboratory Technician,Medium,2387,Outstanding,High,Better,No,36-45
+36,Sales,7,Bachelor,Marketing,1,Low,Female,Very High,Sales Executive,Low,4639,Excellent,Very High,Good,No,36-45
+48,Research & Development,4,Bachelor,Life Sciences,1,High,Male,High,Manufacturing Director,Very High,7898,Excellent,High,Better,No,46-55
+27,Sales,11,Bachelor,Medical,1,High,Female,Very High,Sales Representative,Very High,2534,Excellent,Medium,Better,No,26-35
+51,Research & Development,11,College,Technical Degree,1,High,Female,Medium,Manufacturing Director,Medium,13142,Excellent,Medium,Good,No,46-55
+18,Research & Development,1,Bachelor,Life Sciences,1,High,Female,High,Laboratory Technician,Very High,1611,Excellent,High,Best,No,18-25
+35,Research & Development,1,Bachelor,Medical,1,High,Female,Medium,Laboratory Technician,Very High,5363,Excellent,Medium,Better,No,36-45
+27,Sales,2,Below College,Life Sciences,1,High,Male,Low,Sales Executive,Very High,5071,Outstanding,Medium,Better,No,26-35
+55,Sales,13,Master,Marketing,1,Low,Male,Very High,Sales Executive,High,13695,Excellent,High,Good,Yes,56-65
+56,Research & Development,23,Bachelor,Life Sciences,1,High,Male,High,Manufacturing Director,Medium,13402,Excellent,Low,Better,No,56-65
+34,Research & Development,26,Below College,Technical Degree,1,Low,Female,Medium,Research Scientist,High,2029,Outstanding,High,Better,No,26-35
+40,Research & Development,2,Below College,Medical,1,Medium,Female,Very High,Healthcare Representative,High,6377,Outstanding,Medium,Better,No,36-45
+34,Research & Development,29,Bachelor,Medical,1,Medium,Male,High,Laboratory Technician,High,5429,Excellent,Low,Better,No,26-35
+31,Sales,2,Bachelor,Life Sciences,1,High,Female,Medium,Sales Representative,Very High,2785,Excellent,High,Best,Yes,26-35
+35,Sales,18,Master,Marketing,1,High,Female,High,Sales Executive,High,4614,Excellent,High,Good,Yes,36-45
+38,Research & Development,7,Bachelor,Life Sciences,1,High,Male,Very High,Research Scientist,High,2610,Excellent,Very High,Better,No,36-45
+34,Research & Development,2,Master,Technical Degree,1,High,Female,High,Healthcare Representative,Very High,6687,Excellent,Very High,Best,No,26-35
+28,Sales,26,Bachelor,Life Sciences,1,High,Male,Medium,Sales Executive,Low,4724,Excellent,High,Better,No,26-35
+31,Research & Development,22,Master,Medical,1,High,Male,High,Manufacturing Director,High,6179,Excellent,Very High,Good,Yes,26-35
+39,Sales,21,Master,Life Sciences,1,Low,Male,Medium,Sales Executive,Very High,6120,Excellent,Very High,Best,No,36-45
+51,Sales,2,Bachelor,Marketing,1,Medium,Male,High,Sales Executive,Medium,10596,Excellent,Medium,Better,No,46-55
+41,Research & Development,22,Bachelor,Life Sciences,1,High,Female,High,Research Scientist,Very High,5467,Excellent,Low,Good,No,36-45
+37,Research & Development,4,Below College,Life Sciences,1,High,Male,High,Research Scientist,High,2996,Excellent,Very High,Better,No,36-45
+33,Sales,5,Below College,Life Sciences,1,Medium,Male,High,Sales Executive,Very High,9998,Excellent,Low,Best,No,26-35
+32,Sales,2,Below College,Marketing,1,High,Male,High,Sales Executive,Medium,4078,Excellent,Low,Good,No,26-35
+39,Research & Development,25,College,Life Sciences,1,High,Male,High,Healthcare Representative,High,10920,Outstanding,Medium,Better,No,36-45
+25,Sales,18,Below College,Life Sciences,1,Low,Male,Very High,Sales Executive,High,6232,Excellent,Medium,Good,No,26-35
+52,Research & Development,28,College,Medical,1,High,Female,Very High,Manufacturing Director,High,13247,Excellent,Medium,Good,No,46-55
+43,Research & Development,6,Bachelor,Medical,1,Low,Female,Medium,Research Scientist,High,4081,Excellent,Low,Bad,No,36-45
+27,Sales,10,Bachelor,Marketing,1,High,Female,Medium,Sales Executive,Very High,5769,Excellent,Very High,Better,No,26-35
+27,Research & Development,17,Master,Life Sciences,1,High,Female,High,Research Scientist,High,2394,Excellent,Very High,Better,Yes,26-35
+26,Research & Development,2,Below College,Medical,1,Low,Male,Medium,Research Scientist,Very High,3904,Excellent,Very High,Better,No,26-35
+42,Human Resources,10,Bachelor,Human Resources,1,High,Female,High,Manager,Low,16799,Excellent,High,Better,No,36-45
+52,Research & Development,8,Master,Other,1,High,Female,High,Laboratory Technician,Low,2950,Excellent,High,Bad,No,46-55
+37,Research & Development,11,Bachelor,Medical,1,Low,Female,High,Laboratory Technician,High,3629,Excellent,Low,Better,No,36-45
+35,Research & Development,18,College,Life Sciences,1,High,Male,High,Manufacturing Director,Very High,9362,Excellent,High,Better,No,36-45
+25,Research & Development,1,Bachelor,Technical Degree,1,Low,Male,High,Laboratory Technician,Very High,3229,Excellent,Medium,Good,No,26-35
+26,Research & Development,7,Bachelor,Other,1,High,Male,Very High,Laboratory Technician,Low,3578,Excellent,Very High,Better,No,26-35
+29,Human Resources,17,Bachelor,Other,1,Medium,Male,Medium,Human Resources,Low,7988,Excellent,Low,Good,No,26-35
+49,Research & Development,28,College,Life Sciences,1,Low,Male,Medium,Laboratory Technician,Low,4284,Outstanding,Low,Better,Yes,46-55
+29,Research & Development,14,Below College,Other,1,High,Female,High,Healthcare Representative,Very High,7553,Excellent,Low,Better,Yes,26-35
+54,Research & Development,1,Bachelor,Medical,1,High,Female,High,Research Director,Very High,17328,Excellent,Very High,Good,No,46-55
+58,Research & Development,1,Bachelor,Medical,1,High,Female,High,Research Director,Low,19701,Outstanding,High,Better,No,56-65
+55,Research & Development,1,Master,Medical,1,Medium,Male,Very High,Research Director,Very High,14732,Excellent,Very High,Best,No,56-65
+36,Sales,3,Master,Marketing,1,Low,Female,High,Sales Executive,Medium,9278,Excellent,Very High,Better,No,36-45
+31,Sales,1,Master,Life Sciences,1,Medium,Female,Low,Sales Representative,High,1359,Excellent,Medium,Better,Yes,26-35
+30,Sales,7,Master,Marketing,1,High,Female,High,Sales Executive,Low,4779,Excellent,Medium,Better,No,26-35
+31,Research & Development,8,Doctor,Life Sciences,1,Low,Female,High,Research Director,Medium,16422,Excellent,High,Best,No,26-35
+34,Research & Development,1,Master,Other,1,High,Male,High,Research Scientist,Low,2996,Excellent,High,Better,No,26-35
+31,Research & Development,8,Bachelor,Life Sciences,1,Low,Female,Medium,Research Scientist,Medium,1261,Excellent,High,Best,Yes,26-35
+27,Research & Development,11,Below College,Life Sciences,1,Medium,Male,High,Laboratory Technician,Low,2099,Excellent,Medium,Best,No,26-35
+36,Research & Development,4,Master,Life Sciences,1,Low,Male,Medium,Laboratory Technician,Very High,5810,Excellent,High,Good,No,36-45
+36,Sales,16,Master,Marketing,1,High,Female,Medium,Sales Executive,Low,5647,Excellent,Low,Good,No,36-45
+47,Research & Development,1,Bachelor,Technical Degree,1,Low,Male,High,Research Scientist,Very High,3420,Excellent,High,Good,No,46-55
+25,Sales,9,College,Life Sciences,1,Low,Male,Medium,Sales Representative,Low,4400,Excellent,Low,Better,Yes,26-35
+37,Research & Development,5,College,Technical Degree,1,High,Male,Very High,Laboratory Technician,High,3500,Excellent,Low,Bad,No,36-45
+56,Research & Development,1,College,Life Sciences,1,Low,Female,High,Research Scientist,Low,2066,Outstanding,Very High,Best,No,56-65
+47,Research & Development,2,Master,Medical,1,Low,Female,High,Research Director,High,17169,Excellent,Medium,Best,No,46-55
+24,Sales,4,Below College,Medical,1,High,Female,High,Sales Executive,High,4162,Excellent,High,Better,No,18-25
+32,Sales,7,Doctor,Marketing,1,High,Male,High,Sales Executive,Very High,9204,Excellent,High,Good,No,26-35
+34,Research & Development,1,Bachelor,Life Sciences,1,High,Female,Medium,Laboratory Technician,Medium,3294,Excellent,Low,Good,No,26-35
+41,Research & Development,5,Doctor,Medical,1,Medium,Male,Very High,Research Scientist,High,2127,Excellent,Low,Good,No,36-45
+40,Research & Development,9,Master,Other,1,High,Male,High,Laboratory Technician,High,3975,Excellent,High,Best,No,36-45
+31,Sales,8,College,Life Sciences,1,Low,Male,High,Sales Executive,Very High,10793,Excellent,Low,Better,No,26-35
+46,Sales,9,Bachelor,Marketing,1,Low,Male,High,Sales Executive,Very High,10096,Excellent,Low,Best,Yes,46-55
+39,Research & Development,2,Bachelor,Life Sciences,1,Low,Female,Medium,Laboratory Technician,Low,3646,Outstanding,Medium,Best,Yes,36-45
+31,Research & Development,1,Doctor,Life Sciences,1,High,Female,Very High,Manufacturing Director,Medium,7446,Excellent,Low,Better,Yes,26-35
+45,Research & Development,20,Bachelor,Medical,1,Medium,Male,Low,Healthcare Representative,Low,10851,Excellent,Medium,Better,No,46-55
+31,Human Resources,8,College,Medical,1,High,Female,Very High,Human Resources,Medium,2109,Excellent,Very High,Better,No,26-35
+31,Research & Development,2,Bachelor,Life Sciences,1,Medium,Male,High,Laboratory Technician,Very High,3722,Excellent,High,Bad,Yes,26-35
+45,Research & Development,29,Bachelor,Technical Degree,1,Medium,Male,High,Manufacturing Director,Very High,9380,Excellent,Very High,Best,No,46-55
+48,Sales,7,Bachelor,Marketing,1,High,Male,High,Sales Executive,Low,5486,Excellent,Low,Better,No,46-55
+34,Human Resources,9,Master,Technical Degree,1,Low,Female,High,Human Resources,High,2742,Excellent,Very High,Better,Yes,26-35
+40,Research & Development,8,Below College,Medical,1,High,Male,Medium,Research Director,Medium,13757,Excellent,High,Better,No,36-45
+28,Sales,5,Bachelor,Medical,1,High,Male,High,Sales Executive,Low,8463,Excellent,Very High,Better,No,26-35
+44,Research & Development,5,Bachelor,Life Sciences,1,High,Male,Medium,Laboratory Technician,High,3162,Excellent,Very High,Better,No,36-45
+53,Research & Development,2,Bachelor,Medical,1,High,Male,Very High,Research Director,Medium,16598,Excellent,Medium,Good,No,46-55
+49,Research & Development,5,Master,Technical Degree,1,Low,Male,High,Healthcare Representative,High,6651,Excellent,Medium,Good,No,46-55
+40,Research & Development,2,Bachelor,Medical,1,High,Male,High,Research Scientist,High,2345,Excellent,High,Best,No,36-45
+44,Research & Development,20,Bachelor,Life Sciences,1,High,Male,High,Research Scientist,Medium,3420,Excellent,High,Good,No,36-45
+33,Sales,7,Bachelor,Medical,1,High,Male,High,Sales Executive,Low,4373,Excellent,Low,Better,No,26-35
+34,Sales,3,Bachelor,Other,1,High,Male,Low,Sales Executive,Low,4759,Excellent,Very High,Better,No,26-35
+30,Sales,16,Below College,Life Sciences,1,High,Male,High,Sales Executive,High,5301,Excellent,High,Good,No,26-35
+42,Research & Development,9,College,Medical,1,Low,Female,High,Laboratory Technician,Very High,3673,Excellent,High,Better,No,36-45
+44,Sales,1,Doctor,Marketing,1,Low,Female,High,Sales Executive,High,4768,Excellent,High,Good,No,36-45
+30,Research & Development,7,Bachelor,Technical Degree,1,High,Male,High,Research Scientist,High,1274,Excellent,Medium,Good,No,26-35
+57,Research & Development,1,College,Life Sciences,1,Medium,Male,Very High,Research Scientist,High,4900,Outstanding,Low,Good,No,56-65
+49,Research & Development,7,Master,Life Sciences,1,High,Male,High,Healthcare Representative,Medium,10466,Excellent,Medium,Better,No,46-55
+34,Research & Development,15,Bachelor,Medical,1,Medium,Male,High,Research Director,Low,17007,Excellent,Very High,Good,No,26-35
+28,Sales,1,Bachelor,Technical Degree,1,Low,Male,High,Sales Representative,High,2909,Excellent,Very High,Best,Yes,26-35
+29,Sales,13,Bachelor,Technical Degree,1,Low,Female,High,Sales Executive,Medium,5765,Excellent,Low,Bad,Yes,26-35
+34,Sales,24,Master,Medical,1,Low,Female,Medium,Sales Executive,Medium,4599,Outstanding,High,Best,Yes,26-35
+35,Sales,7,Below College,Life Sciences,1,High,Male,High,Sales Representative,High,2404,Excellent,Low,Better,No,36-45
+24,Research & Development,9,Bachelor,Medical,1,Medium,Male,High,Laboratory Technician,Low,3172,Excellent,High,Good,Yes,18-25
+24,Sales,13,College,Life Sciences,1,High,Female,High,Sales Representative,Medium,2033,Excellent,High,Better,No,18-25
+44,Research & Development,2,Below College,Medical,1,Medium,Male,High,Manufacturing Director,High,10209,Excellent,Medium,Good,No,36-45
+29,Sales,19,Bachelor,Life Sciences,1,High,Male,Medium,Sales Executive,High,8620,Excellent,High,Better,No,26-35
+30,Human Resources,1,Bachelor,Life Sciences,1,High,Male,High,Human Resources,High,2064,Outstanding,Low,Best,No,26-35
+55,Research & Development,4,Master,Life Sciences,1,High,Male,High,Healthcare Representative,High,4035,Excellent,Medium,Better,No,56-65
+33,Research & Development,4,Master,Medical,1,Low,Female,Medium,Laboratory Technician,Medium,3838,Excellent,Very High,Better,No,26-35
+47,Sales,14,Bachelor,Medical,1,High,Female,High,Sales Executive,High,4591,Excellent,High,Good,No,46-55
+28,Research & Development,2,College,Medical,1,High,Male,Medium,Laboratory Technician,Low,2561,Excellent,High,Good,Yes,26-35
+28,Research & Development,1,Bachelor,Life Sciences,1,Low,Male,Medium,Research Scientist,High,1563,Excellent,Very High,Bad,No,26-35
+28,Sales,7,Bachelor,Life Sciences,1,High,Male,High,Sales Executive,Low,4898,Excellent,Very High,Better,No,26-35
+49,Research & Development,3,College,Medical,1,High,Female,Medium,Laboratory Technician,Low,4789,Outstanding,Low,Better,No,46-55
+29,Research & Development,2,Below College,Life Sciences,1,High,Female,High,Laboratory Technician,Medium,3180,Excellent,High,Better,No,26-35
+28,Research & Development,29,Below College,Life Sciences,1,High,Male,Low,Manufacturing Director,Medium,6549,Excellent,Medium,Good,No,26-35
+33,Research & Development,8,Doctor,Life Sciences,1,High,Male,High,Healthcare Representative,High,6388,Excellent,Low,Better,No,26-35
+32,Research & Development,10,Bachelor,Medical,1,High,Male,High,Manager,Very High,11244,Outstanding,Medium,Best,No,26-35
+54,Research & Development,11,Master,Medical,1,Medium,Female,High,Manager,Very High,16032,Outstanding,Low,Better,No,46-55
+29,Research & Development,1,Master,Technical Degree,1,Low,Male,Medium,Research Scientist,Low,2362,Excellent,High,Bad,Yes,26-35
+44,Research & Development,28,Bachelor,Life Sciences,1,High,Male,High,Research Director,Low,16328,Excellent,High,Best,No,36-45
+39,Research & Development,6,Bachelor,Life Sciences,1,Medium,Female,High,Manufacturing Director,Medium,8376,Excellent,Very High,Better,No,36-45
+46,Sales,3,Bachelor,Life Sciences,1,High,Female,High,Manager,Medium,16606,Excellent,Very High,Best,No,46-55
+35,Research & Development,16,Bachelor,Life Sciences,1,High,Female,Medium,Healthcare Representative,Medium,8606,Excellent,Very High,Bad,No,36-45
+23,Research & Development,20,Below College,Life Sciences,1,Low,Male,High,Laboratory Technician,High,2272,Excellent,Medium,Better,No,18-25
+40,Research & Development,9,Master,Life Sciences,1,High,Male,High,Laboratory Technician,Low,2018,Excellent,Medium,Bad,Yes,36-45
+34,Sales,1,Bachelor,Technical Degree,1,High,Male,Medium,Sales Executive,High,7083,Excellent,Very High,Better,No,26-35
+31,Research & Development,3,Bachelor,Life Sciences,1,High,Female,High,Research Scientist,High,4084,Excellent,Low,Bad,Yes,26-35
+50,Research & Development,22,Doctor,Medical,1,High,Male,Low,Research Director,Very High,14411,Excellent,Very High,Better,No,46-55
+34,Sales,7,College,Technical Degree,1,Medium,Male,High,Sales Representative,High,2308,Outstanding,Medium,Better,No,26-35
+42,Research & Development,2,Bachelor,Medical,1,High,Male,Medium,Laboratory Technician,Medium,4841,Excellent,Medium,Better,No,36-45
+37,Research & Development,13,Bachelor,Medical,1,Low,Male,High,Research Scientist,Very High,4285,Excellent,Low,Better,No,36-45
+29,Research & Development,8,Below College,Other,1,High,Female,Low,Healthcare Representative,Low,9715,Excellent,High,Better,No,26-35
+33,Research & Development,25,Bachelor,Life Sciences,1,High,Male,Medium,Manufacturing Director,Medium,4320,Excellent,Very High,Better,No,26-35
+45,Research & Development,28,Bachelor,Technical Degree,1,High,Male,High,Research Scientist,Very High,2132,Outstanding,Very High,Better,No,46-55
+42,Research & Development,2,Bachelor,Life Sciences,1,High,Male,High,Healthcare Representative,Very High,10124,Excellent,High,Bad,No,36-45
+40,Sales,9,College,Medical,1,Low,Male,High,Sales Executive,Low,5473,Excellent,Very High,Best,No,36-45
+33,Research & Development,28,Master,Life Sciences,1,Medium,Male,High,Laboratory Technician,High,5207,Excellent,Medium,Better,No,26-35
+40,Human Resources,6,College,Medical,1,High,Male,High,Manager,Very High,16437,Outstanding,Very High,Better,No,36-45
+24,Research & Development,21,College,Technical Degree,1,High,Male,Medium,Laboratory Technician,Low,2296,Excellent,Medium,Better,No,18-25
+40,Research & Development,8,College,Life Sciences,1,High,Male,High,Healthcare Representative,Very High,4069,Excellent,High,Better,No,36-45
+45,Research & Development,1,Master,Technical Degree,1,Low,Male,High,Healthcare Representative,Medium,7441,Excellent,Low,Better,No,46-55
+35,Sales,28,Master,Life Sciences,1,Medium,Female,Medium,Sales Representative,High,2430,Outstanding,Low,Better,No,36-45
+32,Research & Development,5,College,Life Sciences,1,High,Female,Medium,Research Scientist,Medium,5878,Excellent,Low,Better,No,26-35
+36,Sales,2,Master,Life Sciences,1,High,Male,High,Sales Representative,Very High,2644,Outstanding,Very High,Good,No,36-45
+48,Sales,16,Master,Life Sciences,1,High,Female,High,Sales Executive,High,6439,Excellent,High,Better,No,46-55
+29,Research & Development,9,Bachelor,Life Sciences,1,High,Male,Very High,Research Scientist,High,2451,Excellent,Low,Good,No,26-35
+33,Sales,8,Master,Life Sciences,1,Low,Male,High,Sales Executive,Low,6392,Excellent,Very High,Bad,No,26-35
+30,Sales,1,Bachelor,Life Sciences,1,Medium,Male,Medium,Sales Executive,Low,9714,Excellent,Very High,Better,Yes,26-35
+38,Human Resources,10,Master,Human Resources,1,High,Male,High,Human Resources,High,6077,Excellent,High,Better,No,36-45
+35,Research & Development,1,Bachelor,Medical,1,High,Male,Medium,Laboratory Technician,Low,2450,Excellent,Medium,Better,No,36-45
+30,Sales,29,Master,Technical Degree,1,High,Male,High,Sales Executive,Medium,9250,Excellent,Medium,Better,No,26-35
+35,Research & Development,2,Bachelor,Life Sciences,1,Low,Female,High,Laboratory Technician,Low,2074,Excellent,Very High,Better,Yes,36-45
+53,Research & Development,2,Doctor,Technical Degree,1,High,Female,Medium,Manufacturing Director,Very High,10169,Excellent,Medium,Better,Yes,46-55
+38,Research & Development,2,Bachelor,Medical,1,High,Male,High,Manufacturing Director,Medium,4855,Excellent,Low,Better,Yes,36-45
+32,Research & Development,1,Master,Technical Degree,1,High,Male,High,Research Scientist,Low,4087,Excellent,Medium,Good,No,26-35
+48,Research & Development,15,Master,Other,1,High,Female,High,Research Scientist,Low,2367,Excellent,Very High,Good,No,46-55
+34,Research & Development,7,Master,Medical,1,Low,Male,High,Research Scientist,Very High,2972,Excellent,High,Bad,No,26-35
+55,Sales,26,Doctor,Marketing,1,High,Male,Medium,Manager,Very High,19586,Outstanding,High,Better,No,56-65
+34,Research & Development,1,Master,Life Sciences,1,Medium,Male,High,Research Scientist,Very High,5484,Excellent,Medium,Good,No,26-35
+26,Research & Development,3,Bachelor,Life Sciences,1,Low,Female,High,Research Scientist,Very High,2061,Outstanding,Low,Better,No,26-35
+38,Sales,14,Bachelor,Life Sciences,1,High,Male,High,Sales Executive,Medium,9924,Excellent,Very High,Better,No,36-45
+38,Sales,16,Bachelor,Life Sciences,1,Medium,Female,High,Sales Executive,Medium,4198,Excellent,Medium,Best,No,36-45
+36,Sales,1,Master,Life Sciences,1,Medium,Female,High,Sales Executive,High,6815,Excellent,Low,Better,No,36-45
+29,Research & Development,3,Below College,Medical,1,Medium,Male,High,Laboratory Technician,Low,4723,Excellent,Very High,Better,No,26-35
+35,Research & Development,10,Master,Medical,1,Low,Female,High,Healthcare Representative,High,6142,Excellent,High,Better,No,36-45
+39,Sales,6,Bachelor,Medical,1,High,Male,Very High,Sales Executive,High,8237,Excellent,Low,Better,No,36-45
+29,Research & Development,2,Below College,Life Sciences,1,Low,Male,High,Healthcare Representative,Very High,8853,Excellent,Very High,Best,No,26-35
+50,Sales,9,Bachelor,Marketing,1,High,Male,High,Manager,High,19331,Excellent,High,Better,No,46-55
+23,Research & Development,10,Bachelor,Technical Degree,1,High,Male,Very High,Research Scientist,High,2073,Excellent,Very High,Better,No,18-25
+36,Research & Development,6,Master,Life Sciences,1,Low,Male,Very High,Laboratory Technician,Low,5562,Excellent,Very High,Better,No,36-45
+42,Research & Development,9,College,Other,1,High,Male,Medium,Manager,Very High,19613,Outstanding,Very High,Better,No,36-45
+35,Research & Development,28,Bachelor,Life Sciences,1,Medium,Male,Very High,Laboratory Technician,High,3407,Excellent,Very High,Good,No,36-45
+34,Research & Development,10,Master,Technical Degree,1,High,Male,Medium,Healthcare Representative,High,5063,Excellent,Medium,Good,No,26-35
+40,Sales,14,College,Life Sciences,1,High,Female,High,Sales Executive,Low,4639,Excellent,High,Better,No,36-45
+43,Research & Development,27,Bachelor,Technical Degree,1,High,Male,Very High,Laboratory Technician,Medium,4876,Excellent,High,Better,No,36-45
+35,Research & Development,7,College,Life Sciences,1,High,Male,Medium,Laboratory Technician,Very High,2690,Excellent,Very High,Good,No,36-45
+46,Sales,1,Master,Life Sciences,1,High,Male,Very High,Manager,Low,17567,Excellent,Medium,Bad,No,46-55
+28,Research & Development,24,Bachelor,Medical,1,High,Male,High,Laboratory Technician,Medium,2408,Excellent,High,Better,Yes,26-35
+22,Research & Development,26,College,Other,1,Medium,Female,Medium,Research Scientist,High,2814,Excellent,Medium,Good,No,18-25
+50,Research & Development,20,Doctor,Medical,1,Medium,Male,High,Healthcare Representative,High,11245,Excellent,High,Better,No,46-55
+32,Research & Development,5,Master,Other,1,Medium,Female,Very High,Research Scientist,Very High,3312,Excellent,Very High,Better,No,26-35
+44,Research & Development,7,Bachelor,Medical,1,Medium,Female,High,Research Director,Very High,19049,Excellent,Very High,Good,No,36-45
+30,Research & Development,7,Bachelor,Medical,1,Medium,Male,Medium,Research Scientist,Medium,2141,Excellent,Medium,Good,No,26-35
+45,Research & Development,5,Doctor,Medical,1,High,Female,Low,Laboratory Technician,Low,5769,Excellent,Low,Better,No,46-55
+45,Sales,26,Bachelor,Marketing,1,Low,Male,Medium,Sales Executive,Low,4385,Excellent,Low,Better,No,46-55
+31,Sales,2,Master,Other,1,High,Male,High,Sales Executive,Low,5332,Excellent,Very High,Better,No,26-35
+36,Research & Development,12,Master,Life Sciences,1,High,Female,High,Manufacturing Director,High,4663,Excellent,Medium,Better,No,36-45
+34,Research & Development,10,Master,Life Sciences,1,High,Male,Very High,Manufacturing Director,Very High,4724,Excellent,Low,Better,No,26-35
+49,Research & Development,25,Master,Life Sciences,1,High,Female,High,Laboratory Technician,Low,3211,Excellent,Very High,Good,No,46-55
+39,Research & Development,10,Doctor,Medical,1,Medium,Male,High,Manufacturing Director,Low,5377,Excellent,Very High,Better,No,36-45
+27,Research & Development,19,Bachelor,Other,1,High,Male,Medium,Laboratory Technician,Low,4066,Excellent,Low,Better,No,26-35
+35,Research & Development,18,Doctor,Life Sciences,1,Medium,Male,Very High,Research Scientist,Low,5208,Excellent,Very High,Better,No,36-45
+28,Research & Development,27,Bachelor,Medical,1,Medium,Female,Low,Manufacturing Director,Low,4877,Outstanding,Medium,Good,No,26-35
+21,Research & Development,5,Below College,Medical,1,High,Male,High,Research Scientist,Very High,3117,Excellent,High,Better,No,18-25
+18,Sales,3,College,Medical,1,Medium,Female,High,Sales Representative,Very High,1569,Excellent,High,Best,Yes,18-25
+47,Human Resources,26,Master,Life Sciences,1,High,Female,High,Manager,High,19658,Excellent,High,Better,No,46-55
+39,Research & Development,3,College,Medical,1,High,Male,Medium,Laboratory Technician,High,3069,Excellent,Very High,Better,No,36-45
+40,Research & Development,15,Bachelor,Life Sciences,1,Low,Female,Medium,Manufacturing Director,High,10435,Excellent,Very High,Better,No,36-45
+35,Research & Development,8,Master,Life Sciences,1,High,Female,High,Healthcare Representative,High,4148,Excellent,Very High,Better,No,36-45
+37,Research & Development,19,Bachelor,Life Sciences,1,High,Male,High,Manufacturing Director,High,5768,Excellent,Low,Good,No,36-45
+39,Research & Development,4,Bachelor,Medical,1,Low,Female,High,Manufacturing Director,High,5042,Excellent,Very High,Bad,No,36-45
+45,Research & Development,2,College,Other,1,High,Female,Medium,Manufacturing Director,Very High,5770,Excellent,Low,Better,No,46-55
+38,Research & Development,2,College,Medical,1,High,Female,Medium,Manufacturing Director,High,7756,Excellent,Very High,Best,No,36-45
+35,Sales,10,Bachelor,Medical,1,High,Male,Medium,Sales Executive,Low,10306,Excellent,High,Better,Yes,36-45
+37,Research & Development,10,Bachelor,Medical,1,Medium,Female,High,Research Scientist,Medium,3936,Excellent,Low,Bad,No,36-45
+40,Research & Development,16,Bachelor,Life Sciences,1,High,Female,High,Manufacturing Director,Very High,7945,Excellent,Very High,Good,No,36-45
+44,Human Resources,1,Doctor,Human Resources,1,Low,Male,High,Human Resources,Very High,5743,Excellent,High,Better,No,36-45
+48,Research & Development,4,Doctor,Medical,1,High,Male,Medium,Manager,Very High,15202,Outstanding,Medium,Better,No,46-55
+35,Sales,15,College,Medical,1,Low,Male,Low,Sales Executive,Very High,5440,Excellent,Very High,Good,Yes,36-45
+24,Research & Development,2,Below College,Technical Degree,1,Low,Female,High,Research Scientist,Very High,3760,Excellent,High,Better,No,18-25
+27,Research & Development,8,Bachelor,Medical,1,Medium,Female,Very High,Research Scientist,High,3517,Excellent,Low,Better,No,26-35
+27,Research & Development,2,Bachelor,Medical,1,High,Male,High,Research Scientist,Very High,2580,Excellent,High,Good,No,26-35
+40,Research & Development,7,Bachelor,Life Sciences,1,Low,Male,High,Laboratory Technician,Low,2166,Excellent,Medium,Bad,Yes,36-45
+29,Sales,10,Bachelor,Medical,1,High,Male,Medium,Sales Executive,High,5869,Excellent,High,Better,No,26-35
+36,Research & Development,5,Master,Life Sciences,1,Medium,Female,High,Healthcare Representative,Low,8008,Excellent,High,Better,No,36-45
+25,Research & Development,2,Below College,Life Sciences,1,High,Male,Very High,Manufacturing Director,High,5206,Excellent,High,Better,No,26-35
+39,Research & Development,12,Bachelor,Medical,1,High,Male,High,Manufacturing Director,Medium,5295,Outstanding,High,Better,No,36-45
+49,Research & Development,22,Master,Other,1,Low,Female,High,Research Director,Medium,16413,Excellent,Medium,Better,No,46-55
+50,Research & Development,17,Doctor,Life Sciences,1,High,Female,Medium,Research Director,Low,13269,Excellent,High,Better,No,46-55
+20,Sales,2,Bachelor,Medical,1,High,Female,High,Sales Representative,High,2783,Excellent,Low,Better,No,18-25
+34,Research & Development,3,Bachelor,Life Sciences,1,High,Female,High,Research Scientist,Medium,5433,Excellent,High,Better,No,26-35
+36,Research & Development,7,Bachelor,Life Sciences,1,Low,Male,High,Laboratory Technician,Medium,2013,Excellent,High,Better,No,36-45
+49,Research & Development,6,Below College,Life Sciences,1,High,Female,Medium,Healthcare Representative,High,13966,Excellent,Medium,Better,No,46-55
+36,Research & Development,1,Master,Medical,1,High,Female,Medium,Manufacturing Director,High,4374,Excellent,High,Better,No,36-45
+36,Research & Development,3,College,Life Sciences,1,High,Male,Very High,Healthcare Representative,Low,6842,Outstanding,Low,Better,No,36-45
+54,Research & Development,22,Doctor,Medical,1,Medium,Female,High,Manager,High,17426,Outstanding,High,Better,No,46-55
+43,Research & Development,15,College,Life Sciences,1,High,Male,Medium,Research Director,High,17603,Outstanding,Low,Better,No,36-45
+35,Sales,12,Master,Other,1,High,Male,High,Sales Executive,Very High,4581,Outstanding,Low,Best,Yes,36-45
+38,Research & Development,1,Bachelor,Life Sciences,1,High,Male,High,Research Scientist,Very High,4735,Excellent,Very High,Best,No,36-45
+29,Sales,5,Bachelor,Medical,1,Low,Male,Medium,Sales Executive,Medium,4187,Excellent,Medium,Good,No,26-35
+33,Sales,2,Master,Medical,1,High,Male,High,Sales Executive,Very High,5505,Excellent,High,Better,No,26-35
+32,Research & Development,2,Bachelor,Medical,1,High,Male,High,Research Scientist,Medium,5470,Excellent,High,Good,No,26-35
+31,Sales,5,Master,Life Sciences,1,Low,Female,High,Sales Executive,Very High,5476,Excellent,Low,Better,No,26-35
+49,Research & Development,16,Bachelor,Medical,1,High,Female,High,Laboratory Technician,Low,2587,Excellent,Medium,Good,No,46-55
+38,Research & Development,2,Bachelor,Medical,1,High,Female,Medium,Laboratory Technician,Medium,2440,Outstanding,Medium,Better,No,36-45
+47,Sales,2,Master,Life Sciences,1,Medium,Female,Very High,Manager,Medium,15972,Excellent,High,Better,No,46-55
+49,Research & Development,1,Bachelor,Life Sciences,1,High,Male,High,Manager,High,15379,Excellent,Low,Better,No,46-55
+41,Sales,23,College,Life Sciences,1,High,Male,High,Sales Executive,High,7082,Excellent,Very High,Better,No,36-45
+20,Sales,9,Below College,Life Sciences,1,High,Male,High,Sales Representative,Low,2728,Excellent,Low,Better,No,18-25
+33,Sales,16,Bachelor,Life Sciences,1,High,Female,High,Sales Executive,Very High,5368,Outstanding,High,Better,No,26-35
+36,Research & Development,26,Master,Life Sciences,1,Low,Male,High,Healthcare Representative,High,5347,Excellent,Medium,Good,No,36-45
+44,Human Resources,1,Bachelor,Life Sciences,1,High,Female,High,Human Resources,Very High,3195,Excellent,Low,Better,No,36-45
+23,Research & Development,8,Below College,Medical,1,High,Male,Medium,Laboratory Technician,High,3989,Excellent,Low,Better,Yes,18-25
+38,Research & Development,4,College,Medical,1,High,Female,High,Laboratory Technician,High,3306,Excellent,Very High,Good,No,36-45
+53,Research & Development,24,Master,Medical,1,Medium,Male,Very High,Healthcare Representative,Very High,7005,Excellent,High,Better,No,46-55
+48,Sales,7,College,Medical,1,High,Female,High,Sales Representative,High,2655,Excellent,High,Better,Yes,46-55
+32,Research & Development,2,Master,Life Sciences,1,High,Male,High,Laboratory Technician,Medium,1393,Excellent,Low,Better,Yes,26-35
+26,Research & Development,7,Bachelor,Medical,1,High,Male,High,Laboratory Technician,Very High,2570,Outstanding,High,Better,No,26-35
+55,Research & Development,22,Bachelor,Technical Degree,1,Low,Male,Medium,Research Scientist,Medium,3537,Excellent,Very High,Better,No,56-65
+34,Research & Development,5,College,Medical,1,Medium,Male,Medium,Laboratory Technician,Very High,3986,Excellent,High,Best,No,26-35
+60,Research & Development,1,Master,Medical,1,High,Male,Low,Healthcare Representative,Very High,10883,Outstanding,High,Best,No,56-65
+33,Research & Development,21,Bachelor,Medical,1,Medium,Male,Very High,Laboratory Technician,Medium,2028,Excellent,Very High,Better,No,26-35
+37,Sales,1,Master,Medical,1,High,Male,Low,Sales Executive,Very High,9525,Excellent,High,Good,No,36-45
+34,Research & Development,19,Bachelor,Life Sciences,1,Medium,Female,Medium,Research Scientist,Very High,2929,Excellent,Medium,Better,No,26-35
+23,Sales,7,Bachelor,Life Sciences,1,High,Male,High,Sales Representative,Very High,2275,Outstanding,Medium,Better,Yes,18-25
+44,Research & Development,2,Bachelor,Life Sciences,1,High,Female,Very High,Healthcare Representative,Very High,7879,Excellent,Medium,Better,No,36-45
+35,Research & Development,2,Master,Medical,1,Low,Male,Medium,Research Scientist,Very High,4930,Excellent,High,Best,No,36-45
+43,Sales,2,Bachelor,Medical,1,High,Male,High,Sales Executive,Very High,7847,Excellent,Low,Better,No,36-45
+24,Research & Development,9,Bachelor,Medical,1,High,Male,Very High,Research Scientist,High,4401,Excellent,Very High,Better,No,18-25
+41,Sales,6,Bachelor,Marketing,1,High,Male,High,Sales Executive,High,9241,Excellent,Medium,Better,No,36-45
+29,Research & Development,9,Master,Medical,1,High,Female,High,Laboratory Technician,High,2974,Excellent,High,Better,No,26-35
+36,Sales,2,Master,Life Sciences,1,High,Female,High,Sales Representative,Very High,4502,Excellent,High,Good,No,36-45
+45,Research & Development,1,Below College,Life Sciences,1,High,Male,Medium,Healthcare Representative,High,10748,Outstanding,Very High,Good,No,46-55
+24,Human Resources,22,Below College,Human Resources,1,High,Male,Low,Human Resources,High,1555,Excellent,High,Better,Yes,18-25
+47,Sales,9,Bachelor,Life Sciences,1,High,Male,Low,Sales Executive,High,12936,Excellent,High,Bad,Yes,46-55
+26,Research & Development,17,Master,Medical,1,High,Male,Low,Laboratory Technician,High,2305,Excellent,High,Best,No,26-35
+45,Research & Development,28,College,Technical Degree,1,High,Female,Medium,Research Director,Medium,16704,Excellent,High,Better,No,46-55
+32,Research & Development,10,Bachelor,Life Sciences,1,Low,Male,High,Research Scientist,High,3433,Excellent,Low,Good,No,26-35
+31,Research & Development,2,Master,Life Sciences,1,Medium,Male,High,Laboratory Technician,High,3477,Excellent,Very High,Best,No,26-35
+41,Human Resources,4,Bachelor,Human Resources,1,High,Male,Low,Human Resources,Medium,6430,Excellent,Medium,Better,No,36-45
+40,Research & Development,8,College,Life Sciences,1,Medium,Female,High,Manufacturing Director,Low,6516,Excellent,Medium,Better,No,36-45
+24,Research & Development,29,Below College,Medical,1,Medium,Male,High,Laboratory Technician,Low,3907,Excellent,Medium,Best,No,18-25
+46,Research & Development,13,Master,Life Sciences,1,High,Male,High,Healthcare Representative,Medium,5562,Excellent,Very High,Better,No,46-55
+35,Research & Development,27,Master,Life Sciences,1,High,Male,High,Manufacturing Director,High,6883,Excellent,Medium,Better,No,36-45
+30,Research & Development,16,Below College,Life Sciences,1,Medium,Male,High,Research Scientist,Very High,2862,Excellent,Medium,Good,No,26-35
+47,Sales,2,Master,Marketing,1,High,Male,High,Sales Executive,Medium,4978,Excellent,Very High,Bad,No,46-55
+46,Sales,2,Bachelor,Life Sciences,1,High,Male,High,Sales Executive,Very High,10368,Excellent,Medium,Good,No,46-55
+36,Sales,13,Doctor,Marketing,1,Medium,Male,Medium,Sales Executive,Low,6134,Excellent,Medium,Better,Yes,36-45
+32,Sales,1,College,Life Sciences,1,Low,Male,Low,Sales Executive,Medium,6735,Excellent,Medium,Better,Yes,26-35
+23,Research & Development,4,Below College,Medical,1,High,Female,High,Laboratory Technician,Medium,3295,Excellent,High,Bad,No,18-25
+31,Research & Development,24,Below College,Technical Degree,1,High,Female,High,Manufacturing Director,Very High,5238,Outstanding,Very High,Good,No,26-35
+39,Research & Development,1,Bachelor,Life Sciences,1,High,Male,High,Laboratory Technician,Very High,6472,Excellent,Very High,Better,No,36-45
+32,Sales,19,Bachelor,Life Sciences,1,High,Male,Low,Sales Executive,High,9610,Excellent,High,Bad,No,26-35
+40,Sales,7,Master,Medical,1,Medium,Male,High,Manager,Medium,19833,Excellent,Medium,Good,No,36-45
+45,Human Resources,4,Bachelor,Life Sciences,1,High,Female,Low,Human Resources,High,9756,Outstanding,High,Best,No,46-55
+30,Research & Development,2,Master,Technical Degree,1,High,Female,Medium,Research Scientist,Low,4968,Excellent,Very High,Better,No,26-35
+24,Human Resources,10,Bachelor,Medical,1,Low,Male,High,Human Resources,Very High,2145,Excellent,Very High,Better,No,18-25
+30,Human Resources,8,Bachelor,Human Resources,1,High,Female,Medium,Human Resources,Very High,2180,Excellent,High,Good,Yes,26-35
+31,Sales,5,Bachelor,Technical Degree,1,Low,Male,High,Sales Executive,High,8346,Excellent,High,Better,No,26-35
+27,Research & Development,8,Bachelor,Medical,1,High,Female,High,Research Scientist,Very High,3445,Excellent,High,Good,No,26-35
+29,Sales,9,Bachelor,Marketing,1,Medium,Female,Low,Sales Representative,Medium,2760,Excellent,High,Better,Yes,26-35
+29,Research & Development,1,Bachelor,Life Sciences,1,High,Male,Very High,Healthcare Representative,High,6294,Excellent,Very High,Best,No,26-35
+30,Sales,15,College,Marketing,1,High,Male,Medium,Sales Executive,Low,7140,Excellent,Low,Better,No,26-35
+34,Research & Development,2,Master,Medical,1,High,Male,Very High,Research Scientist,Very High,2932,Excellent,Low,Better,No,26-35
+33,Sales,2,Bachelor,Marketing,1,High,Female,High,Sales Executive,Medium,5147,Excellent,Very High,Good,No,26-35
+49,Sales,11,Master,Marketing,1,High,Female,High,Sales Executive,Very High,4507,Excellent,High,Best,No,46-55
+33,Sales,16,Bachelor,Life Sciences,1,Low,Female,High,Sales Executive,Low,8564,Outstanding,High,Good,Yes,26-35
+38,Research & Development,2,College,Medical,1,High,Female,Medium,Laboratory Technician,Medium,2468,Excellent,Medium,Good,No,36-45
+31,Sales,16,Master,Marketing,1,Low,Male,High,Sales Executive,High,8161,Excellent,Low,Better,Yes,26-35
+29,Research & Development,4,Bachelor,Technical Degree,1,High,Female,Medium,Research Scientist,Low,2109,Excellent,High,Better,No,26-35
+30,Research & Development,16,Bachelor,Life Sciences,1,High,Male,Very High,Healthcare Representative,High,5294,Excellent,High,Better,No,26-35
+32,Research & Development,5,Master,Technical Degree,1,Medium,Male,High,Research Scientist,Medium,2718,Excellent,Medium,Better,No,26-35
+38,Research & Development,18,Bachelor,Medical,1,Medium,Male,Low,Healthcare Representative,Very High,5811,Excellent,High,Better,No,36-45
+43,Research & Development,17,Bachelor,Technical Degree,1,High,Male,Medium,Research Scientist,High,2437,Excellent,Very High,Better,Yes,36-45
+42,Research & Development,12,Bachelor,Medical,1,Medium,Male,High,Laboratory Technician,Medium,2766,Outstanding,Medium,Good,No,36-45
+55,Research & Development,2,Bachelor,Medical,1,High,Male,Medium,Research Director,Low,19038,Excellent,Medium,Better,No,56-65
+33,Research & Development,4,Bachelor,Technical Degree,1,High,Male,High,Research Scientist,Medium,3055,Excellent,Very High,Good,No,26-35
+41,Research & Development,9,Master,Life Sciences,1,High,Male,High,Laboratory Technician,Low,2289,Outstanding,Medium,Better,No,36-45
+34,Sales,10,Bachelor,Life Sciences,1,High,Male,High,Sales Executive,High,4001,Excellent,High,Better,No,26-35
+53,Research & Development,1,Master,Medical,1,Low,Female,Medium,Manufacturing Director,High,12965,Outstanding,Very High,Good,No,46-55
+43,Human Resources,2,Bachelor,Life Sciences,1,Medium,Male,High,Human Resources,Very High,3539,Excellent,Medium,Better,No,36-45
+34,Sales,3,College,Life Sciences,1,High,Female,Low,Sales Executive,Very High,6029,Excellent,Low,Better,No,26-35
+21,Sales,7,Below College,Marketing,1,Medium,Male,High,Sales Representative,Medium,2679,Excellent,Medium,Better,Yes,18-25
+38,Research & Development,6,College,Other,1,High,Female,Medium,Laboratory Technician,High,3702,Excellent,Medium,Better,No,36-45
+22,Research & Development,8,Below College,Medical,1,High,Female,High,Laboratory Technician,Low,2398,Excellent,High,Better,Yes,18-25
+31,Sales,29,Master,Marketing,1,Low,Female,Medium,Sales Executive,Very High,5468,Excellent,Low,Better,No,26-35
+51,Research & Development,3,Bachelor,Technical Degree,1,Low,Female,High,Manager,High,13116,Excellent,Very High,Better,No,46-55
+37,Sales,9,College,Marketing,1,Medium,Male,Medium,Sales Executive,Medium,4189,Excellent,Low,Better,No,36-45
+46,Research & Development,2,Master,Medical,1,High,Male,High,Research Director,Very High,19328,Excellent,High,Better,No,46-55
+36,Research & Development,10,Bachelor,Life Sciences,1,High,Male,High,Healthcare Representative,Low,8321,Excellent,Very High,Better,No,36-45
+44,Research & Development,1,College,Medical,1,High,Male,High,Research Scientist,Medium,2342,Excellent,High,Good,Yes,36-45
+37,Human Resources,8,College,Other,1,High,Male,High,Human Resources,Medium,4071,Excellent,High,Good,No,36-45
+35,Sales,27,Bachelor,Life Sciences,1,High,Male,High,Sales Executive,Very High,5813,Excellent,Very High,Better,Yes,36-45
+33,Research & Development,8,Master,Life Sciences,1,High,Male,Very High,Research Scientist,Low,3143,Excellent,Medium,Better,No,26-35
+28,Research & Development,1,Bachelor,Life Sciences,1,High,Male,High,Research Scientist,Very High,2044,Excellent,High,Best,No,26-35
+39,Research & Development,10,Below College,Medical,1,High,Male,High,Research Director,High,13464,Outstanding,High,Better,No,36-45
+46,Sales,26,College,Life Sciences,1,Medium,Male,Medium,Sales Executive,Medium,7991,Excellent,High,Better,No,46-55
+40,Research & Development,2,College,Life Sciences,1,High,Female,High,Laboratory Technician,Low,3377,Excellent,Very High,Good,No,36-45
+42,Research & Development,13,Bachelor,Medical,1,Medium,Male,Very High,Healthcare Representative,Low,5538,Excellent,High,Good,No,36-45
+35,Research & Development,2,College,Medical,1,Medium,Male,High,Manufacturing Director,Very High,5762,Excellent,High,Better,No,36-45
+38,Human Resources,2,Bachelor,Human Resources,1,Low,Male,High,Human Resources,Medium,2592,Excellent,Very High,Better,No,36-45
+34,Research & Development,9,Master,Life Sciences,1,High,Male,High,Laboratory Technician,Low,5346,Excellent,High,Good,Yes,26-35
+37,Research & Development,10,Master,Medical,1,High,Male,High,Manufacturing Director,Low,4213,Excellent,Medium,Bad,Yes,36-45
+39,Sales,20,Bachelor,Life Sciences,1,High,Male,High,Sales Executive,Very High,4127,Excellent,Very High,Better,No,36-45
+43,Research & Development,9,Bachelor,Life Sciences,1,Low,Male,High,Research Scientist,High,2438,Excellent,High,Good,No,36-45
+41,Research & Development,5,Bachelor,Life Sciences,1,Medium,Male,Very High,Healthcare Representative,Medium,6870,Excellent,Low,Bad,No,36-45
+41,Sales,4,Below College,Marketing,1,High,Female,High,Sales Executive,High,10447,Excellent,Very High,Best,No,36-45
+30,Research & Development,10,Bachelor,Medical,1,Low,Female,High,Manufacturing Director,High,9667,Excellent,Medium,Better,No,26-35
+26,Human Resources,20,College,Medical,1,High,Female,High,Human Resources,Medium,2148,Excellent,High,Better,Yes,26-35
+46,Research & Development,21,College,Medical,1,High,Female,High,Healthcare Representative,Medium,8926,Outstanding,Very High,Best,Yes,46-55
+40,Research & Development,1,Bachelor,Life Sciences,1,High,Female,High,Healthcare Representative,Very High,6513,Excellent,Very High,Better,No,36-45
+34,Sales,8,College,Technical Degree,1,Medium,Male,Very High,Sales Executive,High,6799,Outstanding,High,Better,No,26-35
+58,Sales,2,Bachelor,Medical,1,Medium,Male,High,Manager,Medium,16291,Outstanding,Very High,Good,No,56-65
+35,Research & Development,23,Master,Medical,1,Medium,Male,Low,Laboratory Technician,High,2705,Excellent,Medium,Best,No,36-45
+47,Research & Development,4,Bachelor,Life Sciences,1,High,Female,Medium,Manufacturing Director,Medium,10333,Excellent,High,Better,No,46-55
+40,Research & Development,12,Bachelor,Life Sciences,1,Medium,Female,High,Healthcare Representative,Low,4448,Excellent,Medium,Better,No,36-45
+54,Research & Development,7,Master,Medical,1,High,Female,High,Research Scientist,Very High,6854,Excellent,Medium,Good,No,46-55
+31,Sales,7,Master,Marketing,1,Low,Female,High,Sales Executive,Low,9637,Excellent,Very High,Better,No,26-35
+28,Research & Development,1,Bachelor,Medical,1,High,Female,High,Research Scientist,Low,3591,Outstanding,High,Better,No,26-35
+38,Sales,2,Master,Marketing,1,Medium,Female,Low,Sales Representative,Very High,5405,Outstanding,Low,Good,No,36-45
+26,Sales,10,Bachelor,Medical,1,High,Male,High,Sales Executive,Very High,4684,Excellent,Low,Better,No,26-35
+58,Research & Development,15,Master,Life Sciences,1,Low,Male,High,Research Director,High,15787,Excellent,Medium,Better,No,56-65
+18,Research & Development,14,Bachelor,Medical,1,Medium,Female,High,Research Scientist,High,1514,Excellent,High,Bad,No,18-25
+31,Human Resources,18,Doctor,Human Resources,1,High,Male,Very High,Human Resources,Low,2956,Excellent,High,Better,Yes,26-35
+29,Human Resources,13,Bachelor,Human Resources,1,Low,Male,Medium,Human Resources,Low,2335,Excellent,Very High,Better,Yes,26-35
+45,Sales,2,Master,Life Sciences,1,High,Female,High,Sales Executive,High,5154,Outstanding,Medium,Best,No,46-55
+36,Research & Development,2,Master,Other,1,High,Female,High,Research Scientist,Medium,6962,Outstanding,Very High,Better,No,36-45
+43,Sales,2,Master,Life Sciences,1,Low,Male,High,Sales Executive,Very High,5675,Outstanding,High,Better,No,36-45
+27,Research & Development,5,College,Life Sciences,1,High,Female,High,Laboratory Technician,Very High,2379,Excellent,High,Good,No,26-35
+29,Research & Development,20,Below College,Medical,1,High,Male,High,Laboratory Technician,Very High,3812,Excellent,Medium,Best,No,26-35
+32,Sales,10,Master,Marketing,1,High,Male,High,Sales Executive,Very High,4648,Excellent,High,Best,No,26-35
+42,Research & Development,10,Master,Technical Degree,1,High,Male,High,Research Scientist,High,2936,Outstanding,Medium,Good,No,36-45
+47,Research & Development,9,Master,Life Sciences,1,Medium,Female,High,Laboratory Technician,High,2105,Excellent,High,Better,No,46-55
+46,Research & Development,2,College,Life Sciences,1,High,Male,High,Manufacturing Director,Very High,8578,Excellent,High,Good,No,46-55
+28,Human Resources,1,College,Life Sciences,1,High,Male,High,Human Resources,Very High,2706,Excellent,Medium,Better,No,26-35
+29,Research & Development,29,Below College,Life Sciences,1,High,Male,Low,Healthcare Representative,High,6384,Excellent,Very High,Better,No,26-35
+42,Research & Development,8,Bachelor,Life Sciences,1,High,Male,High,Laboratory Technician,High,3968,Excellent,Very High,Better,No,36-45
+32,Sales,2,Master,Marketing,1,High,Male,Medium,Sales Executive,Medium,9907,Excellent,High,Good,Yes,26-35
+46,Sales,3,Bachelor,Technical Degree,1,Low,Female,Very High,Sales Executive,Low,13225,Excellent,Very High,Better,No,46-55
+27,Sales,23,Below College,Medical,1,Medium,Female,Medium,Sales Representative,High,3540,Outstanding,Very High,Better,No,26-35
+29,Human Resources,6,Below College,Medical,1,High,Male,Medium,Human Resources,Medium,2804,Excellent,Very High,Better,No,26-35
+43,Research & Development,6,Bachelor,Medical,1,Low,Female,Medium,Manager,High,19392,Excellent,Very High,Better,No,36-45
+48,Research & Development,10,Bachelor,Life Sciences,1,High,Male,Medium,Research Director,Medium,19665,Excellent,Very High,Better,No,46-55
+29,Research & Development,24,College,Life Sciences,1,High,Male,Medium,Research Scientist,Very High,2439,Outstanding,Medium,Good,Yes,26-35
+46,Sales,10,Bachelor,Life Sciences,1,High,Female,High,Sales Executive,Medium,7314,Outstanding,High,Better,Yes,46-55
+27,Research & Development,15,Bachelor,Life Sciences,1,High,Female,Medium,Research Scientist,Low,4774,Excellent,Very High,Good,No,26-35
+39,Research & Development,19,Master,Other,1,High,Male,High,Research Scientist,Very High,3902,Excellent,Medium,Better,No,36-45
+55,Research & Development,2,Master,Technical Degree,1,Medium,Male,Medium,Research Scientist,Very High,2662,Outstanding,Medium,Best,No,56-65
+28,Sales,3,Bachelor,Medical,1,Medium,Female,High,Sales Representative,Medium,2856,Excellent,Very High,Better,No,26-35
+30,Sales,9,Bachelor,Medical,1,Medium,Male,High,Sales Representative,Very High,1081,Excellent,High,Good,Yes,26-35
+22,Research & Development,7,Below College,Life Sciences,1,High,Male,High,Research Scientist,Medium,2472,Outstanding,Low,Better,Yes,18-25
+36,Sales,10,Master,Technical Degree,1,Medium,Female,Medium,Sales Executive,High,5673,Excellent,Low,Better,No,36-45
+31,Research & Development,20,Bachelor,Life Sciences,1,Medium,Male,High,Laboratory Technician,High,4197,Excellent,Low,Better,No,26-35
+34,Sales,4,Bachelor,Life Sciences,1,High,Male,High,Sales Executive,Very High,9713,Excellent,Very High,Better,No,26-35
+29,Research & Development,7,Bachelor,Life Sciences,1,High,Male,High,Laboratory Technician,Low,2062,Excellent,Medium,Better,No,26-35
+37,Research & Development,7,Master,Medical,1,High,Male,High,Research Scientist,Low,4284,Outstanding,High,Better,No,36-45
+35,Research & Development,16,College,Other,1,High,Female,Medium,Manufacturing Director,Medium,4788,Excellent,Very High,Better,No,36-45
+45,Research & Development,25,College,Life Sciences,1,Medium,Female,Medium,Manufacturing Director,Very High,5906,Excellent,Very High,Good,No,46-55
+36,Human Resources,2,Below College,Human Resources,1,Medium,Male,Medium,Human Resources,Very High,3886,Outstanding,Very High,Good,No,36-45
+40,Research & Development,1,Master,Life Sciences,1,Low,Male,High,Manager,Low,16823,Excellent,Low,Better,No,36-45
+26,Research & Development,1,College,Life Sciences,1,Medium,Female,Medium,Research Scientist,High,2933,Excellent,High,Good,No,26-35
+27,Sales,2,College,Medical,1,Low,Female,Very High,Sales Executive,High,6500,Excellent,Medium,Good,No,26-35
+48,Research & Development,22,Bachelor,Medical,1,High,Female,High,Manager,Very High,17174,Excellent,Medium,Better,No,46-55
+44,Research & Development,1,Master,Life Sciences,1,Medium,Male,Very High,Healthcare Representative,Low,5033,Excellent,Very High,Better,No,36-45
+34,Research & Development,16,Master,Technical Degree,1,High,Male,Low,Research Scientist,Low,2307,Outstanding,Medium,Better,Yes,26-35
+56,Research & Development,24,College,Life Sciences,1,Low,Male,High,Laboratory Technician,Very High,2587,Excellent,Very High,Better,Yes,56-65
+36,Sales,17,College,Marketing,1,High,Male,Medium,Sales Executive,Medium,5507,Excellent,High,Bad,No,36-45
+41,Sales,8,Bachelor,Marketing,1,High,Female,High,Sales Executive,Medium,4393,Outstanding,High,Better,No,36-45
+42,Research & Development,6,Bachelor,Medical,1,High,Male,High,Research Director,Low,13348,Excellent,Medium,Best,No,36-45
+31,Sales,10,College,Medical,1,High,Female,High,Sales Executive,Very High,6583,Excellent,Very High,Better,No,26-35
+34,Sales,3,Below College,Medical,1,High,Female,Medium,Sales Executive,Very High,8103,Excellent,High,Good,No,26-35
+31,Research & Development,4,Bachelor,Medical,1,Low,Female,Very High,Laboratory Technician,High,3978,Excellent,Medium,Good,No,26-35
+26,Research & Development,6,Bachelor,Other,1,High,Male,Very High,Laboratory Technician,Very High,2544,Excellent,Low,Better,No,26-35
+45,Research & Development,1,Master,Medical,1,Medium,Male,High,Healthcare Representative,High,5399,Excellent,High,Better,No,46-55
+33,Sales,10,Master,Marketing,1,Medium,Male,High,Sales Executive,High,5487,Excellent,Medium,Good,No,26-35
+28,Sales,1,College,Life Sciences,1,High,Male,Medium,Sales Executive,Very High,6834,Excellent,High,Better,No,26-35
+29,Sales,24,Bachelor,Technical Degree,1,High,Male,Very High,Sales Representative,Low,1091,Excellent,Very High,Better,Yes,26-35
+39,Sales,21,Master,Life Sciences,1,Low,Female,Low,Sales Executive,High,5736,Excellent,High,Better,No,36-45
+27,Research & Development,2,Master,Technical Degree,1,Medium,Male,High,Research Scientist,Medium,2226,Excellent,High,Good,No,26-35
+34,Research & Development,22,Master,Other,1,High,Male,Medium,Research Scientist,Very High,5747,Excellent,Medium,Better,No,26-35
+28,Sales,13,College,Marketing,1,High,Female,High,Sales Executive,High,9854,Excellent,Very High,Better,Yes,26-35
+47,Research & Development,14,Master,Technical Degree,1,High,Male,High,Research Scientist,Medium,5467,Excellent,High,Best,No,46-55
+56,Sales,11,Doctor,Marketing,1,High,Female,Medium,Sales Executive,Low,5380,Excellent,High,Better,No,56-65
+39,Research & Development,9,College,Medical,1,Low,Male,High,Manufacturing Director,Low,5151,Outstanding,Very High,Better,No,36-45
+38,Research & Development,8,Bachelor,Medical,1,High,Female,Medium,Research Scientist,Medium,2133,Excellent,High,Better,No,36-45
+58,Sales,21,Bachelor,Life Sciences,1,High,Female,High,Manager,Very High,17875,Excellent,High,Good,No,56-65
+32,Research & Development,5,College,Life Sciences,1,Low,Female,Very High,Research Scientist,High,2432,Excellent,Low,Better,Yes,26-35
+38,Research & Development,9,College,Life Sciences,1,Medium,Male,High,Research Scientist,Very High,4771,Excellent,Very High,Best,No,36-45
+49,Research & Development,2,Below College,Life Sciences,1,Medium,Male,High,Research Director,Very High,19161,Excellent,Very High,Better,No,46-55
+42,Sales,12,Master,Marketing,1,Medium,Male,High,Sales Executive,Very High,5087,Excellent,High,Better,No,36-45
+27,Human Resources,22,Bachelor,Human Resources,1,Low,Female,Medium,Human Resources,Medium,2863,Excellent,Low,Better,Yes,26-35
+35,Sales,18,Master,Medical,1,Medium,Male,High,Sales Executive,Low,5561,Excellent,Very High,Bad,No,36-45
+28,Research & Development,16,Bachelor,Medical,1,High,Male,High,Research Scientist,High,2144,Excellent,High,Good,No,26-35
+31,Research & Development,3,College,Medical,1,High,Male,High,Research Scientist,Low,3065,Excellent,Very High,Best,No,26-35
+36,Research & Development,9,Master,Life Sciences,1,Low,Male,Very High,Laboratory Technician,Medium,2810,Outstanding,Medium,Better,No,36-45
+34,Sales,1,Bachelor,Marketing,1,Low,Male,High,Sales Executive,Very High,9888,Outstanding,Low,Good,No,26-35
+34,Sales,13,Master,Medical,1,High,Male,High,Sales Executive,High,8628,Excellent,High,Good,No,26-35
+26,Research & Development,1,Bachelor,Medical,1,High,Male,High,Laboratory Technician,Low,2867,Excellent,Very High,Good,No,26-35
+29,Research & Development,1,Bachelor,Life Sciences,1,Low,Male,High,Healthcare Representative,Low,5373,Excellent,Low,Good,No,26-35
+32,Research & Development,15,Master,Medical,1,High,Female,High,Healthcare Representative,Very High,6667,Excellent,Medium,Better,No,26-35
+31,Research & Development,1,Bachelor,Life Sciences,1,High,Male,Low,Research Scientist,Low,5003,Outstanding,Medium,Better,No,26-35
+28,Research & Development,17,Bachelor,Technical Degree,1,High,Male,Medium,Laboratory Technician,Very High,2367,Excellent,Low,Good,Yes,26-35
+38,Sales,1,Bachelor,Life Sciences,1,Low,Male,Medium,Sales Representative,Low,2858,Excellent,Low,Good,No,36-45
+35,Sales,7,Master,Life Sciences,1,High,Female,High,Sales Executive,Very High,5204,Excellent,Very High,Better,No,36-45
+27,Sales,9,Bachelor,Marketing,1,High,Male,High,Sales Executive,Very High,4105,Excellent,Low,Better,No,26-35
+32,Research & Development,5,Master,Life Sciences,1,High,Male,Medium,Manufacturing Director,Very High,9679,Outstanding,Medium,Better,No,26-35
+31,Sales,26,Master,Marketing,1,Low,Male,High,Sales Executive,Very High,5617,Excellent,High,Better,Yes,26-35
+53,Sales,24,Master,Life Sciences,1,Low,Male,High,Sales Executive,Low,10448,Excellent,Medium,Good,Yes,46-55
+54,Research & Development,9,College,Life Sciences,1,Low,Female,High,Research Scientist,High,2897,Excellent,High,Good,No,46-55
+33,Research & Development,7,College,Life Sciences,1,High,Male,High,Healthcare Representative,High,5968,Outstanding,High,Better,No,26-35
+43,Research & Development,11,Bachelor,Life Sciences,1,Low,Male,High,Healthcare Representative,High,7510,Excellent,Medium,Better,No,36-45
+38,Human Resources,1,Master,Other,1,High,Male,High,Human Resources,Medium,2991,Excellent,Medium,Better,No,36-45
+55,Human Resources,26,Master,Human Resources,1,High,Male,Very High,Manager,Medium,19636,Excellent,Low,Better,No,56-65
+31,Research & Development,2,Below College,Medical,1,High,Female,Low,Laboratory Technician,Very High,1129,Excellent,High,Better,No,26-35
+39,Sales,15,Master,Marketing,1,Medium,Male,High,Sales Executive,Low,13341,Excellent,Low,Better,No,36-45
+42,Research & Development,23,College,Life Sciences,1,High,Male,Medium,Research Scientist,High,4332,Excellent,Very High,Better,No,36-45
+31,Research & Development,10,Bachelor,Medical,1,High,Female,High,Research Director,High,11031,Outstanding,High,Best,No,26-35
+54,Research & Development,10,Bachelor,Medical,1,High,Female,High,Manufacturing Director,Low,4440,Excellent,Very High,Better,No,46-55
+24,Research & Development,1,College,Life Sciences,1,Medium,Male,Medium,Healthcare Representative,High,4617,Excellent,Medium,Good,No,18-25
+23,Research & Development,12,College,Other,1,High,Male,High,Laboratory Technician,Very High,2647,Excellent,High,Best,No,18-25
+40,Research & Development,11,Bachelor,Technical Degree,1,High,Female,High,Laboratory Technician,High,6323,Excellent,Low,Best,No,36-45
+40,Sales,2,College,Marketing,1,Medium,Female,High,Sales Executive,Medium,5677,Excellent,High,Better,No,36-45
+25,Human Resources,2,Bachelor,Human Resources,1,High,Female,High,Human Resources,Medium,2187,Excellent,High,Better,No,26-35
+30,Research & Development,1,College,Medical,1,High,Male,High,Laboratory Technician,Medium,3748,Excellent,High,Good,No,26-35
+25,Research & Development,2,Below College,Other,1,High,Male,High,Laboratory Technician,High,3977,Excellent,High,Good,No,26-35
+47,Research & Development,25,Bachelor,Medical,1,Low,Male,High,Healthcare Representative,High,8633,Outstanding,Medium,Better,No,46-55
+33,Research & Development,1,College,Medical,1,Medium,Male,Medium,Laboratory Technician,High,2008,Excellent,High,Good,No,26-35
+38,Sales,1,Master,Life Sciences,1,High,Male,High,Sales Executive,Medium,4440,Excellent,Low,Better,No,36-45
+31,Sales,2,College,Life Sciences,1,Low,Male,High,Sales Representative,High,3067,Excellent,High,Better,No,26-35
+38,Research & Development,6,Master,Life Sciences,1,Low,Male,Medium,Manufacturing Director,High,5321,Excellent,Very High,Better,No,36-45
+42,Research & Development,18,Master,Life Sciences,1,High,Male,High,Research Scientist,Low,5410,Excellent,High,Good,No,36-45
+41,Research & Development,1,Bachelor,Life Sciences,1,High,Male,High,Research Scientist,Very High,2782,Outstanding,Low,Better,No,36-45
+47,Research & Development,1,Below College,Medical,1,High,Female,High,Research Director,Medium,11957,Excellent,Low,Bad,No,46-55
+35,Research & Development,11,Master,Medical,1,High,Male,High,Laboratory Technician,High,2660,Excellent,High,Better,No,36-45
+22,Research & Development,1,College,Life Sciences,1,High,Male,High,Research Scientist,High,3375,Excellent,Very High,Best,No,18-25
+35,Research & Development,9,Master,Medical,1,Medium,Male,High,Research Scientist,High,5098,Excellent,Medium,Better,No,36-45
+33,Research & Development,15,College,Medical,1,Medium,Female,High,Healthcare Representative,Very High,4878,Excellent,Low,Better,No,26-35
+32,Research & Development,29,Master,Life Sciences,1,High,Female,Medium,Laboratory Technician,Medium,2837,Excellent,High,Better,No,26-35
+40,Research & Development,1,Master,Life Sciences,1,Low,Male,High,Laboratory Technician,Very High,2406,Excellent,High,Good,No,36-45
+32,Sales,1,Master,Medical,1,Medium,Male,Medium,Sales Representative,Medium,2269,Excellent,Medium,Better,No,26-35
+39,Research & Development,24,Below College,Life Sciences,1,Low,Male,High,Research Scientist,Very High,4108,Excellent,Low,Better,No,36-45
+38,Research & Development,10,Bachelor,Medical,1,Medium,Female,Low,Research Director,High,13206,Excellent,Low,Better,No,36-45
+32,Sales,1,Master,Marketing,1,High,Female,High,Sales Executive,Very High,10422,Excellent,High,Better,No,26-35
+37,Research & Development,10,Bachelor,Life Sciences,1,High,Female,Very High,Research Director,Very High,13744,Outstanding,Low,Better,No,36-45
+25,Sales,8,College,Other,1,Low,Female,High,Sales Executive,High,4907,Outstanding,Medium,Good,No,26-35
+52,Sales,29,Master,Life Sciences,1,Low,Male,High,Sales Representative,Very High,3482,Excellent,Medium,Good,No,46-55
+44,Research & Development,1,Bachelor,Medical,1,Medium,Male,High,Research Scientist,Very High,2436,Excellent,High,Better,No,36-45
+21,Sales,5,Below College,Medical,1,High,Male,High,Sales Representative,Low,2380,Excellent,Very High,Better,No,18-25
+39,Research & Development,9,Bachelor,Life Sciences,1,High,Male,High,Manager,Very High,19431,Excellent,High,Good,No,36-45
+23,Sales,9,Bachelor,Marketing,1,High,Male,High,Sales Representative,Low,1790,Excellent,Low,Good,Yes,18-25
+36,Sales,3,Bachelor,Medical,1,Low,Female,Medium,Sales Executive,Very High,7644,Excellent,High,Better,No,36-45
+36,Research & Development,4,College,Life Sciences,1,High,Female,High,Manufacturing Director,Medium,5131,Excellent,Medium,Better,No,36-45
+56,Research & Development,1,Master,Life Sciences,1,High,Male,High,Healthcare Representative,High,6306,Outstanding,Low,Good,No,56-65
+29,Research & Development,1,Master,Medical,1,Low,Male,High,Research Scientist,Very High,4787,Excellent,Medium,Best,Yes,26-35
+42,Research & Development,2,Bachelor,Life Sciences,1,Low,Male,High,Manager,High,18880,Excellent,Low,Good,No,36-45
+56,Research & Development,7,College,Technical Degree,1,High,Male,High,Laboratory Technician,High,2339,Excellent,Very High,Bad,Yes,56-65
+41,Research & Development,28,Master,Life Sciences,1,Low,Female,Medium,Manufacturing Director,Medium,13570,Outstanding,High,Better,No,36-45
+34,Sales,28,Bachelor,Marketing,1,High,Female,Medium,Sales Executive,High,6712,Outstanding,Very High,Better,No,26-35
+36,Sales,15,Master,Marketing,1,High,Male,Low,Sales Executive,Very High,5406,Outstanding,Low,Good,No,36-45
+41,Sales,3,Bachelor,Life Sciences,1,High,Male,Medium,Sales Executive,Medium,8938,Excellent,High,Better,No,36-45
+32,Research & Development,2,Bachelor,Technical Degree,1,High,Male,High,Research Scientist,Low,2439,Excellent,Very High,Better,No,26-35
+35,Human Resources,26,Master,Life Sciences,1,High,Female,High,Human Resources,Very High,8837,Excellent,High,Better,No,36-45
+38,Sales,10,College,Life Sciences,1,Low,Female,High,Sales Executive,Very High,5343,Excellent,High,Better,No,36-45
+50,Sales,1,Master,Life Sciences,1,Medium,Male,High,Sales Executive,High,6728,Excellent,Very High,Better,Yes,46-55
+36,Sales,11,Master,Marketing,1,Medium,Female,Medium,Sales Executive,Very High,6652,Excellent,Low,Good,No,36-45
+45,Sales,20,Bachelor,Life Sciences,1,High,Female,High,Sales Executive,High,4850,Excellent,High,Better,No,46-55
+40,Research & Development,2,Master,Life Sciences,1,High,Male,Medium,Research Scientist,High,2809,Excellent,Very High,Better,No,36-45
+35,Research & Development,18,Master,Life Sciences,1,High,Male,High,Healthcare Representative,High,5689,Excellent,Very High,Best,No,36-45
+40,Research & Development,2,Master,Medical,1,High,Female,High,Research Scientist,High,2001,Excellent,Medium,Better,No,36-45
+35,Research & Development,1,Master,Life Sciences,1,High,Female,Low,Research Scientist,Very High,2977,Excellent,Very High,Better,No,36-45
+29,Research & Development,13,College,Other,1,High,Male,Medium,Laboratory Technician,Medium,4025,Excellent,Low,Better,No,26-35
+29,Research & Development,28,Master,Medical,1,High,Female,Medium,Research Scientist,Low,3785,Excellent,Medium,Bad,No,26-35
+50,Sales,28,Bachelor,Marketing,1,High,Male,Medium,Sales Executive,Low,10854,Excellent,Medium,Better,Yes,46-55
+39,Sales,24,Below College,Marketing,1,Medium,Female,Medium,Sales Executive,Very High,12031,Excellent,Low,Good,No,36-45
+31,Research & Development,5,Bachelor,Medical,1,Medium,Male,High,Manufacturing Director,Low,9936,Excellent,Medium,Better,No,26-35
+26,Sales,5,Bachelor,Other,1,High,Female,Medium,Sales Representative,High,2966,Excellent,Very High,Better,No,26-35
+36,Research & Development,23,College,Medical,1,High,Male,Very High,Laboratory Technician,Very High,2571,Excellent,High,Better,No,36-45
+39,Research & Development,6,Below College,Medical,1,High,Male,Medium,Healthcare Representative,Low,9991,Excellent,Low,Better,No,36-45
+27,Research & Development,4,Bachelor,Life Sciences,1,Medium,Male,Very High,Manufacturing Director,Medium,6142,Outstanding,Medium,Better,No,26-35
+49,Sales,2,Bachelor,Medical,1,High,Male,Medium,Sales Executive,Medium,5390,Excellent,Very High,Good,No,46-55
+34,Research & Development,8,Bachelor,Medical,1,Medium,Male,Very High,Laboratory Technician,High,4404,Excellent,Low,Best,No,26-35
