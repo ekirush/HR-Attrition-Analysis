@@ -58,3 +58,6 @@ Overall, attrition is predominantly observed among younger age groups, particula
 Additionally, male employees and those working in the R&D and Sales departments exhibit a greater tendency to leave, suggesting that these areas may face specific challenges.
 
 Interestingly, despite higher educational qualifications and closer proximity to the workplace, attrition rates remain a concern. This indicates that other factors, such as the work environment and role-specific pressures, may significantly contribute to employee turnover.
+
+## Tableau Dashboard
+You can also explore this project on Tableau for an interactive visualization experience: [Attrition Dashboard](https://public.tableau.com/app/profile/erastus.irungu/viz/ATTIRITIONHRDASHBOARD/AttiritionHRDashboard?publish=yes)
